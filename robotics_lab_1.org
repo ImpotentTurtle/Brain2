@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62
+:END:
+#+title: Robotics Lab 1
+[[id:bea37de4-c262-4757-be9d-f50f938fd442][ENGR1202 - Labs]]
+
+| Basic Circuit Analysis |
+
+* Circuit 1
+
++ What is the theoretical current through the LED of this Circuit?
+
+  + I = V/R
+
+    + V = 3.3v
+    + R = WBBG = 910Ω (+/-5%)
+
+  + Answer: I = 3.3v / 910 Ω    =   *3.626x10^-3 A (+/- 5%)*
+
+
+* Circuit 2:
+
++ What is the theoretical current through the LED of this circuit?
+
+  + I = V/R
+    + V = 3.3V
+    + R = 910Ω + 910Ω = 1820
+
+  + Answer:  I = 3.3 V / 1820 Ω = *1.813x10^-3 A (+/- 5%)*
+
++ Is the LED brighter or dimmer than in circuit 1? Why?
+
+  +  *It appears to be dimmer, as there is more resistance within the circuit. Less current electrical current equates to less light in this case*
+
+
+* Circuit 3:
+
++ What is the theoretical current through the LED of this circuit?
+
+  + I = V/R
+    + V = 3.3
+    + R = (1/910Ω + 1/910Ω)^-1 = 455 Ω
+
+  + Answer:  I = 3.3 V / 455Ω = *7.253x10^-3 A (+/- 5%)*
+
++ Is the LED brighter or dimmer than in circuit 1? What about circuit 2? Why?
+
+  + *The LED is actually brighter than both Circuit 1 and Circuit 2. This is because in this circuit the LED receives more current thus shines brighter*
+
+
+* Circuit 7

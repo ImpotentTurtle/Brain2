@@ -2,6 +2,17 @@
 :ID:       f2560c46-c41a-426b-8f2f-8af2f76ff43d
 :END:
 #+title: ENGR1202
-[[id:8cabc425-76ae-43ec-b022-2af6bf6f3f6f][Computer Engineering]]
+[[id:b88a938f-9c19-4f3d-9897-1f9c1ead0ddf][Junior Year]]
 
 | Intro to Engineering Practices & Principles II |
+
+* Notes
+:PROPERTIES:
+:ID:       e05505b7-b4b2-4a62-b409-9bc0d29d8cb3
+:END:
+
+
+* Labs
+:PROPERTIES:
+:ID:       bea37de4-c262-4757-be9d-f50f938fd442
+:END:

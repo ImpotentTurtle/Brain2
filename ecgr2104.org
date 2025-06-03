@@ -2,6 +2,16 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
-[[id:8cabc425-76ae-43ec-b022-2af6bf6f3f6f][Computer Engineering]]
+[[id:b88a938f-9c19-4f3d-9897-1f9c1ead0ddf][Junior Year]]
 
 | Computer Engineering Programming II |
+
+* Notes
+:PROPERTIES:
+:ID:       9a465709-df21-4e37-9c16-efd2e9244729
+:END:
+
+* Projects
+:PROPERTIES:
+:ID:       39ae7a57-b49f-4a59-8f58-8e33f71df8a7
+:END:

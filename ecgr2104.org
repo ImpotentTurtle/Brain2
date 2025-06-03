@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
+:END:
+#+title: ECGR2104
+[[id:8cabc425-76ae-43ec-b022-2af6bf6f3f6f][Computer Engineering]]
+
+| Computer Engineering Programming II |

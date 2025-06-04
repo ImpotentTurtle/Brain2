@@ -3,7 +3,7 @@ name: Publish Org-roam UI
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 permissions:

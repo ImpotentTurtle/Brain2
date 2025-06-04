@@ -33,3 +33,14 @@
 + Sophomore
 
 +  [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]
+
+* Work
+:PROPERTIES:
+:ID:       15f222bc-068a-4bb0-b6ca-e9acf394427b
+:END:
+
+| This is the Central Node where I keep my work documents |
+
+** Comapny
+
++ [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]

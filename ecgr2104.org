@@ -2,7 +2,7 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
-[[id:b88a938f-9c19-4f3d-9897-1f9c1ead0ddf][Junior Year]]
+ [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior Year]]: Summer Session
 
 | Computer Engineering Programming II |
 

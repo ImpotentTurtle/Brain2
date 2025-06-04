@@ -2,7 +2,7 @@
 :ID:       f2560c46-c41a-426b-8f2f-8af2f76ff43d
 :END:
 #+title: ENGR1202
-[[id:b88a938f-9c19-4f3d-9897-1f9c1ead0ddf][Junior Year]]
+[[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior Year]]: Summer Session
 
 | Intro to Engineering Practices & Principles II |
 

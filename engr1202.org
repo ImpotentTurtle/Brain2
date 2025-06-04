@@ -9,12 +9,14 @@
 * Notes
 :PROPERTIES:
 :ID:       e05505b7-b4b2-4a62-b409-9bc0d29d8cb3
+:ROAM_ALIASES: engr1202-notes
 :END:
 
 
 * Labs
 :PROPERTIES:
 :ID:       bea37de4-c262-4757-be9d-f50f938fd442
+:ROAM_ALIASES: engr1202-labs
 :END:
 
 + [[id:0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62][Robotics Lab 1]]: Basic Circuit Analysis

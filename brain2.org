@@ -23,11 +23,13 @@
 
 | This is the 'Central Node' of my brain dedicated to my College Career (Junior - Senior) |
 
-** Junior Year
-:PROPERTIES:
-:ID:       b88a938f-9c19-4f3d-9897-1f9c1ead0ddf
-:END:
+| Year |
 
++ Freshman
+
++ Sophomore
+
++  [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]
 | Courses |
 + [[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104: ]]Computer Engineering Programming II
 + [[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202: ]]Intro to Engineering Practices & Principles II

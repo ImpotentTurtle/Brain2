@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8f66a02f-5cbd-4309-97b3-636bcf7453d3
+:END:
+#+title: Junior
+
+[[id:][]]

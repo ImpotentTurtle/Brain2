@@ -49,3 +49,11 @@
 
 
 * Circuit 7
+
++ Do you think the LED is brighter here than in circuit1? Why or why not?
+
+  + *I would have assumed the light would be dimmer due two resistors. It's hard to tell but it may actually be comparably bright (maybe brighter) due to the transistor I think*
+
++ Did you encounter any issues assembling the circuit? What were they and how did you resolve them?
+
+  + *Yes I did. I was able to succesfully put the circuit together nearly flawless. However, my LED was in backwards - thus preventing the bulb to illuminate.*

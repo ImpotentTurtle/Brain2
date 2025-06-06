@@ -12,7 +12,7 @@
 :ID:       839106ac-a477-47f9-9745-13b5d7b8176c
 :END:
 
-| This is a 'Central Node' that holds my projects/ideas (and all of their respective details/progress) |
+|This is a 'Central Node' that holds my projects/ideas (and all of their respective details/progress)
 
 ** index
 + [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]: 'Smart Mirror' concept for Julie
@@ -25,7 +25,7 @@
 :ID:       8cabc425-76ae-43ec-b022-2af6bf6f3f6f
 :END:
 
-| This is the 'Central Node' that is dedicated to my College Career (Junior - Senior)     |
+|This is the 'Central Node' that is dedicated to my College Career (Junior - Senior)
 
 *Year:*
 + Freshman
@@ -39,7 +39,7 @@
 :ID:       15f222bc-068a-4bb0-b6ca-e9acf394427b
 :END:
 
-| This is the Central Node where I keep my work documents |
+|This is the Central Node where I keep my work documents
 
 ** Comapny
 

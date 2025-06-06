@@ -7,9 +7,17 @@
 | Course List: |
 
 * Summer Session
+:PROPERTIES:
+:ID:       c3c6c95b-cb71-45eb-bb43-f6dbe5082b60
+:END:
 
 + [[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]] - Computer Engineering Programming II
 
 + [[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202]] - Intro to Engineering Practices & Principles II
 
 + [[id:e71ee2fd-ae53-401c-9bca-69c678616eae][PHYS2102]] - Physics for Science & Engineering II
+
+* Fall Semester
+:PROPERTIES:
+:ID:       4e6b51ee-803e-41a3-877b-7db2f0a51955
+:END:

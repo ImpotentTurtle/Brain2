@@ -2,7 +2,7 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
- [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior Year]]: Summer Session
+[[id:c3c6c95b-cb71-45eb-bb43-f6dbe5082b60][Junior Year: Summer Session]]
 
 | Computer Engineering Programming II |
 
@@ -12,6 +12,7 @@
 :ROAM_ALIASES: ecgr2104-notes
 :END:
 
++
 
 * Projects
 :PROPERTIES:

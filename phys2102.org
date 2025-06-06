@@ -2,5 +2,4 @@
 :ID:       e71ee2fd-ae53-401c-9bca-69c678616eae
 :END:
 #+title: PHYS2102
-
-[[id:][]]
+[[id:c3c6c95b-cb71-45eb-bb43-f6dbe5082b60][Junior Year: Summer Session]]

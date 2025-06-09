@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       28b58aec-9687-4a85-8240-791f5d6f3f64
-:ROAM_ALIASES: ideas/projects Projects
+:ROAM_ALIASES: projects ideas/projects Projects
 :END:
 #+title: [[Ideas]]
 [[id:839106ac-a477-47f9-9745-13b5d7b8176c][Journal]]

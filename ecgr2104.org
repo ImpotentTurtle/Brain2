@@ -12,7 +12,7 @@
 :ROAM_ALIASES: ecgr2104-notes
 :END:
 
-+
+
 
 * Projects
 :PROPERTIES:

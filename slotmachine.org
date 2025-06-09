@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       99ab7e1c-60d2-4e10-8642-536e8134de4f
+:END:
+#+title: SlotMachine
+[[id:39ae7a57-b49f-4a59-8f58-8e33f71df8a7][ECGR2104: Projects]]
+
+#+begin_src cpp
+#include <iostream>
+#include <vector>
+#include <random>
+#include <ctime>
+
+using namespace std;
+
+int main(){
+
+    // Variable Initialization
+
+    int menuStartVar = 3;
+    int gameStartVar = 3;
+    int playerMoney = 10;
+    vector<string> mySymbols = {"7", "$", "#", "X"};
+    string wheel1;
+    string wheel2;
+    string wheel3;
+
+    // Menu Loop
+
+    do {
+        cout << " " << endl;
+        cout << "Welcome to Jackpot!" << endl;
+        cout << " " << endl;
+        cout << "You have $" << playerMoney << "!" << endl;
+        cout << "[1] Play ($1)" << endl;
+        cout << "[2] Exit" << endl;
+        cout << " " << endl;
+        cout << "[1] or [2]: ";
+        cin >> menuStartVar;
+        if(menuStartVar == 2){
+            cout << "See you next time!";
+            exit(0);
+        } else{
+            break;
+        }
+    } while(menuStartVar == 3);
+
+
+    // Game Loop
+
+    srand(time(0));
+
+    do {
+        playerMoney -= 1;
+        // for loop the random generator???
+        int randomIndex = rand() % mySymbols.size();
+        int randomIndex2 = rand() % mySymbols.size();
+        int randomIndex3 = rand() % mySymbols.size();
+
+        wheel1 = mySymbols[randomIndex];
+        wheel2 = mySymbols[randomIndex2];
+        wheel3 = mySymbols[randomIndex3];
+
+        cout << "" << endl;
+        cout << "   _____________________" << endl << "  /      JACKPOT       / |" << endl << "  ---------------------  |" << endl;
+        cout << "  (  [" << wheel1 <<"] " << " [" << wheel2 << "] " << " [" << wheel3 << "]   )   | " << endl;
+        cout << "  ---------------------  |   " << endl << "  |                    | |" << endl << "  |                    | |" << endl << " /____________________/ /" << endl << "|______________________/" << endl;
+        cout << "" << endl;
+
+        if(wheel1 == "7" && wheel2 == "7" && wheel3 == "7"){
+            playerMoney += 100;
+        } else if(wheel1 == "$" && wheel2 == "$" && wheel3 == "$"){
+            playerMoney += 50;
+        } else if(wheel1 == "#" && wheel2 == "#" && wheel3 == "#"){
+            playerMoney += 25;
+        } else if(wheel1 == "X" && wheel2 == "X" && wheel3 == "X"){
+            playerMoney += 10;
+        } else{
+            playerMoney += 0;
+        }
+
+        cout << " " << endl;
+        cout << "You have $" << playerMoney << "!" << endl;
+
+        if(playerMoney == 1){
+            cout << "Game Over!" << endl;
+            cout << "Exiting Game..." << endl;
+            exit(0);
+
+        } else {
+            cout << "Would you like to play again? [1]Yes or [2]No: ";
+            cin >> gameStartVar;
+            if(gameStartVar == 2){
+                cout << "Hope to see you again. Bye!" << endl;
+                cout << "Exiting Game..." << endl;
+                exit(0);
+            } else {
+                gameStartVar = 3;
+            }
+        }
+
+
+
+    }while (gameStartVar == 3);
+
+
+
+
+
+    return 0;
+}
+#+end_src

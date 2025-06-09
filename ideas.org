@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       28b58aec-9687-4a85-8240-791f5d6f3f64
+:END:
+#+title: Ideas
+[[id:839106ac-a477-47f9-9745-13b5d7b8176c][Journal]]
+
+* Index:
+
++ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]

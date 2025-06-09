@@ -15,11 +15,9 @@
 |This is a 'Central Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
 
 ** index
-+ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]: 'Smart Mirror' concept for Julie
++ [[id:28b58aec-9687-4a85-8240-791f5d6f3f64][Ideas]]
 
 +
-
-
 
 
 * Computer Engineering
@@ -35,6 +33,7 @@
 + Sophomore
 
 +  [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]
+
 
 * Work
 :PROPERTIES:

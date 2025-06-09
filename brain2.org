@@ -23,9 +23,10 @@
 * Computer Engineering
 :PROPERTIES:
 :ID:       8cabc425-76ae-43ec-b022-2af6bf6f3f6f
+:ROAM_ALIASES: college
 :END:
 
-|This is the 'Central Node' that is dedicated to my College Career (Junior - Senior)
+|This is the 'Central Node' that is dedicated to my College Career
 
 *Year:*
 + Freshman

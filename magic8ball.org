@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       77602689-460f-4908-8f0f-d3d62928b5a1
+:END:
+#+title: Magic8Ball
+[[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes ]]
+
+#+BEGIN_SRC cpp
+#include <iostream>
+#include <stdlib.h>
+#include <time.h>
+
+using namespace std;
+
+
+
+int main(){
+  srand(time(0));
+
+
+  string questionText;
+  cout << "Ask a question." << endl;
+  cin >> questionText;
+
+  int seed = 0;
+  for(int i = 0; i < questionText.length(); i++){
+    seed += questionText[i];
+  }
+
+  srand(seed);
+
+  int r = rand() % 3;
+
+  // 1 / 3 : 0 remainder of 1
+  // 6 / 3 : 2 remainder of 0
+  // 7 / 3 : 2 remainder of 1
+  // 8 / 3 : 2 remainder of 2
+
+  if(r==0){
+    cout << "Yes." << endl;
+  } else if(r==1){
+    cout << "No." << endl;
+  } else {
+    cout << "Maybe." << endl;
+  }
+
+  // ALTERNATE WAY TO DO THE SAME THING AS ABOVE
+/*
+  switch(r){
+    case 0:
+      cout << "Yes." << endl;
+      break;
+    case 1:
+      cout << "No." << endl;
+      break;
+    case 2:
+    default:
+      cout << "Maybe." << endl;
+      break;
+    case 3:
+      cout << "Absolutely Not." << endl;
+      break;
+  }
+*/
+
+
+  return 0;
+}
+
+#+end_src

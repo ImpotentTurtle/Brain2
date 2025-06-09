@@ -11,7 +11,9 @@
 :ID:       9a465709-df21-4e37-9c16-efd2e9244729
 :ROAM_ALIASES: ecgr2104-notes
 :END:
+** Class Examples
 + [[id:4a6f8dc6-ab9d-4552-89c4-d405a4c48a01][DogYearsCalc]]
++ [[id:77602689-460f-4908-8f0f-d3d62928b5a1][Magic8Ball]]
 
 
 * Projects
@@ -22,7 +24,7 @@
 
 
 
-#+begin_src cpp
+#+begin_SRC cpp
 #include <iostream>
 
 using namespace std;

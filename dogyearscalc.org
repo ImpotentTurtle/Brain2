@@ -3,3 +3,38 @@
 :END:
 #+title: DogYearsCalc
 [[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
+
+#+BEGIN_SRC cpp
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+int dogYears = 0;
+  int humanYears;
+
+  do{
+  cout << "How old is your dog?: ";
+  cin >> dogYears;
+  } while(dogYears < 1);
+
+  if(dogYears == 1){
+    humanYears = 15;
+  }else if(dogYears == 2){
+    humanYears = 24;
+  }else{
+    humanYears = 24 + (dogYears - 2) * 5;
+  }
+
+  if(humanYears > 80){
+    cout << "Damn! " << humanYears << " years old!?" << endl;
+  } else {
+    cout << "Your dog's age in human years is: " << humanYears << "!" << endl;
+  }
+
+
+  return 0;
+}
+#+END_SRC

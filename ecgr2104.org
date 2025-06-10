@@ -14,6 +14,7 @@
 ** Class Examples
 + [[id:4a6f8dc6-ab9d-4552-89c4-d405a4c48a01][DogYearsCalc]]
 + [[id:77602689-460f-4908-8f0f-d3d62928b5a1][Magic8Ball]]
++ [[id:f2c83780-0ee1-4935-9d32-043623fa6ad0][StudentClass]]
 
 
 * Projects

@@ -23,7 +23,7 @@
 :ROAM_ALIASES: ecgr2104-projects
 :END:
 + [[id:99ab7e1c-60d2-4e10-8642-536e8134de4f][SlotMachine]]
-
++ [[id:9005c2bb-104f-40b6-ad63-8fdb5d71f865][FlightCalculator]]
 
 
 #+begin_SRC cpp

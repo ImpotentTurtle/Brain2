@@ -1,0 +1,130 @@
+:PROPERTIES:
+:ID:       9005c2bb-104f-40b6-ad63-8fdb5d71f865
+:END:
+#+title: FlightCalculator
+[[id:39ae7a57-b49f-4a59-8f58-8e33f71df8a7][ECGR2104: Projects]]
+
+#+begin_src cpp
+#include <iostream>
+#include <cmath>
+#include <vector>
+
+using namespace std;
+
+//Declaration of Constants
+const double earthR = 3958.8; //miles
+const int jetSpeed = 518; //mph
+
+double toRadians(double degree){
+    return degree * M_PI / 180.0;
+}
+
+//Haversine Formula Calculator
+double haversine(double lat1, double long1, double lat2, double long2, double radius){
+    lat1 = toRadians(lat1);
+    long1 = toRadians(long1);
+    lat2 = toRadians(lat2);
+    long2 = toRadians(long2);
+
+    double dLat = lat2 - lat1;
+    double dLong = long2 - long1;
+
+    double a = pow(sin(dLat / 2), 2) + cos(lat1) * cos(lat2) * pow(sin(dLong / 2), 2);
+    double c = 2 * atan2(sqrt(a), sqrt(1 - a));
+
+    return radius * c; // Distance in miles
+
+}
+
+//Flight Time Calculator
+double getFlightTime(double lat1, double long1, double lat2, double long2){
+    double distance = haversine(lat1, long1, lat2, long2, earthR);
+    return distance / jetSpeed; // Time in hours
+}
+
+
+
+int main(){
+    bool loopDet = true;
+    int cityChoice;
+    int cityChoice2;
+    string departureCity;
+    double departureLat;
+    double departureLong;
+    string arrivalCity;
+    double arrivalLat;
+    double arrivalLong;
+
+
+    vector<string> city = {"Clayton, MO, USA", "Aurora, TX, USA", "Amesbury, MA, USA", "Leadville, CO, USA", "Jasper, AL, USA", "Rome, NY, USA", "Peoria, IL, USA", "Honolulu, HI, USA", "Charleston, SC, USA", "Westlake, OH, USA"};
+    vector<double> latitude = {38.645561, 33.061062, 42.856842, 39.247478, 33.834263, 43.227978, 40.703545, 21.315603, 32.784618, 41.463310};
+    vector<double> longitude = {-90.337524, -97.511391, -70.963440, -106.300194, -87.280708, -75.484924, -89.579086, -157.858093, -79.940918, -81.915436};
+
+    cout << " " << endl;
+    cout << "Welcome to the flight time calculator. This application allows you to choose from two locations (departure & arrival). In which the flight time to reach your destination will be calculated" << endl;
+
+    do{
+        cout << "Which city would you like to depart from? " << endl;
+        cout << " " << endl;
+        for(int i = 0; i < city.size(); i++){
+            cout << " [" << i << "] " << city[i] << "  " << latitude[i] << "  " << longitude[i] << endl;
+        }
+        cout << " " << endl;
+        cout << "Please choose (0-" << (city.size() - 1) << "): ";
+        cin >> cityChoice;
+        if(cityChoice < 0 || cityChoice >= city.size()){
+            cout << "Invalid input, try again: " << endl;
+        } else {
+            cout << " " << endl;
+            cout << "Thank you, ";
+            departureCity = city[cityChoice];
+            departureLat = latitude[cityChoice];
+            departureLong = longitude[cityChoice];
+
+            city.erase(city.begin() + cityChoice);
+            latitude.erase(latitude.begin() + cityChoice);
+            longitude.erase(longitude.begin() + cityChoice);
+
+            break;
+        }
+    }while (loopDet == true);
+
+
+    do{
+        cout << "Which city would you like to arrive in? " << endl;
+        cout << " " << endl;
+        for(int i = 0; i < city.size(); i++){
+            cout << " [" << i << "] " << city[i] << "  " << latitude[i] << "  " << longitude[i] << endl;
+        }
+        cout << " " << endl;
+        cout << "Please choose (0-" << (city.size() - 1) << "): ";
+        cin >> cityChoice2;
+        if(cityChoice2 < 0 || cityChoice2 >= city.size()){
+            cout << "Invalid input, try again: " << endl;
+        } else {
+            cout << " " << endl;
+            arrivalCity = city[cityChoice2];
+            arrivalLat = latitude[cityChoice2];
+            arrivalLong = longitude[cityChoice2];
+
+            break;
+        }
+    }while (loopDet == true);
+
+    cout << "You will depart from: " << departureCity << endl;
+    cout << "You will arive in: " << arrivalCity << endl;
+    cout << " " << endl;
+
+    double distance = haversine(departureLat, departureLong, arrivalLat, arrivalLong, earthR);
+    cout << fixed;
+    cout.precision(2);
+    cout << "Estimated distance: " << distance << " miles" << endl;
+    double flightTime = getFlightTime(departureLat, departureLong, arrivalLat, arrivalLong);
+    cout << fixed;
+    cout.precision(2);
+    cout << "Estimated flight time: " << flightTime << " hours" << endl;
+
+
+    return 0;
+}
+#+end_src

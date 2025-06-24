@@ -3,3 +3,19 @@
 :END:
 #+title: Robotics Lab 2
 [[id:bea37de4-c262-4757-be9d-f50f938fd442][ENGR1202 - Labs]]
+
+
+|Important Information:
+  + *Wheel diameter:* 2.755"
+  + *Equation that relates distance traveled to encoder counts:* distance = (encoder counts / counts per revolution) * circumference of wheel
+
+* Experiment 1:
+|Change the "360" in the while condition to the appropriate encoder count value that would correspond to a 2 foot distance worth of wheel rotations. In this code we're only checking the left encoder, but if we move both at the same speed, we should only need to check one of them. Once you think you have the correct value test it out and answer the following questions:
+
++ How many encoder counts corresponds to a 2 foot distance?
+  +
+
++ Did your robot move that far? How far off from the target distance was it?
+  +
+
++ Did your robot move that far? How far off from the target distance was it?

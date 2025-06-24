@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       df9dce9f-733f-4631-a0f4-39caf7a4ee4a
 :END:
-#+title: Robotics Lab 2
+#+title: Robotics Lab 3
 [[id:bea37de4-c262-4757-be9d-f50f938fd442][ENGR1202 - Labs]]
 
 
@@ -39,4 +39,4 @@
 |We can attempt to remedy this problem by adjusting the PWM values sent to each wheel. Try increasing the speed of the motor on the side that is moving slower (that would be the motor on the side that the robot is curving towards). See if you can get it to drive straighter by increasing that value slightly. You may have to try different values until you find one that works. Once it's driving a little more straight, answer the following question:
 
 + What PWM/Speed values did you assign to each motor? Did this help?
-  +
+  + *To the left motor I set the value to 20; The right is set to 19. Yes, it did help a fair bit, but still not completely perfect.*

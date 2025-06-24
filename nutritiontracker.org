@@ -7,3 +7,12 @@
 * Notes:
 |GOAL:
 *Create an application that will track the user's nutritional intake for the day*
+
+|Process:
++ Output -> vector/array of food choices
+  + food choices will have fixed nutritional values....
++ Continuous - iterative loop compounding each choice until the user exits
+
+
++ Will need main and food item class
+  + Will need to overwrite the addition operator "+" so we can add food items together

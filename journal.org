@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f6fd4922-495c-4442-a252-799999cb9a41
+:END:
+#+title: Journal
+
+|This is a 'Central Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
+
+** index
++ [[id:28b58aec-9687-4a85-8240-791f5d6f3f64][Ideas]]

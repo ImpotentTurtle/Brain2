@@ -7,24 +7,16 @@
 
 | *Brain2* is a visual repository built using Emacs and Org-Roam. Each topic listed here in the 'home page' acts as a *Central Node*. Central Nodes split off into nodes that then hold various relevant information to the topic.
 
-* Journal
-:PROPERTIES:
-:ID:       839106ac-a477-47f9-9745-13b5d7b8176c
-:END:
-
-|This is a 'Central Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
-
-** index
-+ [[id:28b58aec-9687-4a85-8240-791f5d6f3f64][Ideas]]
 
 
 
 
-* Computer Engineering
-:PROPERTIES:
-:ID:       8cabc425-76ae-43ec-b022-2af6bf6f3f6f
-:ROAM_ALIASES: college
-:END:
+
+
+
+
+
+
 
 |This is the 'Central Node' that is dedicated to my College Career
 

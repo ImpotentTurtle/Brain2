@@ -18,3 +18,146 @@
   + Food item classs will act like the "Nutrition Facts" section traditionally found on most food items today.
   + main will house our iterative loop alongside our string outputs
 + Addition operator "+" will need to be overwritten to enable us to add our food together easily.
+
+|Code:
+** FoodItem.h
+#+begin_src cpp
+#ifndef FOODITEM_H
+#define FOODITEM_H
+#include <string>
+class Name {
+  public:
+    Name();
+    virtual ~Name();
+
+};
+FoodItem {
+private:
+  std::string name;
+  int calories;
+  float totalFat;
+  float totalSugars;
+  float protein;
+  int sodium;
+public:
+  FoodItem();
+  FoodItem(std::string name, int calories, float fat, float sugars, float protein, int sodium);
+  std::string getName() const;
+  int getCalories() const;
+  float getFat() const;
+  float getSugars() const;
+  float getProtein() const;
+  int getSodium() const;
+  FoodItem operator+(const FoodItem& other) const;
+  void display() const;
+};
+
+#endif
+#+end_src
+** FoodItem.cpp
+#+begin_src cpp
+#include "FoodItem.h"
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+FoodItem::FoodItem() : name(""), calories(0), totalFat(0), totalSugars(0), protein(0), sodium(0){}
+FoodItem::FoodItem(string n, int cal, float fat, float sugars, float prot, int sod) : name(n), calories(cal), totalFat(fat), totalSugars(sugars), protein(prot), sodium(sod){}
+
+string FoodItem::getName() const{
+  return name;
+}
+int FoodItem::getCalories() const{
+  return calories;
+}
+float FoodItem::getFat() const{
+  return totalFat;
+}
+float FoodItem::getSugars() const{
+  return totalSugars;
+}
+float FoodItem::getProtein() const{
+  return protein;
+}
+int FoodItem::getSodium() const{
+  return sodium;
+}
+FoodItem FoodItem::operator+(const FoodItem& other) const{
+  return FoodItem("Total", calories + other.calories, totalFat + other.totalFat, totalSugars + other.totalSugars, protein + other.protein, sodium + other.sodium);
+}
+void FoodItem::display() const{
+  cout << fixed << setprecision(2);
+  cout friend std::ostream& operator<<(std::ostream&, const Name&); "Calories: " << calories << " cal" << endl;
+  cout << "Total Fat: " << totalFat << " g" << endl;
+  cout << "Total Sugars: " << totalSugars << " g" << endl;
+  cout << "Sodium: " << sodium << " mg" << endl;
+}
+#+end_src
+** main.cpp
+#+begin_src cpp
+#include <iostream>
+#include <vector>
+#include "FoodItem.h"
+
+using namespace std;
+
+void displayMenu(const vector<FoodItem>& menu) {
+  for (size_t i = 0; i < menu.size(); ++i) {
+    cout << i + 1 << ": " << menu[i].getName() << endl;
+  }
+  cout << "-------" << endl;
+  cout << menu.size() + 1 << ": Finished" << endl;
+}
+
+void checkRecommendations(const FoodItem& total) {
+  cout << "--- Nutrition Summary ---" << endl;
+  total.display();
+  cout << "--- Nutritional Intake Check ---" << endl;
+  if (total.getCalories() > 2000)
+    cout << "Exceeded recommended calories (2000 cal)" << endl;
+  if (total.getFat() > 70)
+    cout << "Exceeded recommended fat intake (70 g)" << endl;
+  if (total.getSugars() > 30)
+    cout << "Exceeded recommended sugar intake (30 g)" << endl;
+  if (total.getProtein() < 50)
+    cout << "Below recommended protein intake (50 g)" << endl;
+  if (total.getSodium() > 2300)
+    cout << "Exceeded recommended sodium intake (2300 mg)" << endl;
+}
+
+int main() {
+  vector<FoodItem> menu = {
+  FoodItem("Apple", 95, 0.3, 19, 0.5, 2),
+  FoodItem("French Fries", 365, 17, 0.3, 3.4, 246),
+  FoodItem("Burger", 354, 17, 7, 17, 520),
+  FoodItem("Instant Ramen", 380, 14, 1.6, 10, 1710),
+  FoodItem("Protein Bar", 250, 9, 12, 20, 150),
+  FoodItem("Salad", 150, 7, 3, 5, 120),
+  FoodItem("Chicken Nuggets", 220, 5, 0, 40, 75),
+  FoodItem("Orange Juice", 110, 0.5, 21, 2, 2),
+  FoodItem("Pizza", 285, 10, 4, 12, 640),
+  FoodItem("Milk", 100, 2, 17, 5, 75)
+};
+
+FoodItem total;
+
+while (true) {
+  cout << "Select a food item:" << endl;
+  displayMenu(menu);
+  int choice;
+  cout << "Enter choice: ";
+  cin >> choice;
+  if (choice == std::atic_cast<int>(menu.size()) + 1)
+    break;
+  if (choice >= 1 && choice <= static_cast<int>(menu.size())) {
+    total = total + menu[choice - 1];
+    cout << "Added: " << menu[choice - 1].getName() << endl;
+  } else {
+    cout << "Invalid selection. Try again." << endl;
+  }
+}
+checkRecommendations(total);
+return 0;
+}
+#+end_src

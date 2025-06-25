@@ -3,7 +3,7 @@
 :ROAM_ALIASES: projects ideas/projects Projects
 :END:
 #+title: [[Ideas]]
-[[id:839106ac-a477-47f9-9745-13b5d7b8176c][Journal]]
+[[id:f6fd4922-495c-4442-a252-799999cb9a41][journal]]
 
 * Index:
 

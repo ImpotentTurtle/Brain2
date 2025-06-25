@@ -19,7 +19,7 @@
   + main will house our iterative loop alongside our string outputs
 + Addition operator "+" will need to be overwritten to enable us to add our food together easily.
 
-|Code:
+* Code:
 ** FoodItem.h
 #+begin_src cpp
 #ifndef FOODITEM_H

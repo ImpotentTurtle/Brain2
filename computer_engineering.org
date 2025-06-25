@@ -1,4 +1,14 @@
 :PROPERTIES:
 :ID:       a8e14067-352b-40d0-a25e-b25bfa5e4118
+:ROAM_ALIASES: College School
 :END:
 #+title: Computer Engineering
+
+| This is the 'Central Node' that is dedicated to my College Career in Computer Engineering.
+
+*Year:*
++ Freshman
+
++ Sophomore
+
++  [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]

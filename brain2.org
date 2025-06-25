@@ -1,40 +1,9 @@
 :PROPERTIES:
 :ID:       d6580275-9097-4f90-9edb-fc7b6a1382ce
+:ROAM_ALIASES: About Home
 :END:
 #+title: Brain2
 
 | Welcome,
 
 | *Brain2* is a visual repository built using Emacs and Org-Roam. Each topic listed here in the 'home page' acts as a *Central Node*. Central Nodes split off into nodes that then hold various relevant information to the topic.
-
-
-
-
-
-
-
-
-
-
-
-
-|This is the 'Central Node' that is dedicated to my College Career
-
-*Year:*
-+ Freshman
-
-+ Sophomore
-
-+  [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]
-
-
-* Work
-:PROPERTIES:
-:ID:       15f222bc-068a-4bb0-b6ca-e9acf394427b
-:END:
-
-|This is the Central Node where I keep my work documents
-
-** Comapny
-
-+ [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]

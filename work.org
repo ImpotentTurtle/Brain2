@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e8dc8a11-90ba-4ea2-a729-9bfbae56ab9f
+:END:
+#+title: Work
+
+|This is the Central Node where I keep my work documents
+
+** Comapny
+
++ [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]

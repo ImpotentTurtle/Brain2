@@ -1,4 +1,4 @@
-:PROPERTIES:
+ :PROPERTIES:
 :ID:       81b53fc4-f5eb-4785-9dd3-32a73a2b4e7d
 :END:
 #+title: NutritionTracker
@@ -15,4 +15,6 @@
 
 
 + Will need main and food item class
-  + Will need to overwrite the addition operator "+" so we can add food items together
+  + Food item classs will act like the "Nutrition Facts" section traditionally found on most food items today.
+  + main will house our iterative loop alongside our string outputs
++ Addition operator "+" will need to be overwritten to enable us to add our food together easily.

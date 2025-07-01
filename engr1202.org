@@ -11,7 +11,7 @@
 :ID:       e05505b7-b4b2-4a62-b409-9bc0d29d8cb3
 :ROAM_ALIASES: engr1202-notes
 :END:
-
+** Theory
 
 * Labs
 :PROPERTIES:

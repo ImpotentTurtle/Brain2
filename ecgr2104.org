@@ -17,7 +17,7 @@
 + [[id:f2c83780-0ee1-4935-9d32-043623fa6ad0][StudentClass]]
 
 **  Theory
-
++ [[id:8c3a016e-bcb2-4181-a94d-6e7cb923c55c][Pointers]]
 
 * Projects
 :PROPERTIES:

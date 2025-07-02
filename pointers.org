@@ -15,10 +15,12 @@ the above allows for us to store the memory location of x on p
 |*Declaration*
 
 #+begin_src cpp
-int*__
+int*__ // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
 #+end_src
-+ Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
 #+begin_src cpp
-= &___
-#+end_src
-+ Returns/pulls the memory address of a specific variable
+= &___  // Returns/pulls the memory address of a specific variable
+#+END_SRC
+#+begin_quote
+In combination *int*p = &x;* returns the address of x and stores it within p
+#+end_quote
+|*The Dereference Operator* (*)

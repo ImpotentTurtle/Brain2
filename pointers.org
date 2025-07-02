@@ -24,3 +24,11 @@ int*__ // Is used to emphasize that the variable being declared is a pointer of 
 In combination *int*p = &x;* returns the address of x and stores it within p
 #+end_quote
 |*The Dereference Operator* (*)
+#+begin_src cpp
+#include <iostream>
+using namspace std;
+
+int x = 10;
+int* p = &x; //*p = x = 10
+cout << *p; //outputs 10
+#+end_src

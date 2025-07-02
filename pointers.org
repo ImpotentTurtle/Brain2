@@ -3,3 +3,22 @@
 :END:
 #+title: Pointers
 [[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
+
+|*Pointer:* a variable that stores the memory of another variable
+#+begin_src cpp
+int x = 10;
+int* p = &x;
+#+end_src
+#+begin_quote
+the above allows for us to store the memory location of x on p
+#+end_quote
+|*Declaration*
+
+#+begin_src cpp
+int*__
+#+end_src
++ Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
+#+begin_src cpp
+= &___
+#+end_src
++ Returns/pulls the memory address of a specific variable

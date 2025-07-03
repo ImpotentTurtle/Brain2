@@ -5,4 +5,36 @@
 [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]
 
 * Goals
-+
++ Create a shared drive to store all importants files (organized by subject/page content) that will be used on the site.
++ Site will contain pages that will give employees easy access to important files or information they may need to regularly reference.
++ Site should be easy to navigate, read, and be accessible on all devices connected through their organization gmail account
+  + Use imagery and language that is easy for the average user to understand as to provide seemless navigation through the site (include redundancies)
+    + Redundancies should allow user to utilize the site without feeling handheld
++ Pages will cover these topics:
+  - Employee Information
+  - Troubleshooting
+  - Forms for Employees
+  - Purchasing Procedures
+  - Safety & Security
+  - Benefits
+  - Business Travel, Meals, Entertainment information
+  - HR Info for Supervisors
+
+* Site Page Info
+** Home
+
+** Employee Information
+
+** Troubleshooting
+
+** Forms for Employees
+
+** Purchasing Procedures
+
+** Safety & Security
+
+** Benefits
+
+** Business travel, Meals, Entertainment
+
+** HR Infor for Supervisors

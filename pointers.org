@@ -31,3 +31,6 @@ int x = 10;
 int* p = &x; //*p = x = 10
 cout << *p; //outputs 10
 #+end_src
+#+begin_quote
+The "dereferenced" *p* can now reassign *x* in the opposite way as well; as they share the same address.
+#+end_quote

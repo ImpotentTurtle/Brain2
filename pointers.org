@@ -3,8 +3,8 @@
 :END:
 #+title: Pointers
 [[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
-
-|*Pointer:* a variable that stores the memory of another variable
+* Defintion
+*Pointer:* a variable that stores the memory of another variable
 #+begin_src cpp
 int x = 10;
 int* p = &x;
@@ -12,18 +12,17 @@ int* p = &x;
 #+begin_quote
 the above allows for us to store the memory location of x on p
 #+end_quote
-|*Declaration*
+* Properties
+*Declaration*
 
-#+begin_src cpp
-int*__ // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
-#+end_src
-#+begin_src cpp
-= &___  // Returns/pulls the memory address of a specific variable
-#+END_SRC
++ *int*___*     // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
+
++ *= &___*   // Returns/pulls the memory address of a specific variable
+
 #+begin_quote
 In combination *int*p = &x;* returns the address of x and stores it within p
 #+end_quote
-|*The Dereference Operator* (*)
+*The Dereference Operator* (*)
 #+begin_src cpp
 #include <iostream>
 using namspace std;

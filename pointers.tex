@@ -1,0 +1,70 @@
+% Created 2025-07-07 Mon 10:55
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Joel Boynton}
+\date{\today}
+\title{Pointers\\\medskip
+\large ECGR2104}
+\hypersetup{
+ pdfauthor={Joel Boynton},
+ pdftitle={Pointers},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.3 (Org mode 9.7.29)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\href{ecgr2104.org}{Notes: Theory}
+\section{Defintion}
+\label{sec:org367eccf}
+\textbf{Pointer:} a variable that stores the memory of another variable
+\begin{verbatim}
+int x = 10;
+int* p = &x;
+\end{verbatim}
+\begin{quote}
+the above allows for us to store the memory location of x on p
+\end{quote}
+\section{Properties}
+\label{sec:orga525f9f}
+\textbf{Declaration}
+
+\begin{itemize}
+\item \textbf{int*\_\_\_}     // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
+
+\item \textbf{= \&\_\_\_}   // Returns/pulls the memory address of a specific variable
+\end{itemize}
+
+\begin{quote}
+In combination \textbf{int*p = \&x;} returns the address of x and stores it within p
+\end{quote}
+\textbf{The Dereference Operator} (*)
+\begin{verbatim}
+#include <iostream>
+using namspace std;
+
+int x = 10;
+int* p = &x; //*p = x = 10
+cout << *p; //outputs 10
+\end{verbatim}
+\begin{quote}
+The ``dereferenced'' \textbf{p} can now reassign \textbf{x} in the opposite way as well; as they share the same address.
+\end{quote}
+\begin{verbatim}
+int x = 10;
+int* p = &x; // *p = x = 10
+*p = 15;    // *p = 15 = x
+\end{verbatim}
+\end{document}

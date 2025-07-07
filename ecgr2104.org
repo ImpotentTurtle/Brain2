@@ -2,8 +2,8 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
-#+filetags:Junior/Summer
 [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
+#+filetags:Junior/Summer
 
 | Computer Engineering Programming II |
 

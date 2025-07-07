@@ -2,8 +2,8 @@
 :ID:       99ab7e1c-60d2-4e10-8642-536e8134de4f
 :END:
 #+title: SlotMachine
-#+filetags:Projects
 [[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
+#+filetags:Projects
 
 #+begin_src cpp
 

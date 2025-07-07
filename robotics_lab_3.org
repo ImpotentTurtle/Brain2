@@ -1,4 +1,4 @@
-:PROPERTIES:
+PROPERTIES:
 :ID:       df9dce9f-733f-4631-a0f4-39caf7a4ee4a
 :END:
 #+title: Robotics Lab 3

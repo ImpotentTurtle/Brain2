@@ -10,7 +10,6 @@
 \clearpage
 #+end_export
 
-
 * Defintion
 ** *Pointer:* a variable that stores the memory of another variable
 #+begin_src cpp

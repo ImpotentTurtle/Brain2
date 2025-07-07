@@ -10,8 +10,6 @@
 \clearpage
 #+end_export
 
-
-
 |Important Information:
   + *Wheel diameter:* 2.755"
   + *Equation that relates distance traveled to encoder counts:* distance = (encoder counts / counts per revolution) * circumference of wheel

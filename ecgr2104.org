@@ -2,22 +2,23 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
-#+subtitle: Junior Year - Summer
+#+subtitle: Junior Year - Summer Session
 [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 
 | Computer Engineering Programming II |
 
-* Notes
+* Class Examples
 :PROPERTIES:
-:ID:       9a465709-df21-4e37-9c16-efd2e9244729
-:ROAM_ALIASES: ecgr2104-notes
+:ID:       610905bc-ae97-4082-b2a2-f6fd03a6e6e1
 :END:
-** Class Examples
-+ [[id:4a6f8dc6-ab9d-4552-89c4-d405a4c48a01][DogYearsCalc]]
-+ [[id:77602689-460f-4908-8f0f-d3d62928b5a1][Magic8Ball]]
-+ [[id:f2c83780-0ee1-4935-9d32-043623fa6ad0][StudentClass]]
+** [[id:4a6f8dc6-ab9d-4552-89c4-d405a4c48a01][DogYearsCalc]]
+** [[id:77602689-460f-4908-8f0f-d3d62928b5a1][Magic8Ball]]
+** [[id:f2c83780-0ee1-4935-9d32-043623fa6ad0][StudentClass]]
 
-**  Theory
+* Theory
+:PROPERTIES:
+:ID:       64dcd099-3808-48af-bd35-512a39464195
+:END:
 + [[id:8c3a016e-bcb2-4181-a94d-6e7cb923c55c][Pointers]]
 
 * Projects

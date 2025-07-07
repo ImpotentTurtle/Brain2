@@ -2,7 +2,12 @@
 :ID:       f6fd4922-495c-4442-a252-799999cb9a41
 :END:
 #+title: Journal
+#+filetags:Index
 
-|This is a 'Central Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
+|This is a 'Central Index Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
 
-+ [[id:28b58aec-9687-4a85-8240-791f5d6f3f64][Ideas]]
+* Ideas
+:PROPERTIES:
+:ID:       5b6c1adb-4c73-42c8-be8c-15a61a22ffbe
+:END:
+** [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]

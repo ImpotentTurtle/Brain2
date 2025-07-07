@@ -2,8 +2,8 @@
 :ID:       8c3a016e-bcb2-4181-a94d-6e7cb923c55c
 :END:
 #+title: Pointers
-#+subtitle: ECGR2104
-[[id:9a465709-df21-4e37-9c16-efd2e9244729][Notes: Theory]]
+#+filetags:ECGR2104
+[[id:64dcd099-3808-48af-bd35-512a39464195][Theory]]
 
 #+OPTIONS: toc:nil
 

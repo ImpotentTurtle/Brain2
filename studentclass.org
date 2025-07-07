@@ -2,7 +2,8 @@
 :ID:       f2c83780-0ee1-4935-9d32-043623fa6ad0
 :END:
 #+title: StudentClass
-[[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
+#+filetags:ECGR2104
+[[id:610905bc-ae97-4082-b2a2-f6fd03a6e6e1][Class Examples]]
 
 #+begin_src cpp
 #include <iostream>

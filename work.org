@@ -2,9 +2,16 @@
 :ID:       e8dc8a11-90ba-4ea2-a729-9bfbae56ab9f
 :END:
 #+title: Work
+#+filetags:Index
 
-|This is the Central Node where I keep my work documents
+|This is the 'Central Index Node' where I keep my work documents
 
-** Company
-
-+ [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]
+* Company
+:PROPERTIES:
+:ID:       7d349db2-2732-4e3b-99cc-ccfb13d891b7
+:END:
+** Brookstone Schools
+:PROPERTIES:
+:ID:       4de066a3-fc78-4c4e-b427-9d3340ca7f4f
+:END:
+*** [[id:3be2f92b-418b-48db-881c-af8140f1d06d][Resource Page]]

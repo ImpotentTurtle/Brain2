@@ -2,7 +2,7 @@
 :ID:       f2560c46-c41a-426b-8f2f-8af2f76ff43d
 :END:
 #+title: ENGR1202
-#+subtitle: Junior Year - Summer
+#+subtitle: Junior Year - Summer Session
 [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 
 |Engineering Practices & Principles II |

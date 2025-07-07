@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7e108d36-f5ca-413d-86b9-68b5eefdaefe
+:END:
+#+title: E-Field
+#+subtitle:PHYS2102
+#+filetags:Theory

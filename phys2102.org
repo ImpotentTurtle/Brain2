@@ -9,7 +9,12 @@
 :PROPERTIES:
 :ID:       bea47a8e-46b0-4396-b9f1-4a61ca3a0ab7
 :END:
-** Theory
+** Theory (Exam 1)
+*** [[id:6d7e7d9f-a17e-4765-88a3-72e370ec20e9][Electric Force]]
+*** [[id:bab004b3-5bda-4cce-b276-9b7cb33b70cb][Electric Field]]
+*** [[id:ddc17219-90f2-4667-9817-59af3cec11ba][Gauss's Law]]
+*** [[id:1d12d872-efc0-4f2f-a998-023103d0a83b][Electric Potential & Potential Energy]]
+*** [[id:7e108d36-f5ca-413d-86b9-68b5eefdaefe][E-Field]]
 ** Lab
 ** Recitation
 

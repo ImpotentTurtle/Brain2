@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6d7e7d9f-a17e-4765-88a3-72e370ec20e9
+:END:
+#+title: Electric Force
+#+subtitle:PHYS2102
+#+filetags:Theory

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1d12d872-efc0-4f2f-a998-023103d0a83b
+:END:
+#+title: Electric Potential & Potential Energy
+#+subtitle:PHYS2102
+#+filetags:Theory

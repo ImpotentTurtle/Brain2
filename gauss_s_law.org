@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ddc17219-90f2-4667-9817-59af3cec11ba
+:END:
+#+title: Gauss's Law
+#+subtitle:PHYS2102
+#+filetags:Theory

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       bab004b3-5bda-4cce-b276-9b7cb33b70cb
+:END:
+#+title: Electric Field
+#+subtitle:PHYS2102
+#+filetags:Theory

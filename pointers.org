@@ -8,7 +8,7 @@
 #+OPTIONS: toc:nil
 
 * Defintion
-*Pointer:* a variable that stores the memory of another variable
+** *Pointer:* a variable that stores the memory of another variable
 #+begin_src cpp
 int x = 10;
 int* p = &x;
@@ -17,16 +17,16 @@ int* p = &x;
 the above allows for us to store the memory location of x on p
 #+end_quote
 * Properties
-*Declaration*
+** *Declaration*
 
-+ *int*___*     // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
++  *int*___*     // Is used to emphasize that the variable being declared is a pointer of some type (i.e. int, double, short)
 
-+ *= &___*   // Returns/pulls the memory address of a specific variable
++  *= &___*   // Returns/pulls the memory address of a specific variable
 
 #+begin_quote
 In combination *int*p = &x;* returns the address of x and stores it within p
 #+end_quote
-*The Dereference Operator* (*)
+** *The Dereference Operator* (*)
 #+begin_src cpp
 #include <iostream>
 using namspace std;

@@ -4,6 +4,7 @@
 #+title: Resource Page
 #+options: toc:nil
 [[id:e8dc8a11-90ba-4ea2-a729-9bfbae56ab9f][Work]]
+#+filetags:Brookstone
 
 * Goals
 + Create a shared drive to store all importants files (organized by subject/page content) that will be used on the site.

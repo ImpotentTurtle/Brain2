@@ -2,6 +2,7 @@
 :ID:       3be2f92b-418b-48db-881c-af8140f1d06d
 :END:
 #+title: Resource Page
+#+options: toc:nil
 [[id:d5207fd2-304f-4936-beb8-1fdec382b75f][Brookstone Schools]]
 
 * Goals

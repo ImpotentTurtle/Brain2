@@ -3,7 +3,6 @@
 :END:
 #+title: Pointers
 #+OPTIONS: toc:nil
-
 [[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
 
 * Defintion

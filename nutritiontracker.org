@@ -2,7 +2,6 @@
 :ID:       81b53fc4-f5eb-4785-9dd3-32a73a2b4e7d
 :END:
 #+title: NutritionTracker
-[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
 #+FILETAGS:Projects
 
 * Notes:

@@ -2,7 +2,6 @@
 :ID:       9005c2bb-104f-40b6-ad63-8fdb5d71f865
 :END:
 #+title: FlightCalculator
-[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
 #+filetags:Projects
 
 #+begin_src cpp

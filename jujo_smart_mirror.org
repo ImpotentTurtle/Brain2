@@ -2,7 +2,7 @@
 :ID:       e8b80fcc-eec3-40d7-9256-fe010c5be85e
 :END:
 #+title: JoJu Smart Mirror
-[[id:f6fd4922-495c-4442-a252-799999cb9a41][Journal]]
+#+filetags:Ideas
 
 | The 'JoJu' SmartMirror is a standalone/mountable mirror with a multitude of features geared toward enhancing and optimizing the personal space experience      |
 

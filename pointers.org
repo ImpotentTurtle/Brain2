@@ -2,10 +2,14 @@
 :ID:       8c3a016e-bcb2-4181-a94d-6e7cb923c55c
 :END:
 #+title: Pointers
-[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
+#+subtitle:ECGR2104
 #+filetags:Theory
 
 #+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
 
 * Defintion
 ** *Pointer:* a variable that stores the memory of another variable

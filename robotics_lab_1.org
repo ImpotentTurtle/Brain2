@@ -2,10 +2,8 @@
 :ID:       0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62
 :END:
 #+title: Robotics Lab 1
-[[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202]]
+#+subtitle:Basic Cirtcuit Analysis
 #+filetags:Labs
-
-| Basic Circuit Analysis |
 
 * Circuit 1
 

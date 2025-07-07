@@ -19,4 +19,4 @@
 :END:
 
 + [[id:0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62][Robotics Lab 1]]: Basic Circuit Analysis
-+ [[id:df9dce9f-733f-4631-a0f4-39caf7a4ee4a][Robotics Lab 3]]: DC Motor Control
++ [[id:cd0c2b25-0d9e-4257-986f-e68f38033fd9][Robotics Lab 3 :]]DC Motor Control

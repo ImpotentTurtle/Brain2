@@ -2,7 +2,6 @@
 :ID:       f2c83780-0ee1-4935-9d32-043623fa6ad0
 :END:
 #+title: StudentClass
-[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
 #+filetags:ClassExamples
 
 #+begin_src cpp

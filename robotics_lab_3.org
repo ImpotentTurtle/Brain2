@@ -1,9 +1,15 @@
-PROPERTIES:
-:ID:       df9dce9f-733f-4631-a0f4-39caf7a4ee4a
+:PROPERTIES:
+:ID:       cd0c2b25-0d9e-4257-986f-e68f38033fd9
 :END:
 #+title: Robotics Lab 3
-[[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202]]
+#+subtitle:DC Motor Control
 #+filetags:Labs
+
+#+options: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
 
 
 |Important Information:
@@ -11,7 +17,7 @@ PROPERTIES:
   + *Equation that relates distance traveled to encoder counts:* distance = (encoder counts / counts per revolution) * circumference of wheel
 
 * Experiment 1:
-|Change the "360" in the while condition to the appropriate encoder count value that would correspond to a 2 foot distance worth of wheel rotations. In this code we're only checking the left encoder, but if we move both at the same speed, we should only need to check one of them. Once you think you have the correct value test it out and answer the following questions:
+** Change the "360" in the while condition to the appropriate encoder count value that would correspond to a 2 foot distance worth of wheel rotations. In this code we're only checking the left encoder, but if we move both at the same speed, we should only need to check one of them. Once you think you have the correct value test it out and answer the following questions:
 
 + How many encoder counts corresponds to a 2 foot distance?
   + *About 998 encoder counts*
@@ -23,21 +29,19 @@ PROPERTIES:
   + *No, my robot drove in an arc*
 
 * Experiment 2
-|Considering your answers to these questions, let's make a few modifications to the code. Increase the speed of each wheel from 15 to 30 and reprogram the robot. Run the experiment again.
+** Considering your answers to these questions, let's make a few modifications to the code. Increase the speed of each wheel from 15 to 30 and reprogram the robot. Run the experiment again.
 
 + Was the robot more or less accurate with faster speeds? Why?
   + *More accurate; I assume this has to do with the inertia of the robot being greater at higher speeds.*
 
 * Experiment 3
-|Change the speed down to 10 and run the experiment one more time.
+** Change the speed down to 10 and run the experiment one more time.
 
 + Was the robot more or less accurate with slower speeds? Why?
   + *It was less accurate; Again I believe this has to do with the fact that the robot has less inertia when at lower speeds.*
 
 * Experiment 4
-|You may have noticed in the previous experiments the robot didn't driver perfectly straight. This is due to a variety of factors, such as slippage on the wheels, but also the differences in motor quality. Despite these motors being constructed similiarly, they end up having different "efficiencies" due to slight differences in their construction. Efficiency refers to how much mechanical energy is created from the electrical energy put into the motor. Despite giving both motors the same PWM/Speed values, one is going to be stronger than the other. If you're lucky, this difference may not have been very noticable.
-
-|We can attempt to remedy this problem by adjusting the PWM values sent to each wheel. Try increasing the speed of the motor on the side that is moving slower (that would be the motor on the side that the robot is curving towards). See if you can get it to drive straighter by increasing that value slightly. You may have to try different values until you find one that works. Once it's driving a little more straight, answer the following question:
+** You may have noticed in the previous experiments the robot didn't driver perfectly straight. This is due to a variety of factors, such as slippage on the wheels, but also the differences in motor quality. Despite these motors being constructed similiarly, they end up having different "efficiencies" due to slight differences in their construction. Efficiency refers to how much mechanical energy is created from the electrical energy put into the motor. Despite giving both motors the same PWM/Speed values, one is going to be stronger than the other. If you're lucky, this difference may not have been very noticable. We can attempt to remedy this problem by adjusting the PWM values sent to each wheel. Try increasing the speed of the motor on the side that is moving slower (that would be the motor on the side that the robot is curving towards). See if you can get it to drive straighter by increasing that value slightly. You may have to try different values until you find one that works. Once it's driving a little more straight, answer the following question:
 
 + What PWM/Speed values did you assign to each motor? Did this help?
   + *To the left motor I set the value to 20; The right is set to 19. Yes, it did help a fair bit, but still not completely perfect.*

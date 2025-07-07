@@ -2,8 +2,8 @@
 :ID:       77602689-460f-4908-8f0f-d3d62928b5a1
 :END:
 #+title: Magic8Ball
-#+filetags:ECGR2104
-[[id:610905bc-ae97-4082-b2a2-f6fd03a6e6e1][Class Examples]]
+#+filetags:ClassExamples
+[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
 
 #+BEGIN_SRC cpp
 #include <iostream>

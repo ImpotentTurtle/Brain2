@@ -2,7 +2,8 @@
 :ID:       0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62
 :END:
 #+title: Robotics Lab 1
-[[id:bea37de4-c262-4757-be9d-f50f938fd442][ENGR1202 - Labs]]
+[[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202]]
+#+filetags:Labs
 
 | Basic Circuit Analysis |
 

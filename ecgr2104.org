@@ -2,7 +2,7 @@
 :ID:       4680fbae-ac2d-4a0d-af6e-1085076535e9
 :END:
 #+title: ECGR2104
-#+subtitle: Junior Year - Summer Session
+#+filetags:Junior/Summer
 [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 
 | Computer Engineering Programming II |
@@ -19,16 +19,16 @@
 :PROPERTIES:
 :ID:       64dcd099-3808-48af-bd35-512a39464195
 :END:
-+ [[id:8c3a016e-bcb2-4181-a94d-6e7cb923c55c][Pointers]]
+** [[id:8c3a016e-bcb2-4181-a94d-6e7cb923c55c][Pointers]]
 
 * Projects
 :PROPERTIES:
 :ID:       39ae7a57-b49f-4a59-8f58-8e33f71df8a7
 :ROAM_ALIASES: ecgr2104-projects
 :END:
-+ [[id:99ab7e1c-60d2-4e10-8642-536e8134de4f][SlotMachine]]
-+ [[id:9005c2bb-104f-40b6-ad63-8fdb5d71f865][FlightCalculator]]
-+ [[id:81b53fc4-f5eb-4785-9dd3-32a73a2b4e7d][NutritionTracker]]
+** [[id:99ab7e1c-60d2-4e10-8642-536e8134de4f][SlotMachine]]
+** [[id:9005c2bb-104f-40b6-ad63-8fdb5d71f865][FlightCalculator]]
+** [[id:81b53fc4-f5eb-4785-9dd3-32a73a2b4e7d][NutritionTracker]]
 
 note: "#+begin_src cpp  & #+end_src"
 #+begin_SRC cpp

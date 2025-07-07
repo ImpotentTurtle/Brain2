@@ -2,7 +2,8 @@
 :ID:       4a6f8dc6-ab9d-4552-89c4-d405a4c48a01
 :END:
 #+title: DogYearsCalc
-[[id:9a465709-df21-4e37-9c16-efd2e9244729][ECGR2104: Notes]]
+#+filetags:ClassExamples
+[[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104]]
 
 #+BEGIN_SRC cpp
 

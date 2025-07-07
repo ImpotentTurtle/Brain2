@@ -2,7 +2,8 @@
 :ID:       df9dce9f-733f-4631-a0f4-39caf7a4ee4a
 :END:
 #+title: Robotics Lab 3
-[[id:bea37de4-c262-4757-be9d-f50f938fd442][ENGR1202 - Labs]]
+[[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202]]
+#+filetags:Labs
 
 
 |Important Information:

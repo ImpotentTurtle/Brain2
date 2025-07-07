@@ -7,5 +7,41 @@
 
 
 * Freshman
+:PROPERTIES:
+:ID:       8bf288f3-bc22-4751-aac2-f6d04c1f4f7c
+:END:
+
 * Sophomore
-* [[id:8f66a02f-5cbd-4309-97b3-636bcf7453d3][Junior]]
+:PROPERTIES:
+:ID:       0fe700f6-1469-47ee-bd24-19614f8235fc
+:END:
+
+* Junior
+:PROPERTIES:
+:ID:       a535cdc3-2756-44a5-b8d7-7ccb9cfa83db
+:END:
+** Summer Session
+:PROPERTIES:
+:ID:       6a39cc0d-6c70-4e35-8184-f3168b0dbb33
+:END:
+*** [[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104:]] Computer Engineering Programming
+
+*** [[id:f2560c46-c41a-426b-8f2f-8af2f76ff43d][ENGR1202:]] Intro to Engineering Principles II
+
+*** [[id:e71ee2fd-ae53-401c-9bca-69c678616eae][PHYS2102]]: Physics for Science and Engineering
+
+** Fall Semester
+:PROPERTIES:
+:ID:       14498759-e74b-4525-a101-cd5a8fe2db29
+:END:
+
+
+** Spring Semester
+:PROPERTIES:
+:ID:       aee50f86-8f78-42d4-9712-6585b9e9b767
+:END:
+
+* Senior
+:PROPERTIES:
+:ID:       58ca5b84-a334-4deb-a22e-2ae8e667f9cf
+:END:

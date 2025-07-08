@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c09576df-59ce-4c3e-a244-982b94080513
+:END:
+#+title: Robotics Lab 4
+#+subtitle:C++ Programming and Algorithms
+#+filetags:Labs

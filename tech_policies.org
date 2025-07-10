@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d09e63c6-02d8-4bf8-8283-4d0bb45226ca
+:END:
+#+title: Tech Policies
+#+filetags:Brookstone
+
+#+options: toc:nil

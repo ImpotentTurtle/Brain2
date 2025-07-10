@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2a9df823-aedc-475f-97d5-8d271e046dd1
+:END:
+#+title: Troubleshooting Tips
+#+filetags:Brookstone
+
+#+options: toc:nil
+
+* Laptops
+** |Lenovo
+** |Macbook
+* iPads
+** |Student
+** |Teacher
+* Smartboards

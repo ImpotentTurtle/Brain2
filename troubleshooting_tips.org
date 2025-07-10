@@ -7,9 +7,14 @@
 #+options: toc:nil
 
 * Laptops
-** |Lenovo
-** |Macbook
+-----
+** Lenovo
+** Macbook
+
 * iPads
-** |Student
-** |Teacher
+-----
+** Student
+** Teacher
+
 * Smartboards
+-----

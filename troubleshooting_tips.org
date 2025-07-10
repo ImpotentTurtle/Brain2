@@ -6,13 +6,21 @@
 
 #+options: toc:nil
 
+|In this document you will find common questions/issues that you may encounter with your school issued technology. Alongside this you will find a variety of troubleshooting tips to aid you in combating these problems. As we are limited in on-site resources, we encourage you to look over this document before requesting personal assistance within the IT chat.
+
 * Laptops
 -----
 ** Lenovo
+Q: I have sent a print job, however I do not see it in queue for release?
++ First -- Confirm you are connected to the "Brookstone" WiFi
++ Then -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
+  + If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue"
++ Last --
 ** Macbook
 
 * iPads
 -----
+** General
 ** Student
 ** Teacher
 

@@ -5,18 +5,18 @@
 #+FILETAGS:Projects
 
 * Notes:
-|GOAL:
+** GOAL:
 *Create an application that will track the user's nutritional intake for the day*
 
-|Process:
+** Process:
 + Output -> vector/array of food choices
-  + food choices will have fixed nutritional values....
+  * food choices will have fixed nutritional values....
 + Continuous - iterative loop compounding each choice until the user exits
 
 
 + Will need main and food item class
-  + Food item classs will act like the "Nutrition Facts" section traditionally found on most food items today.
-  + main will house our iterative loop alongside our string outputs
+  * Food item classs will act like the "Nutrition Facts" section traditionally found on most food items today.
+  * main will house our iterative loop alongside our string outputs
 + Addition operator "+" will need to be overwritten to enable us to add our food together easily.
 
 * Code:

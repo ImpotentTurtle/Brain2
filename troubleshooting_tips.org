@@ -2,43 +2,41 @@
 :ID:       2a9df823-aedc-475f-97d5-8d271e046dd1
 :END:
 #+title: Troubleshooting Tips
+#+subtitle:Brookstone
 #+filetags:Brookstone
 
 #+options: toc:nil
-
 #+begin_center
 /In this document you will find common questions/issues that you may encounter with your school issued technology./
 /Alongside this you will find a variety of troubleshooting tips to aid you in combating these problems./
 /As we are limited in on-site resources, we encourage you to look over this document before requesting personal assistance within the IT chat./
 #+end_center
-
 #+begin_export latex
-\clearpage \tableofcontents \clearpage
+\tableofcontents \clearpage
 #+END_EXPORT
 
 * Laptops
 -----
 ** Lenovo
-Q: I have sent a print job, however I do not see it in queue for release?
+Q: ~I have sent a print job, however I do not see it in queue for release?~
 + First -- Confirm you are connected to the "Brookstone" WiFi -> *Attempt to reprint if connected to a different network*
-+ Then -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
-  + If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue" -> *Check if your document has made it to the printer*
++ Else -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
+  * If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue" -> *Check if your document has made it to the printer*
 
-+ Last -- If you bring your mouse to the bottom right of the screen near the date and time; look for a button that looks like this " ^ "; click on it; here find the green printer icon (PaperCut) and click on "View Printers".
-  + If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
-  + otherwise, click refresh -> *Attempt to reprint
++ Else -- If you bring your mouse to the bottom right of the screen near the date and time; look for a button that looks like this " ^ "; click on it; here find the green printer icon (PaperCut) and click on "View Printers".
+  * If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
+  * otherwise, click refresh -> *Attempt to reprint*
 ** Macbook
-Q: I have sent a print job, however I do not see it in queue for release?
+Q: ~I have sent a print job, however I do not see it in queue for release?~
 + First -- Confirm you are connected to the "Brookstone" WiFi -> *Attempt to reprint if connected to a different network*
-+ Then -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
-  + If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue" -> *Check if your document has made it to the printer*
++ Else -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
+  * If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue" -> *Check if your document has made it to the printer*
 
-+ At the very top of your screen (near the date/time) look for a green printer icon (PaperCut) and click on "View Printers".
-  + If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
-  + otherwise, click refresh -> *Attempt to reprint
++ Else -- At the very top of your screen (near the date/time) look for a green printer icon (PaperCut) and click on "View Printers".
+  * If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
+  * otherwise, click refresh -> *Attempt to reprint*
 * iPads
 -----
-** General
 ** Student
 ** Teacher
 

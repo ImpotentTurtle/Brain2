@@ -18,6 +18,7 @@
 * Laptops
 -----
 ** Lenovo
+*** Printing
 Q: ~I have sent a print job, however I do not see it in queue for release?~
 + First -- Confirm you are connected to the "Brookstone" WiFi -> *Attempt to reprint if connected to a different network*
 + Else -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:
@@ -27,6 +28,7 @@ Q: ~I have sent a print job, however I do not see it in queue for release?~
   * If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
   * otherwise, click refresh -> *Attempt to reprint*
 ** Macbook
+*** Printing
 Q: ~I have sent a print job, however I do not see it in queue for release?~
 + First -- Confirm you are connected to the "Brookstone" WiFi -> *Attempt to reprint if connected to a different network*
 + Else -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file too and open up the queue page:

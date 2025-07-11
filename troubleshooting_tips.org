@@ -29,6 +29,7 @@ Q: ~I have sent a print job, however I do not see it in queue for release?~
   * If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
   * otherwise, click refresh -> *Attempt to reprint*
 
+
 #+begin_export latex
 \clearpage
 #+end_export

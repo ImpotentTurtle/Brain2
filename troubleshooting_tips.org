@@ -6,7 +6,15 @@
 
 #+options: toc:nil
 
-|In this document you will find common questions/issues that you may encounter with your school issued technology. Alongside this you will find a variety of troubleshooting tips to aid you in combating these problems. As we are limited in on-site resources, we encourage you to look over this document before requesting personal assistance within the IT chat.
+#+begin_center
+/In this document you will find common questions/issues that you may encounter with your school issued technology./
+/Alongside this you will find a variety of troubleshooting tips to aid you in combating these problems./
+/As we are limited in on-site resources, we encourage you to look over this document before requesting personal assistance within the IT chat./
+#+end_center
+
+#+begin_export latex
+\clearpage \tableofcontents \clearpage
+#+END_EXPORT
 
 * Laptops
 -----

@@ -14,9 +14,9 @@
 
 ** What lines of code or variable represents the reference signal / input?
 #+begin_src cpp
-float targetSpeed = 15;
+  float leftCount = getEncoderLeftCnt();
 #+end_src
-+ Above  represents our reference signal. It is the speed we want our right motor to achieve
++ Above represents our reference signal. It is the encouder count that  we want our right motor to match from the left motor
 
 ** What lines of code represent the controller?
 #+begin_src cpp

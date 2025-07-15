@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       c07bf994-ddc8-42d7-8847-45e757559567
+:END:
+#+title: Robotics Lab 5
+#+subtitle:Motor Balancing
+#+filetags:Labs
+
+* Analyzing the Code
+** What lines of code or variable represents the reference signal / input?
++ *float targetSpeed = 15;* represents our reference signal. It is the speed we want our right motor to achieve
+** What lines of code represent the controller?
+#+begin_src cpp
+float rightError = leftCount - rightCount;
+
+int rightSpeed = targetSpeed + rightError * kp;
+#+end_src
++ These lines listed above represent the controllers for the right motor. They control how the right speed is corrected in speed based on error between the left and right motors
+** What represents the feedback? How does this work into the error term?
+#+begin_src cpp
+float rightCount = getEncoderRightCnt();
+#+end_src
++ The line stated above represents our feedback. These are actual measurements of the wheel movement. This feedback of wheel movements allows us to actually compute the error. This can then be used in our corrections.
+** Which variable represents the system gain? How does the controller use the system gain?
+#+begin_src cpp
+float kp = 0.1;
+#+end_src
++ The variable listed above represents the system gain. This determines how strongly the controller reacts to an error. The controller uses this by adding the product of the error and gain to the target speed. Thus creating the correction.
+* Experiment 1
+* Experiment 2
+* Experiment 3
+* Experiment 4

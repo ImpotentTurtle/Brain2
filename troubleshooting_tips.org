@@ -17,7 +17,7 @@
 #+END_EXPORT
 
 * Laptops
-** Lenovo
+* Lenovo
 -----
 *** Printing
 Q: ~I have sent a print job, however I do not see it in queue for release?~

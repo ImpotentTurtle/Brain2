@@ -17,7 +17,7 @@
 #+END_EXPORT
 
 * Laptops
-* Lenovo
+** Lenovo
 -----
 *** Printing
 Q: ~I have sent a print job, however I do not see it in queue for release?~
@@ -51,6 +51,10 @@ Q: ~I have sent a print job, however I do not see it in queue for release?~
 #+end_export
 
 * iPads
+** Apple Classroom
+-----
+Q: ~How do I set up Apple Classroom?~
++ You can set up Apple Classroom using the instructions within this document: [[https://docs.google.com/document/d/1VQ7f4V_Gj16oRHccW3Lk0xK8nFByXDQ_1gwRT2M16BY/edit?usp=sharing][Apple Classroom Instructions]]
 ** Student
 -----
 

@@ -55,18 +55,22 @@ Q: ~I have sent a print job, however I do not see it in queue for release?~
 -----
 Q: ~How do I set up Apple Classroom?~
 + You can set up Apple Classroom using the instructions within this document: [[https://docs.google.com/document/d/1VQ7f4V_Gj16oRHccW3Lk0xK8nFByXDQ_1gwRT2M16BY/edit?usp=sharing][Apple Classroom Instructions]]
-** Student
+** General
 -----
+*** Unresponsive iPad
+Q: ~My iPad seems to be frozen | I cannot interact with the screen~
++ In most cases, the best option is to hard restart the device; Press buttons in this order:
+  * Volume up, Volume down, then Hold down the power button until the screen shuts off completely.
+  * Wait 10 seconds and then hold the power button again until the Apple Logo appears on the screen.
++ Once this is done, your iPad should function as intended. If not, please reach out to IT
 
 #+begin_export latex
 \clearpage
 #+end_export
-** Teacher
+* Chromebooks
 -----
-
 #+begin_export latex
 \clearpage
 #+end_export
-
 * Smartboards
 -----

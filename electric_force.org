@@ -23,8 +23,11 @@ Materials on or in which charge is immobile
 ** Coulomb's Law
 Coulomb’s law is the fundamental law for the electric force between two charged particles. Coulomb’s law, like Newton’s law of gravity, is an *inverse-square law*: The electric force is inversely proportional to the square of the distance between charges.
 *
-* Coulomb
+* Coulomb's Law
 :PROPERTIES:
 :ID:       9eae4d5e-2787-459c-bab5-5e0a7a38b7aa
 :END:
-** If two charged particles having q1 and q2 are a distance r apars, the particles exert forces ib each other of magnitude
+** If two charged particles having q1 and q2 are a distance r apart, the particles exert forces on each other of magnitude
+
+
+\(\frac{K*|q1|*|q2|}{r^{2}}\)

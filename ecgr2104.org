@@ -29,7 +29,7 @@
 ** [[id:99ab7e1c-60d2-4e10-8642-536e8134de4f][SlotMachine]]
 ** [[id:9005c2bb-104f-40b6-ad63-8fdb5d71f865][FlightCalculator]]
 ** [[id:81b53fc4-f5eb-4785-9dd3-32a73a2b4e7d][NutritionTracker]]
-
+** [[id:31f59439-6470-4c9d-af5b-0982b47a943b][DoublyLinkedListClass]]
 note: "#+begin_src cpp  & #+end_src"
 #+begin_SRC cpp
 #include <iostream>

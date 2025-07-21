@@ -68,7 +68,10 @@ Q: ~My iPad seems to be frozen | I cannot interact with the screen~
 \clearpage
 #+end_export
 * Chromebooks
+** General
 -----
+Q: ~How my students print with their chromebooks~
++ Chromebooks
 #+begin_export latex
 \clearpage
 #+end_export

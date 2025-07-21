@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       31f59439-6470-4c9d-af5b-0982b47a943b
+:END:
+#+title: DoublyLinkedListClass
+#+filetags:Projects
+
+* Overview
+
+~In this project we will be creating a doubly linked list data structure. The goal of the project is to create our own linked lists library that can be used as easily as the standard template class data structures defined in C++. A doubly linked lists functions very similarly to the singly linked list described in class, except each node now contains a pointer to the node previous to it in the list in addition to the pointer that points to the next node in the list. While this adds some complication on the bookkeeping of the structure, it ultimately makes some tasks easier, such as removing nodes or inserting nodes.~
+
+* Part1: The Essentials
+
+~You will create a class to manage a doubly linked list of integers. Your class should only have public member functions and member variables only accessible through accessors and mutators. Each node in the list should be represented by a class or struct containing the data element, a pointer to the previous element, and a pointer to the next element. The list class should contain pointers to the head and tail of the list.~
+
+/Your class should implement the following public member functions:/
+#+begin_src cpp
+void push(int data); // appends a new node on the end of the list
+
+void pop(); // removes the last element of the list
+
+int size(); // returns the number of elements in the list
+
+void print(); // prints all elements in the list to the console
+
+int& at(int idx); // returns a reference to the data at the requested index, "idx"
+#+end_src
+
+* Part2: Linked Lists Specialty Functions
+
+/Extend the functionality of your class with the following functions:/
+#+begin_src cpp
+void insert(int data, int pos); // inserts a new node containing data at the position "pos" in the list. All elements at that position are then shifted forward. (example: you have the following list: {5, 7, 2}. You call list.insert(3, 1) to put a 3 at position 1 (the second element, remember computers count starting at 0). Your list should then contain: {5, 3, 7, 2})
+
+void remove(int pos); // removes the element at the specified position
+#+end_src
+
+* Part3: The Final Touches
+
+~Add a destructor to your class that cleans up any data allocated via "new" to prevent memory leaks. Add copy constructors and override the copy assignment operator to prevent shallow copies. Extend your class to a "template" class so that you can use any data type, rather than just integers to hold data.~
+
+* Code
+#+begin_src cpp
+
+#+end_Src

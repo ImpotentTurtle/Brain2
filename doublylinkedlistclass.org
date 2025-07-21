@@ -4,11 +4,8 @@
 #+title: DoublyLinkedListClass
 #+filetags:Projects
 
-* Overview
-
-~In this project we will be creating a doubly linked list data structure. The goal of the project is to create our own linked lists library that can be used as easily as the standard template class data structures defined in C++. A doubly linked lists functions very similarly to the singly linked list described in class, except each node now contains a pointer to the node previous to it in the list in addition to the pointer that points to the next node in the list. While this adds some complication on the bookkeeping of the structure, it ultimately makes some tasks easier, such as removing nodes or inserting nodes.~
-
-* Part1: The Essentials
+* Procedure
+** Part1: The Essentials
 
 ~You will create a class to manage a doubly linked list of integers. Your class should only have public member functions and member variables only accessible through accessors and mutators. Each node in the list should be represented by a class or struct containing the data element, a pointer to the previous element, and a pointer to the next element. The list class should contain pointers to the head and tail of the list.~
 
@@ -25,7 +22,7 @@ void print(); // prints all elements in the list to the console
 int& at(int idx); // returns a reference to the data at the requested index, "idx"
 #+end_src
 
-* Part2: Linked Lists Specialty Functions
+** Part2: Linked Lists Specialty Functions
 
 /Extend the functionality of your class with the following functions:/
 #+begin_src cpp
@@ -34,9 +31,28 @@ void insert(int data, int pos); // inserts a new node containing data at the pos
 void remove(int pos); // removes the element at the specified position
 #+end_src
 
-* Part3: The Final Touches
+** Part3: The Final Touches
 
 ~Add a destructor to your class that cleans up any data allocated via "new" to prevent memory leaks. Add copy constructors and override the copy assignment operator to prevent shallow copies. Extend your class to a "template" class so that you can use any data type, rather than just integers to hold data.~
+
+** Requirements
+
++ The code should be well formatted with proper indentation, variable names, and function structure
++ The Node Class/Struct is properly defined
+  * node contains members for the data, a pointer to the next node, and a pointer to the previous node
++ The Doubly Linked List Class is properly defined
+  * The class manages pointers to the head, tail, and contains all members and functions described in the description section
++ The push function properly appends a new node to the end of the list
++ The pop function properly removes a node from the end of the list
++ The size function returns the number of elements in the list
++ The insert function properly adds a new node at the specified index within the list, according to the behavior described in the description
++ The remove function properly removes a node at the specified index
++ The class should properly handle "garbage collection"
+  * when the class goes out of scope, no data created on the heap associated with this class should still be allocated
++ the class should properly handle "shallow copies"
+  * when the class is copied through a copy assignment or copy constructor, it should properly re-allocate and copy data for the new linked list class
++ (Bonus) The class should be modified to handle all types of data (other than just int) through the use of a template class
+  * All data "int" instances in the class should be replaced with a templated variable
 
 * Code
 #+begin_src cpp

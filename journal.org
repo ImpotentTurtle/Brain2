@@ -10,5 +10,4 @@
 :PROPERTIES:
 :ID:       5b6c1adb-4c73-42c8-be8c-15a61a22ffbe
 :END:
-** Julie & Joel 5th Anniversary
-*** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
+** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]

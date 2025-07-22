@@ -4,6 +4,8 @@
 #+title: DoublyLinkedListClass
 #+filetags:Projects
 
+/Theory: [[id:d085c6f6-4c83-44e1-9fa3-cb70ec2e1094][Linked Lists]]/
+
 * Procedure
 ** Part1: The Essentials
 

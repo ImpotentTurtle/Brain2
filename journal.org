@@ -11,3 +11,9 @@
 :ID:       5b6c1adb-4c73-42c8-be8c-15a61a22ffbe
 :END:
 ** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
+
+* Memos
+:PROPERTIES:
+:ID:       59d413cb-3fee-45c6-822a-43177ccd4d62
+:END:
+** [[id:c5356241-2efb-4087-a3f5-7e6a1252310a][5th Anniversary]]

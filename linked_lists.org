@@ -2,5 +2,46 @@
 :ID:       d085c6f6-4c83-44e1-9fa3-cb70ec2e1094
 :END:
 #+title: Linked Lists
+#+filetags:Theory
 
-[[id:][]]
+* Vector Behavior
++ As data is pushed onto the vector, the allocated heap space is consumed.
++ When more data is pushed that the vector has space for, a new, larger array is created, and the old data is copied over and the new data is added.
+** Drawbacks of Vectors
++ Since vectors use arrays, that means each element has to sit sequentially in memory for indexing.
++ This restriction is what requires us to make an entirely new array and copy data over any time we run out of space.
++ The /process of creating a new array is tedious/
++ /Adding data/ into the middle of the array /or removing data is also very tedious/ with vectors, as you would have to do a lot of work shifting on the element around in the structure.
+
+* The Linked List
++ Alternatively, we can create a structure for storing data that links elements together through pointer, rather than storing data sequentially in memory.
++ Essentially, we can form a "chain" of elements, where each element points to the next element.
+** The "Node" Structure
++ A linked list contains a chain of "nodes".
++ Nodes contain two parts:
+  * The data
+  * The pointer to the next node
+** Nodes in Memory
++ Nodes are allocated on the heap.
++ Each node points to the next node in the chain.
++ The last node is assigned the value "nullptr", indicating it doesn't point anywhere.
++ The first nodes is tracked by a pointer called the "head".
++ The "head" lives on the stack.
++ We access the data in the list by starting at the head and following the pointers to the data.
++ Nodes are not also required to be next to eachother in memory (can be gaps /unlike with vectors/)
+** *Advantages* of the Linked List
++ Linked lists accel at:
+  * Adding new elements
+  * Removing elements
+  * Re-ordering elements
++ This is because performing these actions only requires the pointers to be modified.
++ The node itself does not have to move in memory.
+** Adding a New Node
++ To add a new node, we find the last node in the list.
++ The last node is th enode whose pointer does not point to another node (e.g., nullptr)
++ A new node is added by creating a new node on the heap
++ The address of the new node is assigned to the "next" pointer of the previous node.
+** Removing Nodes
++ A node can be removed by changing pointer addresses
++ To remove "Node 1", all we must do is make "Node 0" point to "Node 2"
+** *Limitations* of Linked

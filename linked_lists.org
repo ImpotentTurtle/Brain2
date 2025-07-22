@@ -7,6 +7,12 @@
 /Code Example: [[id:50ea0782-b360-458e-845b-3aef3078482c][SinglyLinkedList]]/
 /Code Project: [[id:31f59439-6470-4c9d-af5b-0982b47a943b][DoublyLinkedListClass]]/
 
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
+
 * Vector Behavior
 + As data is pushed onto the vector, the allocated heap space is consumed.
 + When more data is pushed that the vector has space for, a new, larger array is created, and the old data is copied over and the new data is added.

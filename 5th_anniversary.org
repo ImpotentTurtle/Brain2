@@ -4,8 +4,22 @@
 #+title: 5th Anniversary
 #+filetags:Memos
 
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
+~Our Anniversary falls on a Friday this year. This makes things tricky for the day itself. However, it does open up the opportunity to make a weekend out of it!~
 * Gift Ideas
 ** [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
 ~This would serve as the main gift for Julie. It is something that I have been wanting to create for her for some time now. I would start on it in early/mid August, and plan to have it hardware ready by the second week of Septermber; utilizing the rest of my time for perfecting software and UI.~
 
-**
+** Custom Bouquet
+~This is a given; she always loves having flowers. However I want to do something a little more special this time around. I need to reach out to hunter and ask who his flourist is so I can get something especially nice and personalized for Julie.~
+
+* Food/Dinner Ideas
+** Cold Smoked Maple Salmon
+~I will need to do some research on how to get a hold of this/where to go in order to have this prepared for her.~
+
+* Activity/Event Ideas
+~I am not completely Positive on this yet. I would like to see what is arround and possible to do on the day (or weekend) itself. But I do know that I would like to do some activity/experience that will at to the specialness of the day.~

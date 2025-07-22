@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       50ea0782-b360-458e-845b-3aef3078482c
+:END:
+#+title: SinglyLinkedList
+#+filetags:Class Examples
+
+#+begin_src cpp
+
+#+end_src

@@ -45,3 +45,6 @@
 + A node can be removed by changing pointer addresses
 + To remove "Node 1", all we must do is make "Node 0" point to "Node 2"
 ** *Limitations* of Linked
++ Linked Lists aren't superior to vectors/arrays.
++ In order to retrieve data from a linked list, we have to start at the head pointer and follow the trail of "next" pointers to the desired element.
++ Arrays/Vectors are much faster, since calculating an index is really fast due to all of the data being sequential in memory.

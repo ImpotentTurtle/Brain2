@@ -56,6 +56,23 @@ int& at(Node* head, unsigned int index){
 }
 
 int main(){
+-- ~/.config/nvim/init.lua
+
+vim.g.mapleader = " "  -- optional
+
+require("lazy").setup({
+  { "ellisonleao/gruvbox.nvim",
+    priority = 1000,
+    opts = {
+      terminal_colors = true,
+      contrast = "hard",
+    },
+    config = function(_, opts)
+      require("gruvbox").setup(opts)
+      vim.cmd.colorscheme("gruvbox")
+    end,
+  },
+})
     Node* head = nullptr;
 
 

@@ -4,6 +4,69 @@
 #+title: SinglyLinkedList
 #+filetags:Class Examples
 
+[[id:d085c6f6-4c83-44e1-9fa3-cb70ec2e1094][Theory: Linked Lists]]
 #+begin_src cpp
+#include <iostream>
 
+using namespace std;
+
+struct Node{
+    int data;
+    Node* next;
+};
+
+void push_back(Node*& head, int data){
+  if(head == nullptr){
+    //if head is nullptr, then lst is empty and we are adding the first element
+    head = new Node;
+
+    head->data = data; // (*head).data = data; syntactically equivalent
+    head->next = nullptr;
+    return;
+  }
+
+  Node* currentNode = head;
+  while(currentNode->next != nullptr){
+    currentNode = currentNode->next;
+  }
+
+  currentNode->next = new Node;
+  currentNode->next->data = data;
+  currentNode->next->next = nullptr;
+
+}
+
+unsigned int size(Node* head){
+    unsigned int num_elements = 0;
+    while(head != nullptr){
+        num_elements++;
+        head = head->next;
+    }
+    return num_elements;
+}
+
+int& at(Node* head, unsigned int index){
+    unsigned int current_index = 0;
+    while(current_index != index){
+        current_index++;
+        head = head->next;
+    }
+    return head->data;
+}
+
+int main(){
+    Node* head = nullptr;
+
+
+    push_back(head, 5);
+    push_back(head, 7);
+    push_back(head, 9);
+
+    for(int i = 0; i < size(head); i++){
+        cout << at(head, i) << endl;
+    }
+
+
+    return 0;
+}
 #+end_src

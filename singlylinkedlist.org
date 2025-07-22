@@ -4,7 +4,8 @@
 #+title: SinglyLinkedList
 #+filetags:Class Examples
 
-[[id:d085c6f6-4c83-44e1-9fa3-cb70ec2e1094][Theory: Linked Lists]]
+/Theory: [[id:d085c6f6-4c83-44e1-9fa3-cb70ec2e1094][Linked Lists]]/
+
 #+begin_src cpp
 #include <iostream>
 
@@ -70,3 +71,9 @@ int main(){
     return 0;
 }
 #+end_src
+
+* Output
+#+RESULTS:
+| 5 |
+| 7 |
+| 9 |

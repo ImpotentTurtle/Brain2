@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f696dcfd-edde-49ec-bd17-77365ba5b329
+:END:
+#+title: Robotics Lab 6
+#+filetags:Labs

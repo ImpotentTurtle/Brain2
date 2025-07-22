@@ -22,3 +22,4 @@
 + [[id:cd0c2b25-0d9e-4257-986f-e68f38033fd9][Robotics Lab 3 :]]DC Motor Control
 + [[id:c09576df-59ce-4c3e-a244-982b94080513][Robotics Lab 4]] : C++ Programming and Algorithms
 + [[id:c07bf994-ddc8-42d7-8847-45e757559567][Robotics Lab 5]]: Motor Balancing
++ [[id:f696dcfd-edde-49ec-bd17-77365ba5b329][Robotics Lab 6]]: Line Following

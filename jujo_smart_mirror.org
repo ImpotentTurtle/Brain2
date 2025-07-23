@@ -22,6 +22,8 @@
     + Weather
     + Time
     + Traffic time? (research GPS/Map integration for traffic monitoring)
++ [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][iOS App? ]]
+
 * Materials Required
 + Raspberry Pi
 + Monitor(s) {of approriate size}

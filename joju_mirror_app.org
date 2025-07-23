@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6d0c53ee-6e82-40a5-8892-c6efa79e85d6
+:END:
+#+title: JoJu Mirror App
+#+filetags:Ideas
+
+* Overview
+** Goal
+Create an IOS application for Julie's [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][smart mirror]]. That would allow her (or me) to interact (potentially) with certain functions.
+
+** Functions
++

@@ -52,11 +52,187 @@ void remove(int pos); // removes the element at the specified position
 + The class should properly handle "garbage collection"
   * when the class goes out of scope, no data created on the heap associated with this class should still be allocated
 + the class should properly handle "shallow copies"
-  * when the class is copied through a copy assignment or copy constructor, it should properly re-allocate and copy data for the new linked list class
++ when the class is copied through a copy assignment or copy constructor, it should properly re-allocate and copy data for the new linked list class
 + (Bonus) The class should be modified to handle all types of data (other than just int) through the use of a template class
   * All data "int" instances in the class should be replaced with a templated variable
 
-* Code
-#+begin_src cpp
+* Code .h
+#+begin_src C
+#ifndef DOUBLY_LINKED_LIST_H
+#define DOUBLY_LINKED_LIST_H
+
+#include <iostream>
+
+template <typename J>
+class DoublyLinkedList {
+    private:
+        struct Node{
+            J data;
+            Node* prev;
+            Node* next;
+            Node(const J& val){
+                data = val;
+                prev = nullptr;
+                next = nullptr;
+            }
+        };
+
+    int count;
+    Node* head;
+    Node* tail;
+
+    void copyFrom(const DoublyLinkedList& other){
+        Node* current = other.head;
+        while (current) {
+            push(current->data);
+            current = current->next;
+        }
+    }
+
+    void clear(){
+        while (head){
+            Node* temp = head;
+            head = head->next;
+            delete temp;
+        }
+        tail = nullptr;
+        count = 0;
+    }
+
+    public:
+        DoublyLinkedList(){
+            count = 0;
+            head = nullptr;
+            tail = nullptr;
+        }
+
+        DoublyLinkedList(const DoublyLinkedList& other){
+            count = 0;
+            head = nullptr;
+            tail = nullptr;
+            copyFrom(other);
+        }
+
+        DoublyLinkedList& operator=(const DoublyLinkedList& other){
+            if (this != & other) {
+                clear();
+                copyFrom(other);
+            }
+            return *this;
+        }
+
+        ~DoublyLinkedList(){
+            clear();
+        }
+
+        void push(const J& data){
+            Node* node = new Node(data);
+            count++;
+            if (head == nullptr){
+                head = node;
+                tail = node;
+                return;
+            }
+
+            tail->next = node;
+            node->prev = tail;
+            tail = node;
+        }
+
+        void pop(){
+            if (tail == nullptr) return;
+
+            Node* toDelete = tail;
+
+            if (tail->prev){
+                tail = tail->prev;
+                tail->next = nullptr;
+            } else {
+                head = nullptr;
+                tail = nullptr;
+            }
+
+            delete toDelete;
+            count--;
+        }
+
+        int size(){
+            return count;
+        }
+
+        void print(){
+            Node* current = head;
+
+            while (current) {
+                std::cout << current->data << " ";
+                current = current->next;
+            }
+
+            std::cout << std::endl;
+        }
+
+        J& at(int idx) {
+            if (idx < 0 || idx >= count) {
+                std::cout << "Index out of range\n";
+                std::exit(1);
+        }
+
+            Node* current = head;
+                for (int i = 0; i < idx; i++) current = current->next;
+                return current->data;
+        }
+
+        void insert(const J& data, int pos){
+            if (pos < 0 || pos > count) return;
+            if (pos == count) {
+                push(data);
+                return;
+            }
+
+            Node* current = head;
+            for(int i = 0; i < pos; i++){
+                current = current->next;
+            }
+
+            Node* node = new Node(data);
+            node->next = current;
+            node->prev = current->prev;
+
+            if (current->prev){
+                current->prev->next = node;
+            } else{
+                head = node;
+            }
+
+            current->prev = node;
+        }
+
+        void remove(int pos){
+            if (pos <  0 || pos >= count) return;
+
+            Node* current = head;
+            for (int i = 0; i < pos; i++){
+                current = current->next;
+            }
+
+            if (current->prev){
+                current->prev->next = current->next;
+            } else{
+                head = current->next;
+            }
+
+            if (current->next){
+                current->next->prev = current->prev;
+            } else{
+                tail = current->prev;
+            }
+
+            delete current;
+            count--;
+        }
+
+};
+
+#endif
 
 #+end_Src

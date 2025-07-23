@@ -57,7 +57,7 @@ void remove(int pos); // removes the element at the specified position
   * All data "int" instances in the class should be replaced with a templated variable
 
 * Code .h
-#+begin_src C
+#+begin_src cpp
 #ifndef DOUBLY_LINKED_LIST_H
 #define DOUBLY_LINKED_LIST_H
 

@@ -11,8 +11,9 @@
 :ID:       5b6c1adb-4c73-42c8-be8c-15a61a22ffbe
 :END:
 ** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
-** PROJ [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][JoJu Mirror App]]
-**
+*** TODO [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][JoJu Mirror App]]
+** PROJ [[id:cdef2d70-54de-4357-a5e1-b477f4b5ecbc][GamerThugsVideoGame]]
+** PROJ Personal Website
 * Memos
 :PROPERTIES:
 :ID:       59d413cb-3fee-45c6-822a-43177ccd4d62

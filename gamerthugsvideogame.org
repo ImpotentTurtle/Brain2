@@ -4,8 +4,17 @@
 #+title: GamerThugsVideoGame
 #+filetags:Ideas
 
-~The Gamer Thugs join forces to create an increible game.~
-
-* Concepts
-** "Hobgoblin Elegy"
-+
+#+options: toc:nil
+#+begin_center
+~'The Gamer Thugs' join forces to create an increible game.~
+#+end_center
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+* Brain Storm
+** Hobgoblin Elegy
++ "fighting JD vance and his space army of goblins" - Sean
+#+begin_center
+/this is all we have atm :}/
+#+end_center
+** Escape From Boone Boogity

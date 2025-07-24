@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cdef2d70-54de-4357-a5e1-b477f4b5ecbc
+:END:
+#+title: GamerThugsVideoGame
+#+filetags:Ideas
+
+~The Gamer Thugs join forces to create an increible game.~
+
+* Concepts
+** "Hobgoblin Elegy"
++

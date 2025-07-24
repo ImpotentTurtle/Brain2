@@ -9,4 +9,6 @@
 Create an IOS application for Julie's [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][smart mirror]]. That would allow her (or me) to interact (potentially) with certain functions.
 
 ** Functions
+~Julie is not a /modder/, she doesn't like to modify products. She enjoys a product in depth, as a consumer strictly. The apps functionality should reflect this.~
+
 +

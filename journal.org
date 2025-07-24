@@ -4,7 +4,7 @@
 #+title: Journal
 #+filetags:Index
 
-|This is a 'Central Index Node' that holds my personal notes (i.e. Ideas, To-Do, Thoughts, etc.)
+|This is a 'Central Index Node' that holds my personal notes (i.e. Ideas/Personal Projects, To-Dos, Thoughts, etc.)
 
 * Ideas
 :PROPERTIES:

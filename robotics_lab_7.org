@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       25ca87c8-0261-491d-ae3b-003daedeb0a6
+:END:
+#+title: Robotics Lab 7
+#+filetags:Labs

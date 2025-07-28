@@ -14,11 +14,11 @@
 *** TODO [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][JoJu Mirror App]]
 ** PROJ [[id:cdef2d70-54de-4357-a5e1-b477f4b5ecbc][GamerThugsVideoGame]]
 ** PROJ Personal Website
+** Personal Apps for Julie?
 * Memos
 :PROPERTIES:
 :ID:       59d413cb-3fee-45c6-822a-43177ccd4d62
 :END:
 ** [[id:c5356241-2efb-4087-a3f5-7e6a1252310a][5th Anniversary]]
 ** [[id:24c3523b-926e-4773-be68-5a7cf66996d0][Physics2StudyPlan]]
-** Personal Applications for Julie?
-**
+

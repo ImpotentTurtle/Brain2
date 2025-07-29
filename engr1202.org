@@ -23,4 +23,4 @@
 + [[id:c09576df-59ce-4c3e-a244-982b94080513][Robotics Lab 4]] : C++ Programming and Algorithms
 + [[id:c07bf994-ddc8-42d7-8847-45e757559567][Robotics Lab 5]]: Motor Balancing
 + [[id:f696dcfd-edde-49ec-bd17-77365ba5b329][Robotics Lab 6]]: Line Following
-+ [[id:25ca87c8-0261-491d-ae3b-003daedeb0a6][Robotics Lab 7]]: Maze Runner
++ [[id:25ca87c8-0261-491d-ae3b-003daedeb0a6][Robotics Lab 7]]: Maze Runner [Final Robot Lab]

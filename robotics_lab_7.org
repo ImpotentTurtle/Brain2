@@ -3,3 +3,25 @@
 :END:
 #+title: Robotics Lab 7
 #+filetags:Labs
+
+* Objectives
+~Using skills learned from previous labs I will be creating a program that will navigate my robot through a short maze using motor controls and sensory feedback.~
+** Required Materials
++ TI RSLK MAX Robot Kit
++ USB Cable
++ Laptop with Energia Installed
+
+* Procedure
+** Designing the algorithm
+My algorithm will ustilize a combination of strategies used in both the "Motor Balancing" & "Bump Sensor" Labs. By combining these two kinds of algorithms My robot will self regulate both its speed and direction throuh internal and external sensing
+
+*** Motor Balancing
+Using a motor balancing algorithm in my code, my robot will regulate the speeds of both wheels. This will provide for a the robot to drive in line of significantly straighter than it other wise would. This will be valuable, as any direction changes the robot will need to make will be more accurate. This requiring less error correction from external sensing.
+
+*** Bump Sensors
+This robot will make use of its "bump senesors". These will be how my robot will guide itself through the maze with ease. Driving straight into the maze, the robot will make contact with a wall in which it will back up and turn left 90 degrees. This will be done *5* times in succession/alternating directions.
+
+** Algorithm (code)
+#+begin_src cpp
+
+#+end_src

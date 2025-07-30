@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       07f90df6-e8d4-42a0-baef-854b71e6aaac
+:END:
+#+title: MyWebsite
+#+filetags:Projects
+
+* Overview
+~The main goal of this project is to create a personal website for myself. Similarly to those I look up to in the digital space, it would serve multiple functions (about me, projects/life updates, "rants" about my interests and the tools I use, etc.). It should a decent bit, while still being an enjoyable website to visit; Its got to have spunk~
+
+* Implementation && Inspiration
+
+** Features
++

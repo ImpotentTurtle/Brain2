@@ -5,8 +5,18 @@
 #+filetags:Projects
 
 * Overview
-~The main goal of this project is to create a personal website for myself. Similarly to those I look up to in the digital space, it would serve multiple functions (about me, projects/life updates, "rants" about my interests and the tools I use, etc.). It should a decent bit, while still being an enjoyable website to visit; Its got to have spunk~
+~The main goal of this project is to create a personal website for myself. Similarly to those I look up to in the digital space, it would serve multiple functions (about me, projects/life updates, "rants" about my interests and the tools I use, etc.). It should a decent bit, while still being an enjoyable website to visit; Its got to have spunk (i.e. personal platform and portfolio)~
+
+
+
 
 * Implementation && Inspiration
 
-** Features
+** Brainstorm
++ Portfolio page
+  * I know that I definitiely want to include a section with some of my school projects (i.e. final interactive game project for computer engineering programming II)
+  * I definitely want to have some of my personal projects as well.
+  * These could mainly serve as showcases *Look into what digital portfolios typically look like*
++ About me page?
+  * This could be a main page of sorts detailing who I am, my interests, my adventures with Julie, etc.
++ "Blog" section. This would be some sort of area where I just talk about my interests and the tools I am using. *look into some inspiration from those you look up to*

@@ -6,12 +6,7 @@
 
 * Overview
 ~The main goal of this project is to create a personal website for myself. Similarly to those I look up to in the digital space, it would serve multiple functions (about me, projects/life updates, "rants" about my interests and the tools I use, etc.). It should a decent bit, while still being an enjoyable website to visit; Its got to have spunk (i.e. personal platform and portfolio)~
-
-
-
-
 * Implementation && Inspiration
-
 ** Brainstorm
 + Portfolio page
   * I know that I definitiely want to include a section with some of my school projects (i.e. final interactive game project for computer engineering programming II)
@@ -20,3 +15,25 @@
 + About me page?
   * This could be a main page of sorts detailing who I am, my interests, my adventures with Julie, etc.
 + "Blog" section. This would be some sort of area where I just talk about my interests and the tools I am using. *look into some inspiration from those you look up to*
++ Landing Page
+  * boot up screen in to the the landing page????
+  * maybe this is where the basic about me/description of what the purpose of the page is.
+  * design with some cool stuff like intersting plugins on the sides of the pages (pls consider mobile users)
+  * light and dark mode (ew lowkey)
+  * ambient sound (relaxing shit; waterfall, rain, beach, nature, etc.)
+** Inspiration
+*** Site Inspo
++ "DevAsLive" page
++ JVScholz page
++ Y2K pizzaz pages
++ Personal Work Flow
++ Gimmick site? Functions kind of like a desktop? could be weird; could be cool idk.
+*** Theoretical Inspiration
++ Wabi Sabi
++ Ambient
++ Relaxing
++ Meditation/Intentionality
++ Nature
+* WebPage Breakdown
+** Landing/HomePage
+**

@@ -35,5 +35,5 @@
 + Meditation/Intentionality
 + Nature
 * WebPage Breakdown
-** Landing/HomePage
+** Laanding/HomePage
 **

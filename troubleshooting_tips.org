@@ -63,7 +63,7 @@ Q: ~My iPad seems to be frozen | I cannot interact with the screen~
   * Volume up, Volume down, then Hold down the power button until the screen shuts off completely.
   * Wait 10 seconds and then hold the power button again until the Apple Logo appears on the screen.
 + Once this is done, your iPad should function as intended. If not, please reach out to IT
-+
+
 
 #+begin_export latex
 \clearpage

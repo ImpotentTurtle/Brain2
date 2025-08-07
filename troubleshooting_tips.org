@@ -25,7 +25,7 @@ Q: ~I have sent a print job, however I do not see it in queue for release?~
 + Else -- Open the settings application on your laptop; search for the devices and printers menu; click on the printer you sent the file to and open up the queue page:
   * If you see your file here and a message that the queue/file is paused; right click on the document and click "unpause queue" -> *Check if your document has made it to the printer*
 
-+ Else -- If you bring your mouse to the bottom right of the screen near the date and time; look for a button that looks like this " ^ "; click on it; here find the green printer icon (PaperCut) and click on "View Printers".
++ Else -- If you bring your mouse to the bottom right of the screen near the date and time; look for a button that looks like this *" ^ "*; click on it; here find the green printer icon (PaperCut) and click on "View Printers".
   * If you are prompted with a *login screen* then login with your @brookstoneschools.org credentials; go to "install printers" on the side of the screen and install the printers you need to use -> *Attempt to reprint*
   * otherwise, click refresh -> *Attempt to reprint*
 
@@ -78,4 +78,5 @@ Q: ~How my students print with their chromebooks~
 \clearpage
 #+end_export
 * Smartboards
+** General
 -----

@@ -71,7 +71,9 @@ Q: ~My iPad seems to be frozen | I cannot interact with the screen~
 ** General
 -----
 Q: ~How my students print with their chromebooks~
-+ Chromebooks
++ All Chromebooks are currently set up with our print server (PaperCut), so printing should be a relatively painless process for students!
+  * Just as you would with your teacher laptops, selecting print on a document (or pressing ctrl + p) will open a window to select which printer you would like to send a job to.
+  * Select your printer and follow the instructions listed on the screen; Once completed, retrieve the document from the printer!
 #+begin_export latex
 \clearpage
 #+end_export

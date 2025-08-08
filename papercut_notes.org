@@ -4,6 +4,11 @@
 #+title: PaperCut Notes
 #+filetags:Brookstone Schools
 
+#+options: toc:nil
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
 * Accessing PaperCut Server
 + Open /Remote Desktop Client/ of choice
 + Choose /RDP/ connection and type in the IP: /192.168.5.250/
@@ -16,6 +21,6 @@
 * Re-Naming Users In Papercut MF
 ** In PaperCut Server (see above)
 + Open up /Administrator/ terminal
-+ cd c:\Program Files\PaperCutMF\server\bin\win
-+ .\server-command.exe rename-user "old_username" "new_username"
++ cd c:/Program Files/PaperCutMF/server/bin/win
++ ./server-command.exe rename-user "old-username" "new-username"
 + /Enter/

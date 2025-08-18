@@ -52,6 +52,8 @@
 :ID:       14498759-e74b-4525-a101-cd5a8fe2db29
 :END:
 
+*** [[id:f92d639d-8751-48f5-8b12-f35a0092b00c][ECGR3180]]: Data Structures & Algorithms in C++
+***
 
 ** Spring Semester
 :PROPERTIES:

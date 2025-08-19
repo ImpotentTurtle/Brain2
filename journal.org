@@ -13,7 +13,7 @@
 ** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
 *** TODO [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][JoJu Mirror App]]
 ** PROJ [[id:cdef2d70-54de-4357-a5e1-b477f4b5ecbc][GamerThugsVideoGame]]
-** PROJ  [[id:07f90df6-e8d4-42a0-baef-854b71e6aaac][MyWebsite]]
+** PROJ [[id:07f90df6-e8d4-42a0-baef-854b71e6aaac][MyWebsite]]
 ** Personal Apps for Julie?
 * Memos
 :PROPERTIES:
@@ -21,4 +21,3 @@
 :END:
 ** [[id:c5356241-2efb-4087-a3f5-7e6a1252310a][5th Anniversary]]
 ** [[id:24c3523b-926e-4773-be68-5a7cf66996d0][Physics2StudyPlan]]
-

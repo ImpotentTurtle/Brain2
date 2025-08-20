@@ -29,5 +29,7 @@
 + Monitor(s) {of approriate size}
 + One-Way Glass {of desired size}
 
-
+* Presentation
+~One thing I would really like to do is make some sort of video detailing the construction process, but make it kinda funny. Think BasicallyHomeless and Michael Reeves. So a little silly and /overly edited/.~
++
 * Progress Journal

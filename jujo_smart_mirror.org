@@ -8,15 +8,15 @@
 
 * Overview
 ** Design Concept
-- Size: 16"x24" or 20"x30"
+- Size: 16"x24" or 20"x30"???????
 ** Desired Features
 + Information Displayed
   + Welcoming
   + Weather
   + Time
   + Spotify Integration(?)
-  + Affirmations/Love Notes: These could be updated by me remotely
-+ Voice Activation
+  + Affirmations/Love Notes: These could be updated by me remotely (*UPDATES COULD BE ROLLED WITH SSH*)
++ Voice Activation(?)
   + Room Automation (lights/mood setting)
   + Answer basic questions
     + Weather
@@ -60,3 +60,4 @@
   + Fast camera pan (blur) into me in my at my desk [begin silly mode] /Hi. I am Joel, a Computer Engineer at JoJu Tech...../
 
 * Progress Journal
+** Pre Materials Phase

@@ -29,11 +29,28 @@
 + Monitor(s) {of approriate size}
 + One-Way Glass {of desired size}
 + Probably more...
-*** Shopping List: *Definitive*
+*** TODO Shopping List
+**** TODO Measure Monitor
+      + Two-Way mirror: /TwoWayMirrors.com/ $40-$100
+      + Frame (cut wood?): $30-$60
+      + Infrared Frame????: $80-$200
+      + Raspberry-Pi & PowerSupply: *owned*
+      + HDMI cables: *owned*
+      + Power Strip?: *owned*
+      + Cableties/Velcro: $5-$10
+                      _Est. Total_: *$75 - $200* (+100-200 more for touch capability)
 
+~Revised a little bit~
+      + Mirror ~ 120
+      + Frame ~ 30
+      + Power/Cables ~30
+      + PIR Sensor ~ 12
+                      /Total: 152 - 192 (acrylic or glass)/
+
+      + *PIR Sensor*:  give the device functionality to be asleep until walked in front of.
+      + *Software (/MagicMirror2/)*: Plug-and-play software that is free and modular. ----- Maybe build own software later based on this as basis?
 * Presentation
-~One thing I would really like to do is make some sort of video detailing the construction process, but make it kinda funny. Think BasicallyHomeless or Michael Reeves. So a little silly and /overly edited/.~
-** Ideas
+~One thing I would really like to do is make some sort of video detailing the construction process, but make it kinda funny. Think BasicallyHomeless or Michael Reeves. So a little silly and /overly edited/.~ ** Ideas
 + Ominous Raz-Pi edit in the beginning
 + Video journal my progress for B-Roll
 + Apple/tech company style keynote at the end for presenting features. /DEFINITLEY RENT OUT A ROOM AT SCHOOL/

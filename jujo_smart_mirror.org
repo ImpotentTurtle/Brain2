@@ -50,7 +50,8 @@
       + *PIR Sensor*:  give the device functionality to be asleep until walked in front of.
       + *Software (/MagicMirror2/)*: Plug-and-play software that is free and modular. ----- Maybe build own software later based on this as basis?
 * Presentation
-~One thing I would really like to do is make some sort of video detailing the construction process, but make it kinda funny. Think BasicallyHomeless or Michael Reeves. So a little silly and /overly edited/.~ ** Ideas
+~One thing I would really like to do is make some sort of video detailing the construction process, but make it kinda funny. Think BasicallyHomeless or Michael Reeves. So a little silly and /overly edited/.~
+** Ideas
 + Ominous Raz-Pi edit in the beginning
 + Video journal my progress for B-Roll
 + Apple/tech company style keynote at the end for presenting features. /DEFINITLEY RENT OUT A ROOM AT SCHOOL/

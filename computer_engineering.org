@@ -52,9 +52,9 @@
 :END:
 
 *** [[id:f92d639d-8751-48f5-8b12-f35a0092b00c][ECGR3180]]: Data Structures & Algorithms in C++
-*** [[id:c30fa79b-3dee-4b1d-9c40-ae56db421f43][HAHS1511]]: Health and Quality of Life
 *** [[id:817f1bf4-ba2a-4d45-b6d1-ba6afc5a66ec][MATH2171]]: Differential Equations
 *** [[id:209437d0-39f9-4f3e-88a0-bd959f5dd174][STAT3128]]: Probaility and Statistics for Engineers
+*** [[id:c30fa79b-3dee-4b1d-9c40-ae56db421f43][HAHS1511]]: Health and Quality of Life
 *** [[id:884b87aa-d49c-4404-9662-047dd51e14a5][CTCM2530]]: Critical Thinking
 
 ** Spring Semester

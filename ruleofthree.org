@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       46ea1b03-b395-4e07-a7c3-7ecb56670875
+:END:
+#+title: RuleOfThree
+#+filetags:Projects

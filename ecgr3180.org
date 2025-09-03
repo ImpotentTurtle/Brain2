@@ -10,8 +10,9 @@
 :ID:       fab0a61a-032d-4cd0-b193-7e770ff7a5a1
 :END:
 
-
 * Projects
 :PROPERTIES:
 :ID:       d6e5eb02-1617-4082-9a19-21872b980910
 :END:
+
+** [[id:46ea1b03-b395-4e07-a7c3-7ecb56670875][RuleOfThree]]

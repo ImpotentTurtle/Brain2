@@ -15,4 +15,8 @@
 :ID:       d6e5eb02-1617-4082-9a19-21872b980910
 :END:
 
+* HomeWork
+:PROPERTIES:
+:ID:       6d273543-17b0-44c9-91d8-1f03509e42b9
+:END:
 ** [[id:46ea1b03-b395-4e07-a7c3-7ecb56670875][RuleOfThree]]

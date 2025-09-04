@@ -2,4 +2,53 @@
 :ID:       46ea1b03-b395-4e07-a7c3-7ecb56670875
 :END:
 #+title: RuleOfThree
-#+filetags:Projects
+#+filetags:HomeWork
+
+* Problem Description
+
+* Solution Description
+* Initial non-AI attempt to code the solution
+* AI prompts used
+* Code testing description
+
+* Code including tests
+#+begin_src cpp
+#ifndef INVENTORY_H
+#define INVENTORY_H
+
+#include <string>
+
+class Item {
+public:
+  Item(const std::string& name, int quantity);
+  std::string getName() const;
+  int getQuantity() const;
+
+private:
+  std::string name;
+  int quantity;
+};
+
+class Inventory{
+public:
+  Inventory();
+  Inventory(const Inventory& other);
+  Inventory& operator=(const Inventory& other);
+  ~Inventory();
+
+  void addItem(const std::string& name, int quantity);
+  void removeItem(const std::string& name);
+  void printInventory() const;
+
+private:
+  Item** items;
+  int size;
+  int capacity;
+
+  void resize();
+  void deepCopy(const Inventory& other); void freeMemory();
+};
+
+#endif
+
+#+end_src

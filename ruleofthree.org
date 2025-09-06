@@ -5,13 +5,15 @@
 #+filetags:HomeWork
 
 * Problem Description
-
+This is my understanding of the task at hand. We are given a main file and header file that are set up to emulate some type of game inventory system. The header acts as our implementation file in which we store all of our logic that will be used by our main file.
 * Solution Description
+Since we are given the header file we can take a look at each of the tools that the main file will be using. By reading through the main file and its expected output we can get a sense of what each section is supposed to do. My process of determing how I will produce my solution comes from comparing the header and main files. My process is as follows: Read through the main file until I come across a function (constructors, operators, etc.). Once I find one, I take a look at what the expected output is supposed to be; Seeing if I can logically understand what the code is doing. Once this is done look for the given function in my header file and see what I am already given. From here I begin to code and confirm that my functions are working as intended.
 * Initial non-AI attempt to code the solution
+My initial non-AI attempt went fairly well. I focused on each function independently of each other.
 * AI prompts used
 * Code testing description
 
-* Code including tests
+* Code
 #+begin_src cpp
 #ifndef INVENTORY_H
 #define INVENTORY_H

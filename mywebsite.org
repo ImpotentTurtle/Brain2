@@ -40,8 +40,14 @@
 *** DONE 'Profile' Picture
 *** TODO Current Goals
 *** TODO Credentials/LinkedIn
-*** TODO
 ** Movie Reviews
+*** TODO Imported Reviews from Letterboxed
+ + Article/Journalism format
+ + Main focus on movies that are stored in letterboxed (recently viewed/rewatched)
+ + Should be provide depth into thoughts/feelings/understanding/impact
+*** TODO links to articles should provide title, thumbnail, & preview of contents in list format
 ** Photography
+*** TODO Album format
+ + Formated by Date? Location? Style?
 ** My Tools
 ** Portfolio

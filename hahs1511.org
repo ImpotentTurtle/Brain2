@@ -4,3 +4,8 @@
 #+title: HAHS1511
  [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 #+filetags: Junior/Fall
+
+* Notes
+:PROPERTIES:
+:ID:       2f27f115-cfbd-447a-83d0-f372923aae4b
+:END:

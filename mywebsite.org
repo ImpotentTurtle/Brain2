@@ -36,3 +36,12 @@
 + Nature
 * WebPage Breakdown
 ** Landing/HomePage
+*** DONE Simple Bio/Interests
+*** DONE 'Profile' Picture
+*** TODO Current Goals
+*** TODO Credentials/LinkedIn
+*** TODO
+** Movie Reviews
+** Photography
+** My Tools
+** Portfolio

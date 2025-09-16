@@ -20,3 +20,4 @@
 :ID:       6d273543-17b0-44c9-91d8-1f03509e42b9
 :END:
 ** [[id:46ea1b03-b395-4e07-a7c3-7ecb56670875][RuleOfThree]]
+** [[id:145c54a6-671d-4d61-9663-569454c4dde0][LinkedLists]]

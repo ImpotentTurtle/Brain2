@@ -13,4 +13,34 @@
 * Problem Description
 In this assignment we are tasked in creating a class that will search through a sorted, linked list, which will then delete any and all reoccuring elements. Once this is done we must print the updated *and* sorted linked list to the terminal.
 * Solution Description
-From the examples provided we can tell the that our lists are sorted in ascending order--this informs me how I will need to search through the lists as repeating numbers will occur next to each other. We start by putting pointer at the head of the linked list called *current*. While current and the following current are not "null", we will compare the current value with the following value. If they happen to be equal, we can skip over it by linking the "following" number to nothing. If they happen to not be equal, then, *current* will move on to the next node. This will continue until the entire list has been sorted through. Once done, we will return the head of the, now, modified list. This should come out to be a /Time Complexity of O(n)/
+From the examples provided we can tell the that our lists are sorted in ascending order--this informs me how I will need to search through the lists as repeating numbers will occur next to each other. We start by putting pointer at the head of the linked list called *current*. While current and the following current are not "null", we will compare the current value with the following value. If they happen to be equal, we can skip over it by linking the "following" number to nothing. If they happen to not be equal, then, *current* will move on to the next node. This will continue until the entire list has been sorted through. Once done, we will return the head of the, now, modified list. This should come out to be a /Time Complexity of O(n)/.
+* Initial non-AI attempt to code the solution.
+With my initial attempt I did just as described above--a pretty straight forward algorithm. We start with *current* and *current->next*, we use a while loop under the condition that they are not null; compare them. If they are the same then we link *current->next* to *current->next->next*. If they are not equal, *current* moves to *current->next*. This loop continues to run until the end of the list is reached. The loop then exits and returns the head of the modified list. Since any potential repeating numbers are already next to eachother, the list naturally stays sorted. No AI was needed in this solution.
+* Code Testing Description
+Testing the code was rather straight forward. As this was done through LeetCode I used the default two test cases provided. This only required one attempt, so there was no problems and debugging that needed to be completed.
+* Code and Tests
+#+begin_src cpp
+class Solution{
+public:
+  ListNode* deleteDuplicates(ListNode* head){
+    if (!head) return nullptr;
+
+    ListNode* current = head;
+    while(current && current->next) {
+      if (current->val == current->next->val) {
+        ListNode* temp = current->next;
+        current->next = current->next->next;
+        delete temp;
+      } else{
+        current = current->next;
+      }
+    }
+    return head;
+  }
+};
+#+end_src
+
+#+begin_src latex
+\begin{center}
+\includegraphics[scale=0.3]{~/Pictures/LinkedList1}
+#+end_src

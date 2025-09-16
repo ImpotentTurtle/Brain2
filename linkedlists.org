@@ -9,3 +9,8 @@
 #+begin_export latex
 \clearpage
 #+END_EXPORT
+
+* Problem Description
+In this assignment we are tasked in creating a class that will search through a sorted, linked list, which will then delete any and all reoccuring elements. Once this is done we must print the updated *and* sorted linked list to the terminal.
+* Solution Description
+From the examples provided we can tell the that our lists are sorted in ascending order--this informs me how I will need to search through the lists as repeating numbers will occur next to each other. We start by putting pointer at the head of the linked list called *current*. While current and the following current are not "null", we will compare the current value with the following value. If they happen to be equal, we can skip over it by linking the "following" number to nothing. If they happen to not be equal, then, *current* will move on to the next node. This will continue until the entire list has been sorted through. Once done, we will return the head of the, now, modified list. This should come out to be a /Time Complexity of O(n)/

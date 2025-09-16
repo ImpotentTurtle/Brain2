@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3bfde027-0190-4fcf-b487-488dd758acce
+:END:
+#+title: E4Outline
+#+filetags:Projects
+
+* Topic: Chronic Diseases

@@ -4,4 +4,6 @@
 #+title: E4Outline
 #+filetags:Projects
 
-* Topic: Chronic Diseases
+* Topic: Chronic Disease - Type 2 Diabetes
+* Timeline
+* Presentation Roles

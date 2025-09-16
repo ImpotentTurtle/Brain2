@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       145c54a6-671d-4d61-9663-569454c4dde0
+:END:
+#+title: LinkedLists
+#+filetags:HomeWork
+
+#+options: toc:nil
+
+#+begin_export latex
+\clearpage
+#+END_EXPORT

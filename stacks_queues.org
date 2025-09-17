@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6200e038-1eec-4433-85da-44e8f40c5a44
+:END:
+#+title: Stacks&Queues
+#+filetags:HomeWork
+
+#+options: toc:nil
+
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
+* Problem Description

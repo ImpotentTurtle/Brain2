@@ -180,3 +180,5 @@ Inventory :
 
 
 #+end_src
+
+#+RESULTS:

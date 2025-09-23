@@ -11,3 +11,6 @@
 #+END_EXPORT
 
 * Problem Description
+The goal of this problem is to implement our own stack class using no more than two queues. With that, the class should be supported by a multitude of functions that we would normally see within a stack.
+
+* Solution Description

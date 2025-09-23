@@ -14,3 +14,53 @@
 The goal of this problem is to implement our own stack class using no more than two queues. With that, the class should be supported by a multitude of functions that we would normally see within a stack.
 
 * Solution Description
+My strategy for solving this challenge is rather simple. Here we are given a list of a few stack functions to initialize--such as push, pop, top, empty. These are basic functions that we see in most stack operations. By understanding the definitions I am able to come up with some basic approaches to this problem. For "top" we know that it is effectively a "getter" function. That is, it should be able to be resolved witha  simpe return statement calling our queue to the front. Additionally, we know that "push" moves an item to the top of the stack. We  can approach this by looping through the stack "pushing" each number out of the way as we iterate through the steps.
+
+* Initial non-AI attempt to code the solution.
+This step as mentioned above was reletively painless. For push I set up a loop that as long as queue 1 (q1) was empty queue 2 (q2) would push to the front--->pop q1 and then swap their places. For *pop* we assign a value to q1, remove it from the queue, and then retrieve the value from the return statement. For *top* and *empty* I wrote a simple return statement that retrieves the data stored in the element and returns it. Same with empty, a simple return statement that will just pull a true or false statement. Once I did this I submitted it to leet code and unfortunately my test case did not run as inteded. Everything was moving the correct way and in the right spots, yet the returned values were wrong. I realized, however that my logic was off. My while loop for my push function should be "while q1 is not empty" otherwise its going to return negative values. Once I changed this, it seemed to work right away.
+
+* Code Testing Description
+As this was a leet code question, I used the built in test cases and submitted my code.
+
+* Code & Testing
+#+begin_src cpp
+class MyStack{
+private:
+  queue<int> q1, q2;
+
+public:
+  MyStack(){ }
+
+  void push(int x){
+    q2.push(x);
+
+    while(!q1.empty()){
+      q2.push(q1.front());
+      q1.pop();
+    }
+    swap(q1, q2);
+  }
+
+  int pop(){
+    int val = q1.front();
+    q1.pop();
+    return val;
+  }
+
+  int top(){
+    return q1.front();
+  }
+
+  bool empty(){
+    return q1.empty();
+  }
+
+};
+#+end_Src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Pictures/Stacks_Queues.png}
+\end{figure}
+#+end_src

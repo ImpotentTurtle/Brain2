@@ -1,8 +1,15 @@
 :PROPERTIES:
 :ID:       3bfde027-0190-4fcf-b487-488dd758acce
+:ROAM_ALIASES: "Disease Project"
 :END:
-#+title: E4Outline
+#+title: E4GroupProject
+#+subtitle: Outline
 #+filetags:Projects
+
+#+options: toc:nil
+#+begin_src latex
+\clearpage
+#+end_src
 
 * Topic: Chronic Disease - Type 2 Diabetes
 ** Probem Statement

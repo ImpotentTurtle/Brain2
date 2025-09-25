@@ -20,4 +20,4 @@
 :PROPERTIES:
 :ID:       34f11848-0d59-4833-93f6-a89e8542eca2
 :END:
-** [[id:3bfde027-0190-4fcf-b487-488dd758acce][E4_Outline]]
+**  [[id:3bfde027-0190-4fcf-b487-488dd758acce][E4GroupProject]] - Outline

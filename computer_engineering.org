@@ -5,7 +5,7 @@
 #+title: Computer Engineering
 #+filetags:Index
 
-| This is the 'Central Index Node' that is dedicated to my College Career in Computer Engineering.
+~This is the 'Central Index Node' that is dedicated to my College Career in Computer Engineering.~
 
 * Freshman
 :PROPERTIES:

@@ -4,7 +4,7 @@
 #+title: Work
 #+filetags:Index
 
-|This is the 'Central Index Node' where I keep my work documents
+~This is the 'Central Index Node' where I keep my work documents~
 
 * Company
 :PROPERTIES:

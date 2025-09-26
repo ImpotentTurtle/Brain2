@@ -14,3 +14,4 @@
 In this assignment we are writing class that, when presented with two strings, we can check whether or not it is an anagram. An anagram is a word (or string of letters) that contains all the same letter. For example: /rat and tar/ or /listen and silent/.  If you pass a set of these two words into the calss then it shoud return as "true". If the words presented do not contain the same letters (/i.e. car and cat/), the program should return "false".
 
 * Solution Description
+For this problem

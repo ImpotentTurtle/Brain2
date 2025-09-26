@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8f325578-2254-4176-b3b5-632f81fbe55b
+:END:
+#+title: ValidAnagram
+#+filetags:HomeWork
+
+#+options: toc:nil
+
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
+* Problem Description
+In this assignment we are writing class that, when presented with two strings, we can check whether or not it is an anagram. An anagram is a word (or string of letters) that contains all the same letter. For example: /rat and tar/ or /listen and silent/.  If you pass a set of these two words into the calss then it shoud return as "true". If the words presented do not contain the same letters (/i.e. car and cat/), the program should return "false".
+
+* Solution Description

@@ -14,4 +14,39 @@
 In this assignment we are writing class that, when presented with two strings, we can check whether or not it is an anagram. An anagram is a word (or string of letters) that contains all the same letter. For example: /rat and tar/ or /listen and silent/.  If you pass a set of these two words into the calss then it shoud return as "true". If the words presented do not contain the same letters (/i.e. car and cat/), the program should return "false".
 
 * Solution Description
-For this problem we are going to do something
+For this problem we are going to utilize a hashtable. Before the hashtable however we are going to determine some core logic of the program. First step we will write a line that checks whether the two strings are the same length. After this we will create our hashtable, which will check each character and store it in an integer key. First we will start by counting each letter with in the first string and determine how many time each letter appears. Once this is done we will look at the second string. By looping through each character we will check each character in the word and then decrease the count for each character that is in our hashtable. If the count goes below 0, then the second string has more instances of a character thus it will return false. If, however, all cases are passed; The program will return true.
+
+* Initial Non-AI Attempt to Code Solution
+As mentioned above, the basic idea is very simple. In order to code this I started with a simple check that needs to be true first. if (s.size() != t.size()) return false; That is, if they are not the same size, then they must already not be an anagram. After this I coded the more "complicated" logic. This came in the form a counting algorithm that uses a hashtable as its way of "remembering". Created an unorder map using characters referenced as integer keys. after this I looped through each character in the first word and counted each instance of a character. Once this was completed we had to do the final check. The second string would need to be counted and make sure that each character within in the string were all store in the hashtable, other wise it would return false. If this logic was passed, then, we would subtrack each count from our hashtable for each character until we reached zero: symbolizing that the count was equal. If the count was more than zero, once again, it would return false as this would not be an anagram. If all of these passed we then return true, signifying that the two strings were in fact anagrams. Once this was completed I ran some tests through leetcode, I had a few errors related to syntax which I fixed by referencing c++ documentation. Once fixed, all tests were passed and I submitted.
+
+* Code Testing Description
+Once again, this was in leetcode. So all tests were conducted using the built in test cases.
+
+* Code & Testing
+#+begin_src cpp
+class Solution {
+public:
+  bool isAnagram(string s, string t) {
+    if (s.size() != t.size()) return false;
+
+    unordered_map<char, int> counts;
+    for(char c : s) counts[c]++;
+
+    for(char c : t) {
+      auto it = counts.find(c);
+      if(it == counts.end()) return false;
+      if(--(it->second) < 0) return false;
+    }
+    return true;
+  }
+};
+#+end_src
+
+
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Pictures/ValidAnagram.png}
+\end{figure}
+#+end_src

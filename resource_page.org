@@ -26,7 +26,6 @@
 ** Home
 + This serves as the main landing page.
 + Contains links to all pages of the site [listed as subsequent sections of this documnet]
-  *
 ** Employee Information
 
 ** Troubleshooting

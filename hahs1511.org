@@ -14,7 +14,6 @@
 :PROPERTIES:
 :ID:       4d6b6607-3c9e-4340-b3ca-d55a6999435c
 :END:
-**
 
 * Group E-4 Project
 :PROPERTIES:

@@ -4,7 +4,23 @@
 #+title: Note Structuring
 #+filetags: Memos
 
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
 * Purpose
-~When it comes to note taking I want this to be as intentional and functional as possible. Notes, that I take within this program I believe should serve a purpose. From how I see, node based notes shine best in terms of the quick indexing they provide. This means that they are powerful as tool for studying and researching as they can be quickly referred to at any point. Regardless of where I am.~
+When it comes to note taking I want this to be as intentional and functional as possible. Notes, that I take within this program I believe should serve a purpose. From how I see, node based notes shine best in terms of the quick indexing they provide. This means that they are powerful as tool for studying and researching as they can be quickly referred to at any point. Regardless of where I am.
 * The Note Structure
-~At the moment of writing this, my note taking is mostly within the context of College. Each course has it's own structure--However, that rarely impacts the structure of ones personal notes. In that way, the structure created here should be applicable to all cases within or outside of the college space. It is effective in all spaces of learning and/or thought. -Joel, 2025~
+At the moment of writing this, my note taking is mostly within the context of College. Each course has it's own structure--However, that rarely impacts the structure of ones personal notes. In that way, the structure created here should be applicable to all cases within or outside of the college space. It is effective in all spaces of learning and/or thought.
+#+begin_export latex
+\center
+- Joel, 2025
+#+end_export
+** Time & Place
+A core part of this note taking system is understanding when to use it; Recognizing when it can be valuable, and when it won't be.
+*** When Not
+What this system isn't, is a catch-all. This is not for writing notes verbatem.
+**** Verbatem Notes
++ "Verbatem" note taking is to be used when learning a topic and/or subject for the first time; When developing your understanding.
+  + Before a new week of

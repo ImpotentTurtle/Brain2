@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c6420f2f-4080-4f1c-a8c6-ad4978e382f0
+:END:
+#+title: Note Structuring
+#+filetags: Memos
+
+* Purpose
+~When it comes to note taking I want this to be as intentional and functional as possible. Notes, that I take within this program I believe should serve a purpose. From how I see, node based notes shine best in terms of the quick indexing they provide. This means that they are powerful as tool for studying and researching as they can be quickly referred to at any point. Regardless of where I am.~
+* The Note Structure
+~At the moment of writing this, my note taking is mostly within the context of College. Each course has it's own structure--However, that rarely impacts the structure of ones personal notes. In that way, the structure created here should be applicable to all cases within or outside of the college space. It is effective in all spaces of learning and/or thought. -Joel, 2025~

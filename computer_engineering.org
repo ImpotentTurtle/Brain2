@@ -52,7 +52,6 @@
 :END:
 
 *** [[id:0bda5cbe-cfa0-4227-b295-045ac30d7760][AdvisingFall25]]
-
 *** [[id:f92d639d-8751-48f5-8b12-f35a0092b00c][ECGR3180]]: Data Structures & Algorithms in C++
 *** [[id:817f1bf4-ba2a-4d45-b6d1-ba6afc5a66ec][MATH2171]]: Differential Equations
 *** [[id:209437d0-39f9-4f3e-88a0-bd959f5dd174][STAT3128]]: Probaility and Statistics for Engineers

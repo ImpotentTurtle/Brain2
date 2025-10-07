@@ -21,3 +21,17 @@
 :END:
 ** [[id:c5356241-2efb-4087-a3f5-7e6a1252310a][5th Anniversary]]
 ** [[id:24c3523b-926e-4773-be68-5a7cf66996d0][Physics2StudyPlan]]
+** [[id:c6420f2f-4080-4f1c-a8c6-ad4978e382f0][NoteStructuring]]
+* Rolodex
+:PROPERTIES:
+:ID:       e584970d-8f23-4ad7-859e-3273f370e6bb
+:END:
+~Important People~
+** Julie Tran (Girlfriend)
+** Joel Boynton (Dad)
+** Sarah Boynton (Mom)
+** Natalie Boynton
+** Naya Boynton
+** Cesar Nolen
+** Nathan Spence
+~Others~

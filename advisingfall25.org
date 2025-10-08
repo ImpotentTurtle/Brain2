@@ -6,7 +6,6 @@
 
 * ToDo
 ** TODO Canvas: Advising Page Assignments
-*** TODO
 ** TODO APF Form
 *** This is your academic planning sheet -> will help determine structure of courses until graduation
 *** Submit and then check for any comments made

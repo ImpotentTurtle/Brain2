@@ -14,6 +14,7 @@
 :PROPERTIES:
 :ID:       4de066a3-fc78-4c4e-b427-9d3340ca7f4f
 :END:
+*** [[id:95b9ab06-fe15-4df8-ac76-52668d6c3051][BS_WeeklyTasks]]
 *** [[id:3be2f92b-418b-48db-881c-af8140f1d06d][Resource Page]]
 *** [[id:d09e63c6-02d8-4bf8-8283-4d0bb45226ca][Tech Policies]]
 *** [[id:2a9df823-aedc-475f-97d5-8d271e046dd1][Troubleshooting Tips]]

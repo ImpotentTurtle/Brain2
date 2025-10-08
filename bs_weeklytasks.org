@@ -13,11 +13,11 @@
 ******* TODO Assist Hodges with recent issues
 ***** PROJ Rollout Headphones to grades K - 2
 ****** TODO Determine a need (may need to order more)
-***** Follow-up on various tasks
-****** TODO Sarah A. Phone Issues
-****** TODO Angela C. Phone Issues
-****** TODO Library Laptop Slow
+***** TODO Sarah A. Phone Issues
+***** TODO Angela C. Phone Issues
+***** TODO Library Laptop Slow
 **** *Notes*
+
 *** Monday 13th - Friday 17th
 **** *Tasks*
 **** *Notes*

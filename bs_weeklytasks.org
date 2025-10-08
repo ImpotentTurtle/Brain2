@@ -10,12 +10,12 @@
 **** *Tasks*
 ***** PROJ Begin rolling out new laptops
 ****** TODO Set-up Printer For Mrs. Hodges
-******* TODO Assist Hodges with recent issues
+******* DONE Assist Hodges with recent issues
 ***** PROJ Rollout Headphones to grades K - 2
 ****** TODO Determine a need (may need to order more)
 ***** TODO Sarah A. Phone Issues
 ***** TODO Angela C. Phone Issues
-***** TODO Library Laptop Slow
+***** TODO Library Laptop: Slow
 **** *Notes*
 
 *** Monday 13th - Friday 17th

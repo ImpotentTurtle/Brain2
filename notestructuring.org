@@ -16,6 +16,7 @@ At the moment of writing this, my note taking is mostly within the context of Co
 #+begin_center
  Joel, 2025
 #+end_center
+
 * A Time & A Place
 A core part of this note taking system is understanding when to use it; Recognizing when it can be valuable, and when it won't be.
 ** The When Not
@@ -27,5 +28,6 @@ What this system isn't, is a catch-all--This is not for writing notes verbatem.
   + This wil help develop a basis of understanding regarding  topics that will be covered in lecture that week.
 ** The When
 This system is the final consolidation of what you've learned throughout the week. It should reflect not only what you learned; but specifically your understanding of the content/topic. It is personalized and a reflection of how your own brain thinks. Notes, that when you look back at them you easily understand them as they are written in your tongue; Written for you.
+
 * The Note Structure
 Now that we understand when to use this digital structure--let us now discuss the how.

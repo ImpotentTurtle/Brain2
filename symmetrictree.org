@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b434f91f-6918-49e3-a098-c185275fea72
+:END:
+#+title: SymmetricTree
+#+filetags: Homework
+
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
+* Probem Description

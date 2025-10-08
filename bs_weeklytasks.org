@@ -4,20 +4,29 @@
 #+title: BS_WeeklyTasks
 #+filetags: Brookstone
 
+#+options: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
 * 2025 - 2026
 ** October
 *** Monday 6th - Friday 10th
-**** *Tasks*
+**** *Projects*
 ***** PROJ Begin rolling out new laptops
-****** TODO Set-up Printer For Mrs. Hodges
-******* DONE Assist Hodges with recent issues
-***** PROJ Rollout Headphones to grades K - 2
+****** DONE Labeled new laptops appropriately
+****** TODO Set-up Printer For Mrs. Hodges new laptop
+***** PROJ Rollout Headphones to grades K - 2nd  /(3rd-4th next)/
 ****** TODO Determine a need (may need to order more)
-***** TODO Sarah A. Phone Issues
-***** TODO Angela C. Phone Issues
+**** *Tasks*
+***** TODO Sarah A. Phone Issues (follow up)
+***** TODO Angela C. Phone Issues (follow up)
 ***** TODO Library Laptop: Slow
+***** DONE Replaced toner in Leon (Library Printer)
+***** DONE Fixed Smart Board connectivity issues (Bonnie Pechar)
+***** DONE Assist Hodges with recent issues
 **** *Notes*
-
 *** Monday 13th - Friday 17th
+**** *Projects*
 **** *Tasks*
 **** *Notes*

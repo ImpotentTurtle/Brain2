@@ -10,4 +10,4 @@
 #+END_EXPORT
 
 * Probem Description
-In this problem we are given a *root* of a binary tree.
+In this problem we are given a *root* of a binary tree. We are to write a function that determines whether the tree mirrors itself. That is to say if a parent *1* splits into two children *2* they should read as [2,2] if these two children split into two children each *3* and *4* the two sides should read as [3,4] and [4,3]; directly mirroring the other side.

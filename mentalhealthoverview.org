@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6842c79f-5360-48ed-80b8-5d5e152c1930
+:END:
+#+title: MentalHealthOverview
+[[id:c30fa79b-3dee-4b1d-9c40-ae56db421f43][HAHS1511]]
+#+filetags: HomeWork
+
+* Prompt 1
+In the slides the DSM5 defines mental illness as a “a mental disorder is a syndrome characterized by clinically significant disturbance in an individual's cognition, emotion regulation, or behavior that reflects a dysfunction in the psychological, biological, or development processes underlying mental functioning.” We can directly relate this to what is said in the Times article. Joseph Frascella mentions that addictions are a repetitive behavior seen in the face of negative consequences. Going further to mention that it is a "...desire to continue something you know is bad for you". We can directly compare these two definitions as they both are describing an individual that is exhibiting some sort of dysfunction both cognitively and psychologically related. As we read further we can see this spelled out in more detail through a study done at VA hospital in which methamphetamine addicts who were more likely to relapse within a year were also "less able to complete tasks involving cognitive skills..." Which is in direct support of our definition of a mental disorder as their brains are exhibiting a dysfunction.
+* Prompt 2

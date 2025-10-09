@@ -18,7 +18,7 @@
 ****** TODO Set-up Printer For Mrs. Hodges new laptop
 ***** PROJ Rollout Headphones to grades K - 2nd  /(3rd-4th next)/
 ****** TODO Determine a need (may need to order more)
-****** HOLD [#A] K - 2nd
+****** TODO [#A] K - 2nd
 ****** TODO [#B] 3rd - 4th
 **** *Tasks*
 ***** TODO Sarah A. Phone Issues (follow up)

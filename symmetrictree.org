@@ -10,3 +10,4 @@
 #+END_EXPORT
 
 * Probem Description
+In this problem we are given a *root* of a binary tree.

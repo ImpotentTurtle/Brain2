@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d0479574-ace1-4d7b-8b40-8e85f43e2b0f
+:END:
+#+title: Trees
+#+filetags: Theory
+* Binary Trees
+** Properties
++ Each node has /<= 2/ children
++ Children denoted as /left/ or /right/
+  + /left/ child precedes the /right/ child
+    ~Subtree rooted at the /left/ child of an internal node *v* is called the /left subtree/ of *v*--the right follows the same convention.

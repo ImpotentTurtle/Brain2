@@ -4,3 +4,6 @@
 #+title: CTCM2530
  [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 #+filetags: Junior/Fall
+
+* Notes:
+** [[Id:dcba9088-76d0-4dfe-ad83-71947ca6e2ad][Week 9]]

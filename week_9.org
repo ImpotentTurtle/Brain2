@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dcba9088-76d0-4dfe-ad83-71947ca6e2ad
+:END:
+#+title: Week 9
+[[id:884b87aa-d49c-4404-9662-047dd51e14a5][CTCM2530]]
+#+filetags: Notes

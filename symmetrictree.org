@@ -1,5 +1,5 @@
-:jjkjjjkPROPERTIES:
-:ID:       b434f91f-6918-49e3-a098-c185275fea72
+:PROPERTIES:
+:ID:       ab692af8-5352-45ff-b1da-aef23bd7d497
 :END:
 #+title: SymmetricTree
 #+filetags: Homework
@@ -11,3 +11,40 @@
 
 * Probem Description
 In this problem we are given a *root* of a binary tree. We are to write a function that determines whether the tree mirrors itself. That is to say if a parent *1* splits into two children *2* they should read as [2,2] if these two children split into two children each *3* and *4* the two sides should read as [3,4] and [4,3]; directly mirroring the other side.
+
+
+
+
+
+* Code & Testing
+#+begin_src cpp
+class Solution {
+  public:
+  bool isSymmetric(TreeNode* root){
+    if (root == NULL) return true;
+
+    function<bool(TreeNode*, TreeNode*)> isMirror = [&](TreeNode* left, TreeNode* right) -> bool {
+      if(left == NULL && right == NULL) return true;
+      if(left == NULL || right == NULL) return false;
+      return(left->val == right->val) && isMirror(left->left, right->right) && isMirror(left->right, right->left);
+    };
+    return isMirror(root->left, root->right);
+  }
+};
+#+end_src
+
+
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/Symmetric_Tree/Results.png}
+\end{figure}
+#+end_src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/Symmetric_Tree/Complexity.png}
+\end{figure}
+#+end_src

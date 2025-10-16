@@ -12,7 +12,7 @@
 * Probem Description
 In this problem we are given a *root* of a binary tree. We are to write a function that determines whether the tree mirrors itself. That is to say if a parent *1* splits into two children *2* they should read as [2,2] if these two children split into two children each *3* and *4* the two sides should read as [3,4] and [4,3]; directly mirroring the other side. As the name implies, a parent in a binary tree system should only have 1 or 2 children.
 * Solution Description
-There are a few things that need to be checked when going through the tree. The approach that I want to take is recursive in nature.
+There are a few things that need to be checked when going through the tree. The approach that I want to take is recursive in nature. First we check if the root of the tree is empty. If so then the tree is symmetric by definition. Otherwise, we will need to check for a couple of other identifiers. To do this I will use a function to check if both sides of the tree mirror each other.
 
 
 * Code & Testing

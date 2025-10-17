@@ -21,11 +21,13 @@ class Solution {
   public:
   bool isSymmetric(TreeNode* root){
     if (root == NULL) return true;
-
-    function<bool(TreeNode*, TreeNode*)> isMirror = [&](TreeNode* left, TreeNode* right) -> bool {
+    function<bool(TreeNode*, TreeNode*)> isMirror =
+      [&](TreeNode* left, TreeNode* right) -> bool {
       if(left == NULL && right == NULL) return true;
       if(left == NULL || right == NULL) return false;
-      return(left->val == right->val) && isMirror(left->left, right->right) && isMirror(left->right, right->left);
+      return(left->val == right->val) &&
+        isMirror(left->left, right->right) &&
+        isMirror(left->right, right->left);
     };
     return isMirror(root->left, root->right);
   }
@@ -42,6 +44,6 @@ class Solution {
 #+begin_src latex
 \begin{figure}[H]
 \centering
-\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/Symmetric_Tree/Complexity.png}
+\includegraphics[scale=0.2]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/Symmetric_Tree/Complexity.png}
 \end{figure}
 #+end_src

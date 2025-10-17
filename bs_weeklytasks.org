@@ -18,10 +18,10 @@
 ****** TODO Set-up Printer For Mrs. Hodges new laptop
 ***** PROJ Rollout Headphones to grades K - 2nd  /(3rd-4th next)/
 ****** TODO Determine a need (may need to order more)
-****** TODO [#A] K - 2nd
+****** DONE [#A] K - 2nd
 ****** TODO [#B] 3rd - 4th
 **** *Tasks*
-***** TODO Sarah A. Phone Issues (follow up)
+***** DONE Sarah A. Phone Issues (follow up)
 ***** TODO Angela C. Phone Issues (follow up)
 ***** TODO Library Laptop: Slow --> Needs to Cleaned
 ***** TODO Resolve Meghan's Doc-cam issue  --> May need to reach out to QuoVadis'

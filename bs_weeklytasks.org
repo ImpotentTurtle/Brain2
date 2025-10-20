@@ -42,7 +42,7 @@
 ****** TODO Determine need & place order of:
 ******* TODO Headphones
 ******* TODO Adapters
-******* TODO *MONTGOMERY*: Headphone "Shoe-rack"
+******* TODO *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
 **** *Tasks*
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
@@ -51,3 +51,8 @@
 ***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/
 ***** TODO *BRITT*: Needs Extension Cord
 **** *Notes*
+***** Meeting
+****** Upgrade Devices to Windows 11 Pro
+Will need to determine who still needs it and who even can. Check with QV to discuss a plan for this.
+****** Headphones
+We will likely need more than just the headphones /needed/. Consult Shelley to see how many reserve headphones are needed. Then we can place a large order of headphones and adapters.

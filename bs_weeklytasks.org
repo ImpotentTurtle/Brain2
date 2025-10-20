@@ -42,6 +42,7 @@
 ****** TODO Determine need place and order
 ******* TODO Headphone Order
 ******* TODO Adapter Order
+******* TODO MONTGOMERY: needs door "shoe-rack" for headphones
 **** *Tasks*
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/

@@ -29,7 +29,25 @@
 ***** DONE Fixed Smart Board connectivity issues (Bonnie Pechar)
 ***** DONE Assist Hodges with recent issues
 **** *Notes*
-*** Monday 13th - Friday 17th
+*** Monday 13th - Friday 17th --> *OUT SICK*
 **** *Projects*
 **** *Tasks*
+**** *Notes*
+
+*** Monday 20th - Friday 24th
+**** *Projects*
+***** PROJ Roll out new laptops
+****** TODO Setup new printer for HODGES
+***** PROJ Roll-out Headphones 3rd-4th
+****** TODO Determine need place and order
+******* TODO Headphone Order
+******* TODO Adapter Order
+**** *Tasks*
+***** TODO *CRAWLEY*: Phone Issue Follow up
+***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
+***** TODO *DEPHOUSE*: Consult QV for troubleshooting
+***** TODO *ESSAH*: Follow-up on school bell ringing
+***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/
+***** TODO *BRITT*: Needs Extension Cord
+***** TODO *GRIMSLEY*: ??
 **** *Notes*

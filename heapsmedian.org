@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       921e8c35-0907-4a16-93b6-caf48821e3dd
+:END:
+#+title: HeapsMedian
+#+filetags: Homework
+
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+END_EXPORT

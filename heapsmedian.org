@@ -8,3 +8,28 @@
 #+begin_export latex
 \clearpage
 #+END_EXPORT
+
+* Problem Description
+* Solution Description
+* Initial Attempt to Code the Solution
+* Testing Description
+* Code & Testing
+#+begin_src cpp
+#include <iostream>
+using namespace std;
+
+class MedianFinder{
+  public:
+    MedianFinder(){
+
+    }
+
+    void addNum(int num){
+
+    }
+
+    double findMedian() {
+
+    }
+};
+#+end_src

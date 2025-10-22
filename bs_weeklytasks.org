@@ -40,9 +40,10 @@
 ****** TODO *HODGES*: Setup new printer
 ***** PROJ Roll-out Headphones 3rd-4th
 ****** TODO Determine need & place order of:
-******* TODO Headphones
-******* TODO Adapters
-******* TODO *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
++ *Headphones*
++ *Adapters*
++ *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
+
 **** *Tasks*
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/

@@ -16,20 +16,50 @@
 * Code & Testing
 #+begin_src cpp
 #include <iostream>
+#include <queue>
 using namespace std;
 
-class MedianFinder{
-  public:
+class MedianFinder {
+    public:
+
+    priority_queue<int> maxQueue;
+    priority_queue<int, vector<int>, greater<int>> minQueue;
+
     MedianFinder(){
 
     }
 
-    void addNum(int num){
+    void addNum(int num) {
+
+        if(maxQueue.empty() || num < maxQueue.top()){
+            maxQueue.push(num);
+        } else {
+            minQueue.push(num);
+        }
+
+        if(maxQueue.size() > minQueue.size()) {
+            int temp = maxQueue.top();
+            maxQueue.pop();
+            minQueue.push(temp);
+        } else if (minQueue.size() > maxQueue.size()) {
+            int temp = minQueue.top();
+            minQueue.pop();
+            maxQueue.push(temp);
+        }
 
     }
 
     double findMedian() {
-
+        int num;
+        if(maxQueue.size() == minQueue.size() && !maxQueue.empty() && !minQueue.empty()) {
+            return double(maxQueue.top() + minQueue.top()) / (maxQueue.size() + minQueue.size());
+        } else if (minQueue.size() > maxQueue.size()) {
+            return minQueue.top();
+        } else if (maxQueue.size() > minQueue.size()) {
+            return maxQueue.top();
+        } else {
+            return 0.0;
+        }
     }
 };
 #+end_src

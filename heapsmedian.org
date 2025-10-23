@@ -10,6 +10,7 @@
 #+END_EXPORT
 
 * Problem Description
+In this problem we are given the task of designging a class which takes numbers as input into an array and finds the median of the list.
 * Solution Description
 * Initial Attempt to Code the Solution
 * Testing Description

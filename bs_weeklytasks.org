@@ -37,18 +37,18 @@
 *** Monday 20th - Friday 24th
 **** *Projects*
 ***** PROJ Roll out new laptops
-****** TODO *Durrant*
-****** TODO Webb
-****** TODO *Mitchell*
-****** TODO *Wilson*
-****** TODO *Griffin*
+****** TODO *Wilson* --> IT-1308
+****** TODO *Griffin* --> IT-1307
+****** DONE *Hodges* --> IT-1306
+****** DONE *Durrant* --> IT-1309
+****** DONE *Mitchell* --> IT-1310
+****** DONE Webb --> IT-1311
 ****** DONE *HODGES*: Setup new printer
-****** DONE *Hodges*
 ***** PROJ Roll-out Headphones 3rd-4th
 ****** TODO Determine need & place order of:
-+ *Headphones*
-+ *Adapters*
-+ *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
+        + *Headphones*
+        + *Adapters*
+        + *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
 
 **** *Misc. Tasks*
 ***** TODO *CRAWLEY*: Phone Issue Follow up

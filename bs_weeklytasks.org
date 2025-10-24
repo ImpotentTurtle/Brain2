@@ -48,9 +48,12 @@
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
 ***** TODO *DEPHOUSE*: Consult QV for troubleshooting
-***** DONE *ESSAH*: Follow-up on school bell ringing
 ***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
 ***** TODO *BRITT*: Needs Extension Cord
+***** TODO *Wasko*: Bridge Program iPad "Not Charging"
+***** TODO *Mitchell*: iPad camera not working (despite access being granted)
+***** DONE *ESSAH*: Follow-up on school bell ringing
+***** DONE *Fernald*: Leon printer not turning on --> /was unplugged [resolved]/
 **** *Notes*
 ***** Meeting
 ****** Upgrade Devices to Windows 11 Pro

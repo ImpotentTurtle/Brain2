@@ -37,21 +37,27 @@
 *** Monday 20th - Friday 24th
 **** *Projects*
 ***** PROJ Roll out new laptops
-****** TODO *HODGES*: Setup new printer
+****** TODO *Durrant*
+****** TODO Webb
+****** TODO *Mitchell*
+****** TODO *Wilson*
+****** TODO *Griffin*
+****** DONE *HODGES*: Setup new printer
+****** DONE *Hodges*
 ***** PROJ Roll-out Headphones 3rd-4th
 ****** TODO Determine need & place order of:
 + *Headphones*
 + *Adapters*
 + *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
 
-**** *Tasks*
+**** *Misc. Tasks*
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
 ***** TODO *DEPHOUSE*: Consult QV for troubleshooting
 ***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
 ***** TODO *BRITT*: Needs Extension Cord
-***** TODO *Wasko*: Bridge Program iPad "Not Charging"
-***** TODO *Mitchell*: iPad camera not working (despite access being granted)
+***** DONE *Mitchell*: iPad camera not working (despite access being granted)
+***** DONE *Wasko*: Bridge Program iPad "Not Charging"
 ***** DONE *ESSAH*: Follow-up on school bell ringing
 ***** DONE *Fernald*: Leon printer not turning on --> /was unplugged [resolved]/
 **** *Notes*

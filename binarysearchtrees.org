@@ -16,8 +16,40 @@ In order to develop a solution to this problem we have to refer back to our unde
 * Initial Attempt to Code the Solution
 To code this solution I first started with a helper function (TreeNode helper) that will build a subtree from the portion of the array between the indices left and right. In this function we first right our base case (*if (left > right) return nullptr*). Otherwise we take the middle (*int mid = left + (right - left) / 2*) and set this as the new root of the tree. From here we revursively call the left branch and the right branch (*root->left = helper(nums, left, mid - 1)*), connect them to the new root, and then *return root*. Though a bit of a brain teaser this simple program worked very well with little to know issuses. Debugging was needed in determining where the helper function was needed. Otherwise, execution was smooth producing a time complexity of O(N).
 * Testing Description
-
+Testing was done using LeetCode test cases.
 * Code & Testing
 #+begin_Src cpp
+class Solution {
+public:
+  TreeNode *sortedArrayToBST(vector<int> &nums) {
+    return helper(nums, 0, nums.size() - 1);
+  }
 
+private:
+  TreeNode *helper(vector<int> &nums, int left, int right) {
+    if (left > right) {
+      return nullptr;
+    } else {
+      int mid = left + (right - left) / 2;
+      TreeNode *root = new TreeNode(nums[mid]);
+      root->left = helper(nums, left, mid - 1);
+      root->right = helper(nums, mid + 1, right);
+      return root;
+    }
+  }
+};
+#+end_src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/BinarySearchTree/Results.png}
+\end{figure}
+#+end_src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.2]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/BinarySearchTree/Complexity.png}
+\end{figure}
 #+end_src

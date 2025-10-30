@@ -10,11 +10,13 @@
 #+END_EXPORT
 
 * Problem Description
-
-
+In this problem we are tasked in taking an array *nums* and converting it in to a *height-balanced* binary search tree. A height-balanced binary search tree requires 3 core elements. [1] The difference between the heights of th eleft and right subtree for any node is not more than one. [2] The left subtree must be balanced. [3] The right subtree must be balanced. By using recursion we will compare the heights of both right and left nodes to determine that this is true.
 * Solution Description
+In order to develop a solution to this problem we have to refer back to our understanding of height balancing that was mentioned above. The main idea in solving this problem comes in how we split up our initial array. By spliting our array down the middle we can take the middle and set it as our new root with two brances of nodes (left & right). We call our left and right sides recursively to then attach them to our new root. The recursive algorithm will continue to shrink down until we reach our base case which describes that if there are no elements in the range, then there is nothing to build which then stops our recursion. This will developed in a helper function that our main conversion function will then call and return.
 * Initial Attempt to Code the Solution
+To code this solution I first started with a helper function (TreeNode helper) that will build a subtree from the portion of the array between the indices left and right. In this function we first right our base case (*if (left > right) return nullptr*). Otherwise we take the middle (*int mid = left + (right - left) / 2*) and set this as the new root of the tree. From here we revursively call the left branch and the right branch (*root->left = helper(nums, left, mid - 1)*), connect them to the new root, and then *return root*. Though a bit of a brain teaser this simple program worked very well with little to know issuses. Debugging was needed in determining where the helper function was needed. Otherwise, execution was smooth producing a time complexity of O(N).
 * Testing Description
+
 * Code & Testing
 #+begin_Src cpp
 

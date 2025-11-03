@@ -87,8 +87,8 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 ** November
 *** Monday 3rd - Friday 7th
 **** *Projects*
-***** PROJ Roll-out Headphones 3rd-4th
-****** TODO [#A] Determine need & place order of:
+***** PROJ [#A] Roll-out Headphones 3rd-4th
+****** TODO Determine need & place order of:
 ******* TODO Headphones [Sorted by Priority]
           + *Brooks* ~ 16
           + *Acuff* ~ 8
@@ -103,8 +103,8 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
           + *Brooks*
           + *Acuff* ?
 
-***** PROJ Roll out new laptops
-****** TODO [#B] *Wilson* --> IT-1308
+***** PROJ [#B] Roll out new laptops
+****** TODO *Wilson* --> IT-1308
 **** *Misc. Tasks*
 ***** TODO [#A] *Bridge Program*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
 ***** TODO [#B] *Security*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/

@@ -70,7 +70,7 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 **** *Projects*
 ***** PROJ Roll out new laptops
 ****** TODO *Wilson* --> IT-1308
-****** TODO *Griffin* --> IT-1307
+****** DONE *Griffin* --> IT-1307
 ***** PROJ Roll-out Headphones 3rd-4th
 ****** TODO Determine need & place order of:
         + *Headphones*
@@ -81,6 +81,26 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
 ***** TODO *DEPHOUSE*: Consult QV for troubleshooting
+***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
+***** TODO *BRITT*: Needs Extension Cord
+**** Notes
+** November
+*** Monday 3rd - Friday 7th
+**** *Projects*
+***** PROJ Roll out new laptops
+****** TODO *Wilson* --> IT-1308
+***** PROJ Roll-out Headphones 3rd-4th
+****** TODO Determine need & place order of:
+        + *Headphones*
+        + *Adapters*
+        + *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
+
+**** *Misc. Tasks*
+***** TODO [#A] *Bridge Program*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
+***** TODO [#B] *Security*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/
+***** TODO [#C] *DEPHOUSE*: Consult QV for troubleshooting --> /Needs Ninja Agent and must be up-to-date/
+***** TODO *CRAWLEY*: Phone Issue Follow up
+***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
 ***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
 ***** TODO *BRITT*: Needs Extension Cord
 **** Notes

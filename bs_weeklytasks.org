@@ -87,14 +87,19 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 ** November
 *** Monday 3rd - Friday 7th
 **** *Projects*
-***** PROJ Roll out new laptops
-****** TODO *Wilson* --> IT-1308
 ***** PROJ Roll-out Headphones 3rd-4th
-****** TODO Determine need & place order of:
-        + *Headphones*
-        + *Adapters*
+****** TODO [#A] Determine need & place order of:
+        + *Headphones* [Sorted by Priority]
+          + *Brooks* ~ 16
+          + *Acuff* ~ 8
+          + *Lawrence* ~ 1
+          + *Greenlee* ~ 16
+        + *Adapters* [Sorted by Priority]
+          + *Montgomery* ~ 15
+          + *Fernald* ~ 13
         + *MONTGOMERY & PECHAR*: Headphone "Shoe-rack"
-
+***** PROJ Roll out new laptops
+****** TODO [#B] *Wilson* --> IT-1308
 **** *Misc. Tasks*
 ***** TODO [#A] *Bridge Program*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
 ***** TODO [#B] *Security*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       954abbf5-76d4-4c8c-857e-b3dfd7ea2344
 :END:
-#+title: Week_12
+#+title: Week 12
 [[id:884b87aa-d49c-4404-9662-047dd51e14a5][CTCM2530]]
 #+filetags: Notes
 
@@ -17,7 +17,7 @@
 ** Faith, Health, & the Cereal Revolution
 + *Dr. John Kellogg*
 + Seventh-Day Advetist
-+ ________ In culinary changes then and now
++ ______________________________ In culinary changes then and now
 + Digestion
 + Vegetarian diet
 ** Battle Creek, Michigan
@@ -25,8 +25,8 @@
 2.
 ** *Mastication*
 + Bad teeth
-+ _________
-+ Originally named Granula, later changed to ________. Changed name over _______ to Corn Flakes
++ _____________________________
++ Originally named Granula, later changed to ____________________________. Changed name over ________________________ to Corn Flakes
 + *Charles Post*
 + Post Cereals
 + Former sanitarium patient
@@ -35,24 +35,24 @@
 + Prosperity
 + Electricity
 + Refrigerators, Ovens
-+ Modern woman used _______
++ Modern woman used ___________________________________
 + Working moms
 + Smaller families
 + Consumer society
-+ _______
-+ Idealized ________
++ _______________________________
++ Idealized _________________________
 ** Packaging Inventions
 + *Cellophane* invented by Swiss textile engineer in 1908
-+ Transparent plastic _______ material repelled not absorbed liquids
++ Transparent plastic ________________________ material repelled not absorbed liquids
 + *Carl Swanson*
 + Frozen dinners
 + *TV dinners*
 ** Culinary impact of frozen food then and today
-+ _______ food
++ ________________ food
 + Salt
 + Sugar
 + Fat
-+ ______ calories
++ ________________________ calories
 * Technological & Culinary Innovations: Sweets!
 ** Key Terms
 + Chewing Gum
@@ -64,9 +64,9 @@
 + Milton Hershey
 ** Modern Sweet Tooth
 + Sugar
-  - 1822: avg. sugar consumption ______ lbs.
-  - Today: avg. sugar consumption ______ lbs.
-+ Implications: ________
+  - 1822: avg. sugar consumption _____________________ lbs.
+  - Today: avg. sugar consumption ______________________ lbs.
++ Implications: __________________________________
 + Sweet food in US pre-1860
   - Honey, sugar beets, sugar cane, corn
   - sugar in drinks, honey, seasonal fruits, dried or canned
@@ -74,7 +74,7 @@
 + Food expensive
   - Pre-1900 food up to 70% family income
 + Sweets were exotic & expensive
-+ _________, so humans crave sweets
++ ______________________, so humans crave sweets
 + Sweets are 1 of 4 taste sensations reach the brain
   1.
   2.
@@ -82,47 +82,47 @@
   4.
 ** Modern Candy
 + Sugar in candy 19th century
-  - caramels _______
-  - fondant candy ______-
+  - caramels _____________________________
+  - fondant candy ________________________________
     - English toffee
 + 1847 Oliver Chase Boston druggist invented rolling machine to make chocolate covered candy
-+ ________ cooking, 1906
-+ __________, 1908
++ ___________________________ cooking, 1906
++ ___________________________, 1908
 + Machine fill hard candy with soft centers, 1910
 ** *Chewing Gum*
-+ Came from ______
++ Came from ____________________________
 + 1850 Maine co. made chewing gum
 + William Wrigley, 1890s
 + Popularized Juicy Fruit & Spearmint
 ** *Jell-O*
 + Gelatin invented 1845
-+ Jell-O created ______
++ Jell-O created ________________________
 + Advertised to women as new food: convenient, dainty, healthy
-+ By 1915: _______ million recipe boklets for Jell-O
++ By 1915: ________________________ million recipe boklets for Jell-O
 ** Cake
-+ Cakes & _____ were most popular desesrts 19th & early 20th centuries
++ Cakes & _______________________ were most popular desesrts 19th & early 20th centuries
 + Layer cakes most popular, with butter cream or boiled frosting
 + At Midwestern reunions a dozen cakes were served
   - Angle food, devil's food, banana, marble, sponge, coconut, orange, burn sugar, lazy daisy, pumpkin, cherry, apple, mince, peach, blackberry, custard
-  - _________ were also popular
-+ 1900--Americans consumed ______ million tons of sugar
-  + 1891-1895--avg. per capital sugar consumption ____ lbs
-  + 1911-1915--_______ lbs per capita
+  - ____________________ were also popular
++ 1900--Americans consumed ___________________ million tons of sugar
+  + 1891-1895--avg. per capital sugar consumption _________________ lbs
+  + 1911-1915--____________________________ lbs per capita
 ** Imperilism & Cheap Sugar
 + After Spanish-American War 1898
 + US companies in Cuba, Hawaii, Puerto Rico, & Philippines supplied sugar
 + Conquest o fthese islands made importation sugar fee or very low tariffs
 ** Candy!
-+ _______
++ ___________________________
 + Fudge, taffy, nut brittles, divinity, penoche, butterscotch, caramels, marshmellows, fondants, nougat
 + /When Mother Let's Us Make Candy (1915)/ recipe book
 + One recipe book warned against store-bought candy because of _____
 ** Ice Cream!
 + Improvements transportation & refrigerators
-+ By _______ ice cream popular
++ By _______________________ ice cream popular
 + 1923 chocolate-coated ice cream patented
   - Eskimo pie and Klondike
-+ 1906--per capita ice cream consumption ______ gallon
++ 1906--per capita ice cream consumption _____________________ gallon
 + 1946--_____ gallons per person a year
 + Soda fountains
 + Ice cream sundaes 1890s
@@ -131,16 +131,16 @@
 ** *Aunt Jemima*
 ** Chocolate!
 + Indigenous peoples amazonia to Mexico
-+ *Cacao/Cocoa bean* with caffeine, roasted, crushed into powder, mixed with water. ____________
++ *Cacao/Cocoa bean* with caffeine, roasted, crushed into powder, mixed with water. ________________________________
 + Thought to be aphrodisiac
 ** Chocolate for the Masses
 + 1866 a USA co. marketed refined cocoa in powder form for breakfast & children's drink
-+ 1847 invention chocolate bar in _______
++ 1847 invention chocolate bar in _________________________
 + Milk chocolate
-  - 1860--US consumed ______ million lbs. chocolate
-  - 1898--________ million lbs
+  - 1860--US consumed _________________________ million lbs. chocolate
+  - 1898--____________________ million lbs
 + Chocolate queen of packaged super foods
 ** *Milton Hershey*
 + 1900 chocolate farm
 + Hershey, Pennsylvania, co. town 1906
-+ By 1915 Hershey owned ______ for his candy & cocoa contracts
++ By 1915 Hershey owned _______________________ for his candy & cocoa contracts

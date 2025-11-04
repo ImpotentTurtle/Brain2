@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       9547641e-3f61-4208-9a72-947aa04c95b3
-:END:
-#+title: HabitTracker

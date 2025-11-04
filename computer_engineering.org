@@ -12,13 +12,10 @@
 :ID:       8bf288f3-bc22-4751-aac2-f6d04c1f4f7c
 :END:
 
-
 * Sophomore
 :PROPERTIES:
 :ID:       0fe700f6-1469-47ee-bd24-19614f8235fc
 :END:
-
-
 * Junior
 :PROPERTIES:
 :ID:       a535cdc3-2756-44a5-b8d7-7ccb9cfa83db
@@ -27,7 +24,6 @@
 :PROPERTIES:
 :ID:       6a39cc0d-6c70-4e35-8184-f3168b0dbb33
 :END:
-
 *** [[id:4680fbae-ac2d-4a0d-af6e-1085076535e9][ECGR2104:]] Computer Engineering Programming
 **** [[id:64dcd099-3808-48af-bd35-512a39464195][Theory]]
 **** [[id:610905bc-ae97-4082-b2a2-f6fd03a6e6e1][Class Examples]]
@@ -44,14 +40,12 @@
 **** [[id:a7725b41-8dfb-495f-b436-c41f3c9481ca][Week 4]]
 **** [[id:b5a35a58-e653-48a3-aaf1-e42d7eb57daa][Week 5]]
 **** [[id:f5406a32-8fa5-4a06-8f4f-b0de848f2216][Week 6]]
-
-
 ** Fall Semester
 :PROPERTIES:
 :ID:       14498759-e74b-4525-a101-cd5a8fe2db29
 :END:
-
 *** [[id:0bda5cbe-cfa0-4227-b295-045ac30d7760][AdvisingFall25]]
+
 *** [[id:f92d639d-8751-48f5-8b12-f35a0092b00c][ECGR3180]]: Data Structures & Algorithms in C++
 *** [[id:817f1bf4-ba2a-4d45-b6d1-ba6afc5a66ec][MATH2171]]: Differential Equations
 *** [[id:209437d0-39f9-4f3e-88a0-bd959f5dd174][STAT3128]]: Probaility and Statistics for Engineers
@@ -61,7 +55,6 @@
 :PROPERTIES:
 :ID:       aee50f86-8f78-42d4-9712-6585b9e9b767
 :END:
-
 
 * Senior
 :PROPERTIES:

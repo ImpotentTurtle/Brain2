@@ -1,12 +1,11 @@
 :PROPERTIES:
 :ID:       f6fd4922-495c-4442-a252-799999cb9a41
+:ROAM_ALIASES: journal Journal
 :END:
 #+title: CommonPlace
 #+filetags:Index
 
 ~This is a 'Central Index Node' that holds my personal notes (i.e. Ideas/Personal Projects, To-Dos, Thoughts, etc.)~
-
-[[id:9547641e-3f61-4208-9a72-947aa04c95b3][HabitTracker]]
 
 * Ideas
 :PROPERTIES:

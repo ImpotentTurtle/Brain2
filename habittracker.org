@@ -2,8 +2,3 @@
 :ID:       9547641e-3f61-4208-9a72-947aa04c95b3
 :END:
 #+title: HabitTracker
-* TODO Read
-SCHEDULED: <2025-11-03 Mon +1d>
-:PROPERTIES:
-:STYLE: habit
-:END:

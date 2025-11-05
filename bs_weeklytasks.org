@@ -89,7 +89,7 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 **** *Projects*
 ***** PROJ [#A] Roll-out Headphones 3rd-4th
 ****** TODO Determine need & place order of:
-******* TODO Headphones [Sorted by Priority]
+******* DONE Headphones [Sorted by Priority]
           + *Brooks* ~ 16
           + *Acuff* ~ 8
           + *Lawrence* ~ 1

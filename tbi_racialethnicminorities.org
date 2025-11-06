@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       f3f28209-5866-4af7-91ee-28e293107178
+:END:
+#+title: TBI_RacialEthnicMinorities
+* Data Supporting the issue/disparity
+- American Indian/Alaska Native children and adults have higher rates of TBI-related hospitalizations and deaths than other racial or ethnic groups
+- In addition to differences in rates of TBI, racial and ethnic minority groups, particularly non-Hispanic Black and Hispanic patients.
+* Contributing Factors
+- Factors that contribute to this disparity include higher rates of motor vehicle crashes, substance use, and suicide as well as difficulties in accessing appropriate healthcare.
+-  less likely to receive follow-up care and rehabilitation following a TBI compared to non-Hispanic white patients.
+* Consequences of TBI to that group
+- Racial and ethnic minorities are also more likely to have poor psychosocial, functional, and employment-related outcomes after sustaining a TBI than non-Hispanic white individuals

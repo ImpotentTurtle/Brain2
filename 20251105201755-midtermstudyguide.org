@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       265d9b21-8c63-4596-b498-5e3fe40177bf
+:END:
+#+title: MidtermStudyGuide
+#+filetags: ExamPrep
+
+* Part 1 [one of these questions will be chosen]
+** How did technological inventions shape the American food system from the Civil War to the early 1900s?
+*** Format
++ *Intro paragraph* listing the below broadly
++ Advertising
++ Canned foods
++ Frozen Foods
++ 
+
+** How did changes in american society result in the creation and popularity of new food products and recipes from the Civil War to the early 1900s?
+* Part 2 [one of these questions will be chosen]
+** Andrew Smith's /Eating History/ (chapters 4-18) explores turning points in foodways from the early 19th century to the early 20th century. Discuss and analyze 8 turning points in his book and explain why they were important.
+** Drawing from 8 examples in Andrew Smith's /Eating History/, how did advertising create a demand for specific food products. 
+

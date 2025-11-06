@@ -6,14 +6,71 @@
 
 * Part 1 [one of these questions will be chosen]
 ** How did technological inventions shape the American food system from the Civil War to the early 1900s?
-*** Format
-+ *Intro paragraph* listing the below broadly
-+ Advertising
-+ Canned foods
-+ Frozen Foods
-+ 
+*** Introduction
++ *Hook*: contrast colonial period "pottage" and preserved pork, with new inventions such as /Dressed Beef and Canned Good/ which appear after the civil war
++ *Context*: Industrial revolution was the driving force in technological developements that directly impacted food of the time. 
++ *Thesis*: "From the Civil War to the early 1900s, technological inventions like refrigeration, mass-production processes, and new manufacturing/packaging techniques fundamentally reshaped the American food system, moving it from a local, seasonal model to a centralized, industrial, and non-seasonal one."
+*** Body Paragraph 1: Preservation & Transportation
++ *Topic*: Inventions that combated spoilage and distance, like canning and refrigeration, were key in shifting Americas greater food system into the "modern" era.
++ *Evidence*:
+  1. Canning
+  2. Refrigeration
++ Analysis: These technologies allowed food to be shipped nationwide, breaking the reliance on local, seasonal food.
+*** Body Paragraph 2: Mass Production & Centralization (The Rise of Big Meat) [WOAH THERE BUDDY]
++ *Topic*: The development of new industrial processes, such as the "dissaembly line," in tandem with railroads and steam power, allowed for the centralization of food production in specific hubs.
++ *Evidence*
+  1. Centralization ~ Chicago; mention role as both hub for railroads, /Chicago Board of Trade Markets/, and /South-Side Stockyards/
+  2. Processes ~ Disassembly Line; Porkopolis (Cincinnati)
+  3. Key Players ~ Gustavus Swift & Philip Armour
+  4. Products ~ Development of /Dressed Meat/ and /Dressed Beef/, which (with refrigerated cars) could be shipped all across the United States, entering the common diet of the people
++ *Analysis*: This destroyed the local butcher model and created the modern, industrial meatpacking industry, which also created new products from waste (glue, soap, etc.)
+*** Body Paragraph 3: New Manufactoring & Packaging (creating new foods)
++ *Topic*: Outisde of the meat industry, new machines and chemical processes opened the door to create entirely new kinds of consumer food
++ *Evidence*:
+  1. Sweets ~ tech that made candy cheap and uniform; /Oliver Chase's rolling machines (1847), vacuum cooking (1906), & mechanical candy cutter (1908)/
+  2. Cereals ~ /Cereal Revolution/ *[mention how this is technological]*; /Dr. John Kellogg (Granola/Corn Flakes) and Charls Post (Grape-nuts)/ both important innovators. 
+  3. Packaging ~ /Cellophane (1908)/
++ *Analysis*: These technologies made branded, packaged foods possible. They were convenient, shelf-stable, and could be mass marketed (like Jell-O)
+*** Conclusion
++ *Thesis(again)*: summarize how refirgeration, assembly lines, and new manufactoring tech worked together
++ *"So What?"*: Conclude that these invention created a environment that fostered abundance and convenience, despite leading to whole new problems. Adulteration, dangerous labor, and disconnect from food sources--all eventually bringing upon the need for government regulation such as the /Pure Food and Drug Act/ (1906).
 
+  
 ** How did changes in american society result in the creation and popularity of new food products and recipes from the Civil War to the early 1900s?
+*** Introduction
++ *Hook*: Food is a /Cultural Construction/; as American culture has changed, so has its food
++ *Context*: Post-Civil War era was defined by social (not just technological) upheaval: urbanization, influx of immigrants, new middle class emerges
++ *Thesis*: "The creation and popularity of new American foods from the Civil War to the early 1900s were a direct result of massive social shifts, including industrialization and urbanization, mass immigration, and the rise of a new middle-class culture of science and reform."
+*** Body Paragraph 1: Industrialization & New Urban Rythms
++ *Topic*: Shift from agrarian to an industrial society completely changed when and how people ate, thus, creating new meals
++ *Evidence*:
+  1. Invention of Dinner ~ main meal shifted from dinner-at-noon (agrarian) to dinner at 5-6p, when industrial workers came home. 
+  2. Invention of Lunch ~ Old dinner was demoted to /lunch/--fast meal for workers; light, feminine meal for middle-class women
+  3. Fast Food ~ New, fast paced urban life style, created a need for /Street food/ and /Delicatessens/)
++ *Analysis*: Social change (rise of the 9-to-5 job) fundamentally changed how citizen of America structured their entire day, meal times, and the market for "fast-food".
+*** Body Paragraph 2: Mass Immigration & the /Melting Pot/
++ *Topic*: With the arrival of new immigrant populations into the U.S., new foods and cuisines were adopted and adapted into the American diet. 
++ *Evidence*:
+  1. German ~ /Hamburger, frankfurter, lager beer./; lead to /White Castle/ (1926)
+  2. Mexican ~ Working-class cuisine (corn, /tortillas/, chilies, beans).
+  3. Chinese ~ Cantonese food from railroad and mine workers, leading to chinese restaurants
+  4. African American ~ /Rufus Estes's/ cookbook (1911) codified recipes from Black cooks who had long been /primary cooks/
++ *Analysis*: This social change of mass migration is directly responsible for diversifying the American palate and introducing foods now seen as quintessentially "American" (like the hamburger).
+*** Body Paragraph 3: Middle-Class Culture (Science, Reform, & Anxiety)
++ *Topic*: New educated middle class developed anxieties about health and assimilation, leading to "scientific" food reforms and new products
++ *Evidence*:
+  1. Problem ~ Meat-centered & large breakfasts lead to /Dyspepsia/
+  2. Reformers ~ Food reformers, religious leaders (Dr. John Kellogg), and Domestic Science leaders (Ellen Richards) responded. 
+  3. "Scientific" Solution ~ creation of "healthier" breakfasts cereal, toast, orange juice. 
+  4. Assimilation Goal ~ /Ellen Richards's New England Kitchen/; social project to "fix" immigrant diets with "wholesome" (american) food
+  5. Advertising ~ /Cookbooklets/ created to sell new products (Jell-O) to women, creating demand
++ *Analysis*: Social anxieties about health and immigration were key drivers in the invention of marketing of new "scientific" and "convenient" foods
+*** Conclusion
++ *Thesis(again)*: Summarize how industrial work, immigration, and middle class values created these new food products.
++ *"So What?"*: Conclude that the American food system is a direct reflection of its social history. The foods we eat were created not just by technology, but by the people who worked in factories, crossed oceans, and tried to create a new "scientific" or "ideal" American home.
+  
+
+
 * Part 2 [one of these questions will be chosen]
 ** Andrew Smith's /Eating History/ (chapters 4-18) explores turning points in foodways from the early 19th century to the early 20th century. Discuss and analyze 8 turning points in his book and explain why they were important.
 ** Drawing from 8 examples in Andrew Smith's /Eating History/, how did advertising create a demand for specific food products. 

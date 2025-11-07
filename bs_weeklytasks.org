@@ -10,11 +10,15 @@
 #+end_export
 
 * Notes
-* *Projects*
+
+
+* Projects
 ** PROJ [#A] Roll-out Headphones 3rd-4th
 DEADLINE: <2025-11-14 Fri>
-*** TODO Issue Out Headphones [Sorted by Priority]
-SCHEDULED: <2025-11-03 Mon>
+*** DONE Issue Out Headphones [Sorted by Priority]
+CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
+- Note taken on [2025-11-07 Fri 13:25] \\
+  Finished earlier in the week but just implemented new personal tracking system (so date of completion is incorrect)
           + *Brooks* ~ 16
           + *Acuff* ~ 8
           + *Lawrence* ~ 1
@@ -30,8 +34,10 @@ SCHEDULED: <2025-11-12 Wed>
           + *Brooks*
           + *Acuff* ?
 ** PROJ [#B] Roll out new laptops
+DEADLINE: <2025-11-07 Fri>
 *** TODO *Wilson* --> IT-1308
-* *Misc. Tasks*
+SCHEDULED: <2025-11-07 Fri>
+* Misc. Tasks
 ** TODO [#A] *BRIDGE*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
 ** TODO [#B] *SECURITY*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/
 ** TODO [#C] *DEPHOUSE*: Consult QV for troubleshooting --> /Needs Ninja Agent and must be up-to-date/

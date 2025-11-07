@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       f2560c46-c41a-426b-8f2f-8af2f76ff43d
+:END:
+#+title: ENGR1202
+[[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
+#+filetags:Junior/Summer
+
+|Engineering Practices & Principles II |
+
+* Theory
+:PROPERTIES:
+:ID:       f600cd68-133a-468f-9555-df078c151848
+:END:
+
+* Labs
+:PROPERTIES:
+:ID:       bea37de4-c262-4757-be9d-f50f938fd442
+:ROAM_ALIASES: engr1202-labs
+:END:
+
++ [[id:0d0bd94c-34e6-47d0-ad9c-dabd01bdbf62][Robotics Lab 1]]: Basic Circuit Analysis
++ [[id:cd0c2b25-0d9e-4257-986f-e68f38033fd9][Robotics Lab 3 :]]DC Motor Control
++ [[id:c09576df-59ce-4c3e-a244-982b94080513][Robotics Lab 4]] : C++ Programming and Algorithms
++ [[id:c07bf994-ddc8-42d7-8847-45e757559567][Robotics Lab 5]]: Motor Balancing
++ [[id:f696dcfd-edde-49ec-bd17-77365ba5b329][Robotics Lab 6]]: Line Following
++ [[id:25ca87c8-0261-491d-ae3b-003daedeb0a6][Robotics Lab 7]]: Maze Runner [Final Robot Lab]

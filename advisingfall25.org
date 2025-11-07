@@ -5,11 +5,17 @@
 #+filetags: AdvisingNotes
 
 * ToDo
-** TODO Canvas: Advising Page Assignments
-** TODO APF Form
+** DONE Canvas: Advising Page Assignments
+CLOSED: [2025-11-07 Fri 15:23]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 15:23]
+** DONE APF Form
+CLOSED: [2025-11-07 Fri 15:23]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 15:23]
 *** This is your academic planning sheet -> will help determine structure of courses until graduation
 *** Submit and then check for any comments made
-** TODO Spring 26' Schedule
+** DONE Spring 26' Schedule
+CLOSED: [2025-11-07 Fri 15:23]
+- State "DONE"       from "TODO"       [2025-11-07 Fri 15:23]
 
 
 * Notes/Thoughts

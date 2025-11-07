@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       209437d0-39f9-4f3e-88a0-bd959f5dd174
+:END:
+#+title: STAT3128
+ [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
+#+filetags: Junior/Fall
+
+* Notes
+:PROPERTIES:
+:ID:       eeea8f2a-7e21-491c-a9e0-06df76d7676d
+:END:

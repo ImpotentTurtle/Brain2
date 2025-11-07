@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       884b87aa-d49c-4404-9662-047dd51e14a5
+:END:
+#+title: CTCM2530
+ [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
+#+filetags: Junior/Fall
+
+* Notes:
+** [[id:dcba9088-76d0-4dfe-ad83-71947ca6e2ad][Week 9]]
+** [[id:4898c88e-9d82-4fab-966a-3678776af8b2][Week 10]]
+** [[id:854693e1-45d9-4402-ad4b-7ca20b363945][Week 11]]
+** [[id:954abbf5-76d4-4c8c-857e-b3dfd7ea2344][Week 12]]
+*  Exam Prep
+**  [[id:265d9b21-8c63-4596-b498-5e3fe40177bf][MidtermStudyGuide]]
+

@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       95b9ab06-fe15-4df8-ac76-52668d6c3051
+:END:
+#+title: BrookstoneTasks
+#+filetags: Brookstone
+
+#+options: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
+
+* Notes
+
+
+* Projects
+** PROJ [#A] Roll-out Headphones 3rd-4th
+DEADLINE: <2025-11-14 Fri>
+*** DONE Issue Out Headphones [Sorted by Priority]
+CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
+- Note taken on [2025-11-07 Fri 13:25] \\
+  Finished earlier in the week but just implemented new personal tracking system (so date of completion is incorrect)
+          + *Brooks* ~ 16
+          + *Acuff* ~ 8
+          + *Lawrence* ~ 1
+          + *Greenlee* ~ 1
+*** TODO Issue Out Adapters [Sorted by Priority]
+SCHEDULED: <2025-11-07 Fri>
+          + *Montgomery* ~ 15
+          + *Fernald* ~ 13
+*** TODO Order and Issue Headphone "Shoe-rack"
+SCHEDULED: <2025-11-12 Wed>
+          + *Montgomery*
+          + *Pechar*
+          + *Brooks*
+          + *Acuff* ?
+** PROJ [#B] Roll out new laptops
+DEADLINE: <2025-11-07 Fri>
+*** TODO *Wilson* --> IT-1308
+SCHEDULED: <2025-11-07 Fri>
+
+* Misc. Tasks
+** TODO *BRIDGE*: Enable bluetooth on iPads
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:38] \\
+  /QV enabled Bluetooth on Development (are they in that group?)/
+** TODO *SECURITY*: iPad needs factory reset
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:39] \\
+  /QV was to have done this Oct. 30-31 --> Check-in!/
+** TODO *DEPHOUSE*: Consult QV for troubleshooting
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:40] \\
+  /Needs Ninja Agent and must be up-to-date/
+** TODO *CRAWLEY*: Phone Issue Follow up
+SCHEDULED: <2025-11-10 Mon>
+** TODO *LIBRARY LAPTOP*: Slow
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:41] \\
+  /Needs cleaning/
+** TODO *TALAMO*: Laptop Slow
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:43] \\
+  /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
+** TODO *BROOKS*: Student iPad not responding to headphones
+SCHEDULED: <2025-11-10 Mon>
+** TODO *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
+SCHEDULED: <2025-11-10 Mon>
+** TODO *ASEP*: Requested Garage Band for their iPads
+SCHEDULED: <2025-11-10 Mon>
+** TODO *HUNTLEY*: MacBook needs to be sent back to Apple
+SCHEDULED: <2025-11-10 Mon>
+

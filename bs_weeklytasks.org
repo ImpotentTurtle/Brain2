@@ -106,11 +106,13 @@ We will likely need more than just the headphones /needed/. Consult Shelley to s
 ***** PROJ [#B] Roll out new laptops
 ****** TODO *Wilson* --> IT-1308
 **** *Misc. Tasks*
-***** TODO [#A] *Bridge Program*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
-***** TODO [#B] *Security*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/
+***** TODO [#A] *BRIDGE*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
+***** TODO [#B] *SECURITY*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/
 ***** TODO [#C] *DEPHOUSE*: Consult QV for troubleshooting --> /Needs Ninja Agent and must be up-to-date/
 ***** TODO *CRAWLEY*: Phone Issue Follow up
 ***** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
 ***** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
-***** TODO *BRITT*: Needs Extension Cord
+***** TODO *BROOKS*: Student iPad not responding to headphones
+***** TODO *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
+***** DONE *ASEP*: Requested Garage Band for their iPads
 **** Notes

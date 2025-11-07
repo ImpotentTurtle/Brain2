@@ -67,19 +67,8 @@ SCHEDULED: <2025-11-07 Fri>
 SCHEDULED: <2025-11-07 Fri>
 ** TODO *ASEP*: Requested Garage Band for their iPads
 SCHEDULED: <2025-11-07 Fri>
-
-
-
-
-
-
-
-
-
-
-
-
-
+** TODO *HUNTLEY*: MacBook needs to be sent back to Apple
+SCHEDULED: <2025-11-10 Mon>
 
 * October[ARCHAIC]
 ** Monday 6th - Friday 10th

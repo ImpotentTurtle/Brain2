@@ -2,7 +2,6 @@
 :ID:       817f1bf4-ba2a-4d45-b6d1-ba6afc5a66ec
 :END:
 #+title: MATH2171
- [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 #+filetags: Junior/Fall
 
 * Notes

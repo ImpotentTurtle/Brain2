@@ -2,7 +2,6 @@
 :ID:       884b87aa-d49c-4404-9662-047dd51e14a5
 :END:
 #+title: CTCM2530
- [[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 #+filetags: Junior/Fall
 
 * Notes:

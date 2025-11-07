@@ -37,16 +37,36 @@ SCHEDULED: <2025-11-12 Wed>
 DEADLINE: <2025-11-07 Fri>
 *** TODO *Wilson* --> IT-1308
 SCHEDULED: <2025-11-07 Fri>
+
 * Misc. Tasks
-** TODO [#A] *BRIDGE*: Enable bluetooth on iPads --> /QV enabled Bluetooth on Development (are they in that group?)/
-** TODO [#B] *SECURITY*: iPad needs factory reset /--> QV was to have done this Oct. 30-31 --> Check-in!/
-** TODO [#C] *DEPHOUSE*: Consult QV for troubleshooting --> /Needs Ninja Agent and must be up-to-date/
+** TODO [#A] *BRIDGE*: Enable bluetooth on iPads
+SCHEDULED: <2025-11-07 Fri>
+- Note taken on [2025-11-07 Fri 13:38] \\
+  /QV enabled Bluetooth on Development (are they in that group?)/
+** TODO [#B] *SECURITY*: iPad needs factory reset
+SCHEDULED: <2025-11-07 Fri>
+- Note taken on [2025-11-07 Fri 13:39] \\
+  /QV was to have done this Oct. 30-31 --> Check-in!/
+** TODO [#C] *DEPHOUSE*: Consult QV for troubleshooting
+SCHEDULED: <2025-11-07 Fri>
+- Note taken on [2025-11-07 Fri 13:40] \\
+  /Needs Ninja Agent and must be up-to-date/
 ** TODO *CRAWLEY*: Phone Issue Follow up
-** TODO *LIBRARY LAPTOP*: Slow --> /Needs cleaning/
-** TODO *TALAMO*: Laptop Slow --> /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
+SCHEDULED: <2025-11-07 Fri>
+** TODO *LIBRARY LAPTOP*: Slow
+SCHEDULED: <2025-11-07 Fri>
+- Note taken on [2025-11-07 Fri 13:41] \\
+  /Needs cleaning/
+** TODO *TALAMO*: Laptop Slow
+SCHEDULED: <2025-11-07 Fri>
+- Note taken on [2025-11-07 Fri 13:43] \\
+  /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
 ** TODO *BROOKS*: Student iPad not responding to headphones
+SCHEDULED: <2025-11-07 Fri>
 ** TODO *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
+SCHEDULED: <2025-11-07 Fri>
 ** TODO *ASEP*: Requested Garage Band for their iPads
+SCHEDULED: <2025-11-07 Fri>
 
 
 

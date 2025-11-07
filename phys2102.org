@@ -2,7 +2,6 @@
 :ID:       e71ee2fd-ae53-401c-9bca-69c678616eae
 :END:
 #+title: PHYS2102
-[[id:a8e14067-352b-40d0-a25e-b25bfa5e4118][Computer Engineering]]
 #+filetags:Junior/Summer
 
 * Week 1

@@ -8,8 +8,7 @@
 :PROPERTIES:
 :ID:       2f27f115-cfbd-447a-83d0-f372923aae4b
 :END:
-**  Class Activities
-*** [[id:f3f28209-5866-4af7-91ee-28e293107178][TBI_RacialEthnicMinorities]]
+** [[id:f3f28209-5866-4af7-91ee-28e293107178][TBI_RacialEthnicMinorities]]
 
 * CourseWork
 :PROPERTIES:

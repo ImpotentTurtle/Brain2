@@ -2,7 +2,7 @@
 :ID:       f6fd4922-495c-4442-a252-799999cb9a41
 :ROAM_ALIASES: journal Journal
 :END:
-#+title: CommonPlace
+#+title: PersonalIndex
 #+filetags:Index
 
 ~This is a 'Central Index Node' that holds my personal notes (i.e. Ideas/Personal Projects, To-Dos, Thoughts, etc.)~

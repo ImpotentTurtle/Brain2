@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e8dc8a11-90ba-4ea2-a729-9bfbae56ab9f
 :END:
-#+title: Work
+#+title: ProfessionalIndex
 #+filetags:Index
 
 ~This is the 'Central Index Node' where I keep my work documents~

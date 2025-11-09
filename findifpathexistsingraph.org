@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bd10f2c7-4214-4e70-be84-a50a2d9a6d0c
 :END:
-#+title: FindIfPathExistsInGraph
+#+title: Find If Path Exists In Graph
 #+filetags: Homework
 
 #+OPTIONS: toc:nil
@@ -76,6 +76,6 @@ public:
 #+begin_src latex
 \begin{figure}[H]
 \centering
-\includegraphics[scale=0.2]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/FindIfPathExists/Complexity.png}
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/FindIfPathExists/Complexity.png}
 \end{figure}
 #+end_src

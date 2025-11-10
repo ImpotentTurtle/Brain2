@@ -31,7 +31,7 @@ CLOSED: [2025-11-07 Fri 13:59]
 CLOSED: [2025-11-07 Fri 13:59]
 ** DONE [[id:921e8c35-0907-4a16-93b6-caf48821e3dd][HeapsMedian]]
 CLOSED: [2025-11-07 Fri 13:59]
-** DONE [[id:1fc0acf6-03bc-48cc-b216-56c7daa3a58d][BinarySearchTrees]]
+** DONE [[id:1fc0acf6-03bc-48cc-b216-56c7daa3a58d][BinarySearchTrees]]jo
 CLOSED: [2025-11-07 Fri 13:58]
 ** DONE [[id:bd10f2c7-4214-4e70-be84-a50a2d9a6d0c][FindIfPathExistsInGraph]]
 CLOSED: [2025-11-07 Fri 21:39] DEADLINE: <2025-11-07 Fri>

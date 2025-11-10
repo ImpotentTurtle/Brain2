@@ -30,10 +30,10 @@ SCHEDULED: <2025-11-10 Mon>
           + Fernald ~ 13
 *** TODO Order and Issue Headphone "Shoe-rack"
 SCHEDULED: <2025-11-12 Wed>
-          + *Montgomery*
-          + *Pechar*
-          + *Brooks*
-          + *Acuff* ?
+          + Montgomery
+          + Pechar
+          + Brooks
+          + Acuff?
 ** PROJ [#B] Roll out new laptops
 DEADLINE: <2025-11-10 Mon>
 *** TODO *Wilson* --> IT-1308

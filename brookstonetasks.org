@@ -10,6 +10,7 @@
 #+end_export
 
 * Notes
+- Acuff may already have a hanging organizer (headphones), ask to confirm. It is a requirement to have
 
 * Projects
 ** PROJ Roll-out Headphones 3rd-4th
@@ -40,35 +41,42 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-12-01 Mon>
 
-* Misc. Tasks
+* Active Tickets
 ** TODO *BRIDGE*: Enable bluetooth on iPads
 SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-10 Mon 11:44] \\
+  While technically "enabled", Bluetooth menu was not present or interactable. --> Follow up with QuoVadis
 - Note taken on [2025-11-07 Fri 13:38] \\
   /QV enabled Bluetooth on Development (are they in that group?)/
 ** TODO *SECURITY*: iPad needs factory reset
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:39] \\
   /QV was to have done this Oct. 30-31 --> Check-in!/
-** TODO *DEPHOUSE*: Consult QV for troubleshooting
-SCHEDULED: <2025-11-10 Mon>
-- Note taken on [2025-11-07 Fri 13:40] \\
-  /Needs Ninja Agent and must be up-to-date/
-** TODO *CRAWLEY*: Phone Issue Follow up
-SCHEDULED: <2025-11-10 Mon>
-** TODO *LIBRARY LAPTOP*: Slow
-SCHEDULED: <2025-11-10 Mon>
-- Note taken on [2025-11-07 Fri 13:41] \\
-  /Needs cleaning/
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\
   /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
-** TODO *BROOKS*: Student iPad not responding to headphones
-SCHEDULED: <2025-11-10 Mon>
-** TODO *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
-SCHEDULED: <2025-11-10 Mon>
 ** TODO *ASEP*: Requested Garage Band for their iPads
 SCHEDULED: <2025-11-10 Mon>
-** TODO *HUNTLEY*: MacBook needs to be sent back to Apple
+- Note taken on [2025-11-10 Mon 11:49] \\
+  ASEP iPads received Garage Band except for 8 devices --> QV determining why these are not in group
+** TODO *DEPHOUSE*: Consult QV for troubleshooting
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:40] \\
+  /Needs Ninja Agent and must be up-to-date/
+** HOLD *LIBRARY LAPTOP*: Slow
+SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-07 Fri 13:41] \\
+  /Needs cleaning/
+** STRT *CRAWLEY*: Phone Issue Follow up
+SCHEDULED: <2025-11-10 Mon>
+** STRT *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
+SCHEDULED: <2025-11-10 Mon>
+** STRT *HUNTLEY*: MacBook needs to be sent back to Apple
 SCHEDULED: <2025-11-10 Mon>
 
+* Completed Tickets
+** DONE *BROOKS*: Student iPad not responding to headphones
+CLOSED: [2025-11-10 Mon 11:51] SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-10 Mon 11:50] \\
+  RESOLVED: iPad case has some sort of short in the aux-in port for headphones --> Replaced case with extra in inventory

@@ -11,7 +11,6 @@
 
 * Notes
 
-
 * Projects
 ** PROJ Roll-out Headphones 3rd-4th
 DEADLINE: <2025-11-14 Fri>
@@ -37,6 +36,9 @@ SCHEDULED: <2025-11-12 Wed>
 DEADLINE: <2025-11-10 Mon>
 *** TODO *Wilson* --> IT-1308
 SCHEDULED: <2025-11-10 Mon>
+** PROJ IT-Rules Sheet
+SCHEDULED: <2025-11-17 Mon>
+DEADLINE: <2025-12-01 Mon>
 
 * Misc. Tasks
 ** TODO *BRIDGE*: Enable bluetooth on iPads

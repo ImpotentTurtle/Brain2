@@ -25,7 +25,7 @@ CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
           + *Lawrence* ~ 1
           + *Greenlee* ~ 1
 *** TODO Issue Out Adapters [Sorted by Priority]
-SCHEDULED: <2025-11-12 Wed>
+SCHEDULED: <2025-11-10 Mon>
           + +Montgomery ~ 15+
           + Fernald ~ 13
 *** TODO Order and Issue Headphone "Shoe-rack"

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d40806a0-9158-47b0-9f62-f83ae87c687f
+:END:
+#+title: MergeSortedArray
+#+filetags: Homework
+
+#+OPTIONS: toc:nil
+#+begin_export latex
+\clearpage
+#+END_EXPORT
+
+* Problem Description
+* Solution Description
+* Initial Attempt to Code the Solution
+* Testing Description
+* Code & Testing
+#+begin_src cpp
+
+#+end_src

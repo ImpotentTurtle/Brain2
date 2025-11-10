@@ -10,10 +10,11 @@
 #+end_export
 
 * Notes
-- Acuff may already have a hanging organizer (headphones), ask to confirm. It is a requirement to have
+- Acuff may already have a hanging organizer (headphones), ask to confirm. It is a requirement to have.
+- Check if Michelle Baldwin still has macbook (ex-griffin) in office.
 
 * Projects
-** PROJ Roll-out Headphones 3rd-4th
+** PROJ [#A] Roll-out Headphones 3rd-4th
 DEADLINE: <2025-11-14 Fri>
 *** DONE Issue Out Headphones [Sorted by Priority]
 CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
@@ -48,8 +49,14 @@ SCHEDULED: <2025-11-10 Mon>
   While technically "enabled", Bluetooth menu was not present or interactable. --> Follow up with QuoVadis
 - Note taken on [2025-11-07 Fri 13:38] \\
   /QV enabled Bluetooth on Development (are they in that group?)/
-** TODO *SECURITY*: iPad needs factory reset
+** TODO *WEBB*: admissions.office not receiving emails from registar group
+SCHEDULED: <2025-11-03 Mon>
+- Note taken on [2025-11-10 Mon 11:59] \\
+  Made changes to registar email group allowing emails from outside of the organization (@brookstoneschools.org) --> Did not make a difference
+** TODO *SECURITY*: needs password removed |  needs appropriate apps
 SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-10 Mon 12:01] \\
+  QV removed password through factory reset --> added /Nest/ camera application --> still need Google Home
 - Note taken on [2025-11-07 Fri 13:39] \\
   /QV was to have done this Oct. 30-31 --> Check-in!/
 ** TODO *TALAMO*: Laptop Slow

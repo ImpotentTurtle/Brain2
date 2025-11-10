@@ -35,7 +35,7 @@ SCHEDULED: <2025-11-12 Wed>
           + Brooks
           + Acuff?
 ** PROJ [#B] Roll out new laptops
-DEADLINE: <2025-11-10 Mon>
+DEADLINE: <2025-11-12 Wed>
 *** TODO *Wilson* --> IT-1308
 SCHEDULED: <2025-11-10 Mon>
 ** PROJ IT-Rules Sheet

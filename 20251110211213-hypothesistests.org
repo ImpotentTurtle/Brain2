@@ -8,4 +8,14 @@
 ** Definition:
 Denoted by $H_0$, the /null hypothesis/ is the claim that is initially believed to be true. The /alternative hypothsis/, denoted by $H_a$, is the assertion that is contradictory to $H_0$
 
-In a problem the null hypothesis will be rejected in favor of the alternative hypothesis only if sample evidence suggests that $H_0$ is false.
++ A method using sample data to decide whether the null hypothesis test should be rejected or not is called a *test of hypothesis*
+
++ In a test of hypothesis the null hypothesis will be rejected in favor of the alternative hypothesis only if sample evidence suggests that $H_0$ is false.
+
+** Example:
+Say, the null hypothesis is $H_0$: \Theta = \Theta_0. The alternative will look like one of the below:
+1. $H_a$: \Theta > \Theta_0
+2. $H_a$: \Theta < \Theta_0
+3. $H_a$: \Theta != \Theta_0
+
+* Test Procedures and P_Values

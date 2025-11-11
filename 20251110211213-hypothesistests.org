@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       af3679ec-31a4-4ac8-b3fe-fc05802b8c61
+:END:
+#+title: HypothesisTests
+#+filetags:Theory
+
+* The Null & Alternative Hypothesis
+** Definition:
+Denoted by $H_0$, the /null hypothesis/ is the claim that is initially believed to be true. The /alternative hypothsis/, denoted by $H_a$, is the assertion that is contradictory to $H_0$
+
+In a problem the null hypothesis will be rejected in favor of the alternative hypothesis only if sample evidence suggests that $H_0$ is false.

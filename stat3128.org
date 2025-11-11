@@ -4,7 +4,7 @@
 #+title: STAT3128
 #+filetags: Junior/Fall
 
-* Notes
+* Theory
 :PROPERTIES:
 :ID:       eeea8f2a-7e21-491c-a9e0-06df76d7676d
 :END:

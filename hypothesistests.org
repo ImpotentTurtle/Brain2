@@ -17,10 +17,10 @@
     + In a test of hypothesis the null hypothesis will be rejected in favor of the alternative hypothesis only if sample evidence suggests that $H_0$ is false.
 
 + *Example:*
-    Say, the null hypothesis is $H_0$: \Theta = \Theta_0. The alternative will look like one of the below:
-    1. $H_a$: \Theta > \Theta_0
-    2. $H_a$: \Theta < \Theta_0
-    3. $H_a$: \Theta != \Theta_0
+    Say, the null hypothesis is $H_0$: $\Theta$ = $\Theta_0$. The alternative will look like one of the below:
+    1. $H_a$: $\Theta$ > $\Theta_0$
+    2. $H_a$: $\Theta$ < $\Theta_0$
+    3. $H_a$: $\Theta$ != $\Theta_0$
 
 ** Test Procedures and P_Values
 + *Definition: Test Procedure*
@@ -31,9 +31,9 @@ A rule, based on sample data, for deciding whether $H_0$ should be rejected.
     + Values of the statistic that tend to result when $H_0$ is true should be quite different then thosed observed when $H_0$ is false.
 + *Definition: P-Value*
     The *probability*, calculated assuming the the null hypothesis is true, of obtaining a value of the test statistic at least as contradictory to $H_0$ as the value calculated from teh available sample data.
-    + A conclusion is reached in a hypothesis testing analysis by selecting a number /a/, called the *significance level* of the test, that is reasonably close to /0/.
-    + $H_0$ rejected in favor of $H_a$ if P-value <= a.
-    + $H_0$ not rejected if P-value >=  a.
+    + A conclusion is reached in a hypothesis testing analysis by selecting a number $\alpha$, called the *significance level* of the test, that is reasonably close to /0/.
+    + $H_0$ rejected in favor of $H_a$ if P-value <= $\alpha$.
+    + $H_0$ not rejected if P-value >=  $\alpha$.
 
 ** Errors in Hypothesis Testing
 + *Definition:*

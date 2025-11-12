@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       af3679ec-31a4-4ac8-b3fe-fc05802b8c61
+:END:
+#+title: HypothesisTests
+#+subtitle: Exam 3
+#+filetags:Theory
+
+#+OPTIONS: toc:nil
+
+* Hypotheses & Testing Procedures
+** The Null & Alternative Hypothesis
++ *Definition:*
+    Denoted by $H_0$, the /null hypothesis/ is the claim that is initially believed to be true. The /alternative hypothsis/, denoted by $H_a$, is the assertion that is contradictory to $H_0$
+
+    + A method using sample data to decide whether the null hypothesis test should be rejected or not is called a *test of hypothesis*
+
+    + In a test of hypothesis the null hypothesis will be rejected in favor of the alternative hypothesis only if sample evidence suggests that $H_0$ is false.
+
++ *Example:*
+    Say, the null hypothesis is $H_0$: \Theta = \Theta_0. The alternative will look like one of the below:
+    1. $H_a$: \Theta > \Theta_0
+    2. $H_a$: \Theta < \Theta_0
+    3. $H_a$: \Theta != \Theta_0
+
+** Test Procedures and P_Values
++ *Definition: Test Procedure*
+A rule, based on sample data, for deciding whether $H_0$ should be rejected.
+    + Issue: If $H_0$ is true --> how likely is it that a random sample contradictory to the null would result.
++ *Definition: Test Statistic*
+    A *function* of the sample data used as a basis for deciding whether $H_0$ should be rejected.
+    + Values of the statistic that tend to result when $H_0$ is true should be quite different then thosed observed when $H_0$ is false.
++ *Definition: P-Value*
+    The *probability*, calculated assuming the the null hypothesis is true, of obtaining a value of the test statistic at least as contradictory to $H_0$ as the value calculated from teh available sample data.
+    + A conclusion is reached in a hypothesis testing analysis by selecting a number /a/, called the *significance level* of the test, that is reasonably close to /0/.
+    + $H_0$ rejected in favor of $H_a$ if P-value <= a.
+    + $H_0$ not rejected if P-value >=  a.
+
+** Errors in Hypothesis Testing
++ *Definition:*
+  + *Type I*: Consists of rejecting the null hypothesis $H_0$ when it is true
+  + *Type II*: Involves not rejecting $H_0$ when it is false

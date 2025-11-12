@@ -71,12 +71,14 @@ SCHEDULED: <2025-11-10 Mon>
   /Needs cleaning/
 ** STRT *CRAWLEY*: Phone Issue Follow up
 SCHEDULED: <2025-11-10 Mon>
-** STRT *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
-SCHEDULED: <2025-11-10 Mon>
 ** STRT *HUNTLEY*: MacBook needs to be sent back to Apple
 SCHEDULED: <2025-11-10 Mon>
 
 * Completed Tickets
+** DONE *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
+CLOSED: [2025-11-12 Wed 12:36] SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-12 Wed 12:35] \\
+  RESOLVED: iPad required a simple restart. application likely got caught in a loop running in the background; persisted multiple days due to device running on same instance from previous days.
 ** DONE *BRITT*: Needs 6ft ext. cord
 CLOSED: [2025-11-12 Wed 11:39]
 ** DONE *BRIDGE*: Enable bluetooth on iPads

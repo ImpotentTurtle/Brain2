@@ -200,8 +200,8 @@
 + Military, university, private research
 + *MRE (Meal Ready to Eat)*
 ** *Natick Research Center*
-+ Food ____
-+ Army's sole incubator for food innovation since ___
++ Food Science Lab
++ Army's sole incubator for food innovation since 1953
 ** Military role in food supply
 + Military preparedness
   - Govt mission put scientific discovery into public food supply
@@ -209,11 +209,11 @@
 + Natick Soldiers Systems Center, Mass.
 + Canned goods
 + Dehydration techniques
-+ ___
++ Energy Bars
 + Deli Meat
 + Processed cheese
-  - __
-  - __
+  - Cheetos
+  - Goldfish Crackers
 ** Natick Soldiers System Center High-altitude food research
 ** Restructured Meat & Fast Food
 + _____

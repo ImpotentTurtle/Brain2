@@ -15,7 +15,7 @@
 
 * Projects
 ** PROJ [#A] Roll-out Headphones 3rd-4th
-DEADLINE: <2025-11-14 Fri>
+DEADLINE: <2025-11-21 Fri>
 *** TODO Order and Issue Headphone "Shoe-rack"
 SCHEDULED: <2025-11-12 Wed>
           + Montgomery

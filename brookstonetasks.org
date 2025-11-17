@@ -12,7 +12,7 @@
 * Notes
 - Acuff may already have a hanging organizer (headphones), ask to confirm. It is a requirement to have.
 - Check if Michelle Baldwin still has macbook (ex-griffin) in office.
-
+- Will likely need to give Lauren Lawrences' old laptop to new teacher by end of week (11-21-2025)
 * Projects
 ** PROJ [#A] Roll-out Headphones 3rd-4th
 DEADLINE: <2025-11-21 Fri>
@@ -49,6 +49,8 @@ SCHEDULED: <2025-11-03 Mon>
   Made changes to registar email group allowing emails from outside of the organization (@brookstoneschools.org) --> Did not make a difference
 ** TODO *SECURITY*: needs password removed |  needs appropriate apps
 SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-17 Mon 15:13] \\
+  Still nothing from QuoVadis today; sent out a reminder, hoping to hear back soon
 - Note taken on [2025-11-10 Mon 12:01] \\
   QV removed password through factory reset --> added /Nest/ camera application --> still need Google Home
 - Note taken on [2025-11-07 Fri 13:39] \\
@@ -77,10 +79,13 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 ** STRT *HUNTLEY*: MacBook needs to be sent back to Apple
 SCHEDULED: <2025-11-10 Mon>
-
+- Note taken on [2025-11-17 Mon 15:14] \\
+  Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 * Completed Tickets
 ** DONE *ACUFF*: Unable to print to Thurston or Bad Boy
-CLOSED: [2025-11-17 Mon 14:59] SCHEDULED: <2025-11-17 Mon>
+CLOSED: [2025-11-17 Mon 15:20] SCHEDULED: <2025-11-17 Mon>
+- Note taken on [2025-11-17 Mon 15:20] \\
+  RESOLVED: Required a printer system reset and reinstall of Kyocera drivers.
 ** DONE *ADMISSIONS*: Install ESRB ISee application on Chromebooks
 CLOSED: [2025-11-17 Mon 14:04] SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-11-19 Wed>

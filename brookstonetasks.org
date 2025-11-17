@@ -65,8 +65,6 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:40] \\
   /Needs Ninja Agent and must be up-to-date/
-** TODO *ACUFF*: Unable to print to Thurston or Bad Boy
-SCHEDULED: <2025-11-17 Mon>
 ** TODO *BRITT*: Smart Board Interaction Trouble
 SCHEDULED: <2025-11-17 Mon>
 - Note taken on [2025-11-17 Mon 13:20] \\
@@ -81,6 +79,8 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 
 * Completed Tickets
+** DONE *ACUFF*: Unable to print to Thurston or Bad Boy
+CLOSED: [2025-11-17 Mon 14:59] SCHEDULED: <2025-11-17 Mon>
 ** DONE *ADMISSIONS*: Install ESRB ISee application on Chromebooks
 CLOSED: [2025-11-17 Mon 14:04] SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-11-19 Wed>

@@ -67,6 +67,10 @@ SCHEDULED: <2025-11-10 Mon>
   /Needs Ninja Agent and must be up-to-date/
 ** TODO *ACUFF*: Unable to print to Thurston or Bad Boy
 SCHEDULED: <2025-11-17 Mon>
+** TODO *BRITT*: Smart Board Interaction Trouble
+SCHEDULED: <2025-11-17 Mon>
+- Note taken on [2025-11-17 Mon 13:20] \\
+  In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\

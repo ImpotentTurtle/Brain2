@@ -81,6 +81,9 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 
 * Completed Tickets
+** DONE *ADMISSIONS*: Install ESRB ISee application on Chromebooks
+CLOSED: [2025-11-17 Mon 14:04] SCHEDULED: <2025-11-17 Mon>
+DEADLINE: <2025-11-19 Wed>
 ** DONE *PECHAR*: Student iPad (IT-0725) playing sounds/music constantly
 CLOSED: [2025-11-12 Wed 12:36] SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-12 Wed 12:35] \\

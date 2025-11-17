@@ -10,10 +10,62 @@
 #+END_EXPORT
 
 * Problem Description
+In this problem we are tasked the merging of 2 sorted arrays (vectors; non-decreasing). The merging of these vectors requires specific criteria. By utilizing two integers m and n, which represent the size of each respective vector, we must combine the contents of *nums1* and *nums2* (the vectors) into the vector *nums1* keeping the non-decreasing order from the original vectors. The sorted array must be sorted inside of nums1. 
 * Solution Description
+In order to do this we have three elements that we want to pay attention. First, is the fact that we have two vectors that we are dealing with. Combining them is the easy part. We can do this simply by iteratively looping through the contents of our second array and then placing them inside of the first array filling the spots after point *m*. Second, we will want to make sure the now changed vector, nums1, is properly sorted in *ascending* order. This can be done by using a simple quick sort algorithm that will be called after the merge.
 * Initial Attempt to Code the Solution
+My initial attempt to code the solution was quite simple. I started by setting up my partition and quickSort methods that will be used by merge. Once this was completed I set up the merge method. this was done in very straight forard manner. Using a for loop, I compared i to n to iterate through the contents of nums2. For each time iterated we would set the content to nums1[m + i], effectively placing after the current last number in nums1. Once this was done, if the sum of m and n was greater than 0, then quick sort of nums1 would be called, leaving our new array merged and sorted. Time Complexity: O((M + N)Log(M + N)) 
 * Testing Description
+Testing was done inside of LeetCode 
 * Code & Testing
 #+begin_src cpp
+class Solution {
+public:
+  int partition(vector<int> &arr, int l, int r) {
+    int pivot = arr[r];
+    int i = (l - 1);
 
+    for (int j = l; j <= r - 1; j++) {
+      if (arr[j] <= pivot) {
+        i++;
+        swap(arr[i], arr[j]);
+      }
+    }
+    swap(arr[i + 1], arr[r]);
+    return (i + 1);
+  }
+
+  void quickSort(vector<int> &arr, int l, int r) {
+    if (l < r) {
+      int pi = partition(arr, l, r);
+
+      quickSort(arr, l, pi - 1);
+      quickSort(arr, pi + 1, r);
+    }
+  }
+
+  void merge(vector<int> &nums1, int m, vector<int> &nums2, int n) {
+    for (int i = 0; i < n; i++) {
+      nums1[m + i] = nums2[i];
+    }
+
+    if (m + n > 0) {
+      quickSort(nums1, 0, m + n - 1);
+    }
+  }
+};
+#+end_src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/MergeSortedArray/Results.png}
+\end{figure}
+#+end_src
+
+#+begin_src latex
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{~/Documents/College/Fall25/ECGR3180/HomeWork/LeetCode/MergeSortedArray/Complexity.png}
+\end{figure}
 #+end_src

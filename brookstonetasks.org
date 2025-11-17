@@ -65,6 +65,8 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:40] \\
   /Needs Ninja Agent and must be up-to-date/
+** TODO *ACUFF*: Unable to print to Thurston or Bad Boy
+SCHEDULED: <2025-11-17 Mon>
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\

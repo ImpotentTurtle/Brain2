@@ -8,3 +8,5 @@
 :PROPERTIES:
 :ID:       61ee418e-b7d6-456d-a815-c8d17ac24ced
 :END:
+** StudyGuides
+*** [[id:b90b6780-d8c2-4c3a-883e-21aea3a06452][LaplaceTransFormsExam3]]

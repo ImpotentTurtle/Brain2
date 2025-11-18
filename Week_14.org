@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       96b03afb-2ff9-4b9f-ba72-e5f74f872b90
+:END:
+#+title: Week_14
+[[id:884b87aa-d49c-4404-9662-047dd51e14a5][CTCM2530]]
+#+filetags: Notes

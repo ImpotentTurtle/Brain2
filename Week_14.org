@@ -35,67 +35,67 @@
 + *Aquaculture* -- Also known as fish or shellfish farming -- refers to breeding, rearing, & harvesting of plants & animals in all water environments
 + Freshwater & marine species of fish and shellfish farmed
 + Aquaculture produces food fish, sport fish, bait fish, ornamental fish, crustaceans, mollusks, algae, sea vegetables, & fish eggs
-+ 2006, _ _ _% commerical stock overfished
-+ _ _ Seafood eaten worldiwde - including USA - is farm-raised
++ 2006, 60% commerical stock overfished
++ 1/2 Seafood eaten worldiwde - including USA - is farm-raised
 + Because harvest from many wild fisheries has peaked globbally, aquaculture meets seafood demands of a growing population
 ** 1995 Report
-+ 1988, USA provided only _ _ % of world's aquaculture production, or _ _ _ % of total value
++ 1988, USA provided only 2% of world's aquaculture production, or 2.4% of total value
 + US production mostly nonfood items including baitfish, ornamentals, & stock for fisheries enhancement & stocking "pay" lakes (recreational fishing)
 + US freshwater aquaculture made significant gains since 1980s
-+ Catfish production in ponds in Southeast, particularly _ _ _, & production of trout, particularly in Idaho & CA
++ Catfish production in ponds in Southeast, particularly Mississippi, & production of trout, particularly in Idaho & CA
 + Marine aquaculture fared much less well
 + Considerable R & D underway for marine aqauculture, but commercial success limited
 + Environmental constraints, institutional regulations, & pubic perception against it
 + 1980s per capita consumption of fish increased a lot in US in despite consumer price index for fish increasing more rapidly than other foods
 + Diet-conscious public 1980s increase amount of fish in diet even though relative price of fish increased
-+ Per capita consumption fish increased _ _ _% from 1980 to 1989
-+ Consumer price index for fish increased _ _ _% versus _ _ _% for all other foods
++ Per capita consumption fish increased 22% from 1980 to 1989
++ Consumer price index for fish increased 64% versus 52.5% for all other foods
 + 1988 USA marine aquaculture production
-  + $_ _ _ million
+  + $87 million
 + Low production & increasing consumption caused USA to remain dependent upon imports
-+ During past decade, imports accounted for about _ _ _ to _ _ _ of edible seafood consumed US
++ During past decade, imports accounted for about 1/2 to 2/3 of edible seafood consumed US
 ** Aquaculture Facts!
-+ _ _ _ food eaten worl & in US is farm-raised, not wild catch
-+ _ _ _% of world's salmon is farmed
++ 1/2 food eaten worl & in US is farm-raised, not wild catch
++ 70% of world's salmon is farmed
 + *US National Organic Standards Board* will begin organix aquaculture certification in 2016
-+ China produces _ _% total aquaculture
-+ US produced only _ _% total global aquaculture!
-+ 2012 US sea commericial fishermen landed 9.6 billion lbs seafood or $_ _ _ billion
-+ _ _ _% fish caught was for pet food, fish meal & oil
-  2012 avg. person US ate _ _ _ lbs fish & shellfish
-+ US imports _ _ _% of its seafood, a trade deficit of over $8 billion
++ China produces 61.6% total aquaculture
++ US produced only 2% total global aquaculture!
++ 2012 US sea commericial fishermen landed 9.6 billion lbs seafood or $5.1 billion
++ 20% fish caught was for pet food, fish meal & oil
++ 2012 avg. person US ate 14.4lbs fish & shellfish
++ US imports 80% of its seafood, a trade deficit of over $8 billion
 ** Depleted stocks of wild fish
 + Asian Development Bank loaned over $33 million to govt program in Indonesia promote community-managed freshwater fish farms
 + Fish pens
 ** Farmed vs. Wild
 + _Farmed fish_
   + Fish feed (smaller fish & pellets soymeal)
-  + 1996 farmed salmon passed wild salmon in sales. Today _ _ _% salmon farmed
+  + 1996 farmed salmon passed wild salmon in sales. Today 70% salmon farmed
   + Nutrient content: fattier, more sodim, 13% vitamin C, hald iron of wild salmon
   + Norway, Chile, Scotland, Canada
   + Problems: PCBs, chemicals, sea lice
 + _Wild fish_
   + Natural food chain
-  + Salmon _ _ _ most popular seafood behind shrimp & canned tuna pas 10 years
+  + Salmon 3rd most popular seafood behind shrimp & canned tuna pas 10 years
   + Nutrient content: less fat, less sodium, no vitamin C, twice iron of farmed salmon
   + Everywhere
   + Problems: Declining fisheries, higher water temperatures
 ** 3 Major problems fish farming in ocean
 1. Fish farming facilities located in fragile waters, with construction & operating practices, including feeding & medicating the fish, adverse impacts on the waterbodies
-   + Excess _ _ _, & antibiotics contaminate nearby waters & smother organisms sch as shellfish
+   + Excess food, & antibiotics contaminate nearby waters & smother organisms sch as shellfish
    + Floating pens anchored to the seabed--has detrimental effects on sea bottom, & maintenance introduces toxic chemicals such as pesticides into water
    + Asia shrimp farming destroyed huge acreages of important mangroves, eliminating habitat & fouling water
    + Israel halted fish farming near Red Sea damage to coral reefs. But it promotes fish farming in desert using brackish groundwater. The water, enriched by waste from the aquaculture operation reused in crop irrigation
-2. Detrimental effect from _ _ _ from farms on wild species, as farmed fish carry diseases & parasites & compete with wild fish for food
-   + _ _ _ bred to be voracious feeders, so escapees may outcompete wild fish for food & mating
-   + Farm-raised fish _ _ _ delete gene pool interbreeding wild stocks
+2. Detrimental effect from escapees from farms on wild species, as farmed fish carry diseases & parasites & compete with wild fish for food
+   + Farm fish bred to be voracious feeders, so escapees may outcompete wild fish for food & mating
+   + Farm-raised fish less healthy, delete gene pool interbreeding wild stocks
    + CA banned raising salmon in state waters to protect native stocks; established regulatory measures stop pollution, drugs, & chemicals posed by fish farming; & banned transgenic fish--genetically modified
-3. Farming carnivorous species, such as _ _ _, requires other species be fished to provide food for the farmed stock in a greater proportion than amount
+3. Farming carnivorous species, such as salmon & shrimp, requires other species be fished to provide food for the farmed stock in a greater proportion than amount
    + For 1 kilogram of farmed fish at least 3 kilograms of food fish. This reduces forage species populations & lessens amount food for wild fish
-   + Safety of feed used in fish farming, ex. China sold _ _ _
+   + Safety of feed used in fish farming, ex. China sold unadultered fish protein
 ** Aquaculture farm techniques
-+ _ _ _ culture: earthen ponds freshwater fish, shrimp
-+ _ _ _ culture: enclosed cages submerged
++ Pond culture: earthen ponds freshwater fish, shrimp
++ Cage culture: enclosed cages submerged
 + Recirculating systems: fish, shellfish, and/or plant life raised in "close-loop" systems filter & recycle water & waste
 + Integrated multitrophic aquaculture – several species raised together allows 1 species’ by-products to feed another species
 + Integrated agriculture & aquaculture –ponds or recirculating systems used to raise both seafood & other organisms (example, fish & lettuce)

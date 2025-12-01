@@ -18,6 +18,8 @@
 DEADLINE: <2025-11-21 Fri>
 *** TODO Order and Issue Headphone "Shoe-rack"
 SCHEDULED: <2025-11-12 Wed>
+- Note taken on [2025-12-01 Mon 12:42] \\
+  Shoe rack ordered by Jolinda
           + Montgomery
           + Pechar
           + Brooks
@@ -43,10 +45,6 @@ SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-12-01 Mon>
 
 * Active Tickets
-** TODO *WEBB*: admissions.office not receiving emails from registar group
-SCHEDULED: <2025-11-03 Mon>
-- Note taken on [2025-11-10 Mon 11:59] \\
-  Made changes to registar email group allowing emails from outside of the organization (@brookstoneschools.org) --> Did not make a difference
 ** TODO *SECURITY*: needs password removed |  needs appropriate apps
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:13] \\
@@ -82,6 +80,10 @@ SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 * Completed Tickets
+** DONE *WEBB*: admissions.office not receiving emails from registar group
+CLOSED: [2025-12-01 Mon 12:42] SCHEDULED: <2025-11-03 Mon>
+- Note taken on [2025-11-10 Mon 11:59] \\
+  Made changes to registar email group allowing emails from outside of the organization (@brookstoneschools.org) --> Did not make a difference
 ** DONE *ACUFF*: Unable to print to Thurston or Bad Boy
 CLOSED: [2025-11-17 Mon 15:20] SCHEDULED: <2025-11-17 Mon>
 - Note taken on [2025-11-17 Mon 15:20] \\

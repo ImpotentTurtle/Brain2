@@ -2,3 +2,91 @@
 :ID:       996583f3-06b1-41bd-9290-2823aaef10ac
 :END:
 #+title: VehementEp1Notes
+
+* Drum Mixing Notes
+**  Kick
+*** EQ
++ +8-12dB at 60-70Hz (sub weight)
++ Cut 200-350Hz (Mud)
++ Boost 3-5Hz (click/attack)
++ Low-pass 10-12kHz
+*** Compression
++ 4:1 ratio
++ Fast attack, fast release
++ 3-6 dB gain reduction
+*** Sample Reinforcement
++ Blend:
+  + low-end thump sample
+  + high end click sample
+** Snare
+*** EQ
++ Boost 150-250Hz (body)
++ Boost 1-3kHz (attack)
++ Notch 500-800Hz (ring boxiness)
++ Boost 7-10kHz (air)
+*** Compression
++ 6-10 dB GR
++ fast attack, medium-fast release
++ Ratio: 4:1 or 6:1
+** Toms
+*** EQ
++ Boost 60-90Hz (low) / 80-120Hz (high)
++ Cut 200-400Hz (mud)
++ Boost 3-5kHz (attack)
+*** Compression
++ 4-6dB GR
++ Attack: medium-fast
++ Release: fast
+** Hi-hat
+*** EQ
++ High-pass 300-400Hz
++ notch painfully bright frequencies (7-10kHz)
++ lift around 3-5kHz if dull
+** Cymbals
+*** EQ
++ High-pass 300-400 Hz
++ Cut 2-4 kHz if harsh
+*** Compression
++ 2:1 ratio
++ 1-3dB GR
+** Parallel Compression (we want the drums to punch in the chest fr dawg)
+*** What we doin
++ send entire kit (not cymbals) to parallel bus
++ 10-20dB GR (gain reduction)
++ blend 10-25% into the mix
+* Guitard Mixing Notes
+** individual track
+*** EQ
++ HPF at 80-100 Hz
++ LPF at 10-12kHz
++ cut 200-400Hz (mud)
++ Cut 3.5-4.5kHz  (fizz)
++ small cut around 1kHz (if boxy)
++ Boost 2-3kHz (if more aggression is needed)
+*** Saturation
+ + could use to thicken tones (tape saturation?)
+** Bus
+*** Multiband Comp
++ Low band 80-200 Hz: 2-3dB GR
++ High band 4-8kHz: 1-2GR
+*** Limiter?
++ 1-3db GR
+*** Width <10%
+* bAss Mixing Notes
+** Clean (low/sub)
++ LPF at 120-150 Hz
++ Boost 60-80Hz
++ cut 200-300Hz(Mud)
++ Cut 500 Hz (boxiness)
++ Compression 10-15db GR
++ no distortion
+** Distorted
++ HPF at 120-150Hz
++ EQ Emphasis around 700Hz - 3kHz
++ Boost 700Hz-1.2kHz (movement/growl)
++ Boost 2-3kHz (attack, grit)
++ cut 4-6 kHz (fizz)
++ Compression 3-6db GR
+** BUS
++ Sidechain to Kick (2-3dB GR)
++ Limit? (1-2dB)

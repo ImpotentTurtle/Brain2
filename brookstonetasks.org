@@ -45,14 +45,6 @@ SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-12-01 Mon>
 
 * Active Tickets
-** TODO *SECURITY*: needs password removed |  needs appropriate apps
-SCHEDULED: <2025-11-10 Mon>
-- Note taken on [2025-11-17 Mon 15:13] \\
-  Still nothing from QuoVadis today; sent out a reminder, hoping to hear back soon
-- Note taken on [2025-11-10 Mon 12:01] \\
-  QV removed password through factory reset --> added /Nest/ camera application --> still need Google Home
-- Note taken on [2025-11-07 Fri 13:39] \\
-  /QV was to have done this Oct. 30-31 --> Check-in!/
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\
@@ -69,6 +61,9 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-17 Mon>
 - Note taken on [2025-11-17 Mon 13:20] \\
   In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
+** TODO *CRAWLEY*: Willis' Read Theory not allowing for answer submission
+- Note taken on [2025-12-01 Mon 12:51] \\
+  Presented troubleshooting suggesetions; restarting browser/program as well as restarting device
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\
@@ -79,7 +74,16 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
+** STRT *PRINTERS*: Replace BadBoy Cartridge
 * Completed Tickets
+** DONE *SECURITY*: needs password removed |  needs appropriate apps
+CLOSED: [2025-12-01 Mon 12:43] SCHEDULED: <2025-11-10 Mon>
+- Note taken on [2025-11-17 Mon 15:13] \\
+  Still nothing from QuoVadis today; sent out a reminder, hoping to hear back soon
+- Note taken on [2025-11-10 Mon 12:01] \\
+  QV removed password through factory reset --> added /Nest/ camera application --> still need Google Home
+- Note taken on [2025-11-07 Fri 13:39] \\
+  /QV was to have done this Oct. 30-31 --> Check-in!/
 ** DONE *WEBB*: admissions.office not receiving emails from registar group
 CLOSED: [2025-12-01 Mon 12:42] SCHEDULED: <2025-11-03 Mon>
 - Note taken on [2025-11-10 Mon 11:59] \\

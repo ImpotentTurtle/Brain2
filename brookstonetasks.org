@@ -36,14 +36,14 @@ CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
 CLOSED: [2025-11-12 Wed 12:17] SCHEDULED: <2025-11-12 Wed>
           + +Montgomery ~ 15+
           + +Fernald ~ 13+
-** PROJ [#B] Roll out new laptops
-DEADLINE: <2025-11-12 Wed>
-*** TODO *Wilson* --> IT-1308
-SCHEDULED: <2025-11-10 Mon>
 ** PROJ IT-Rules Sheet
 SCHEDULED: <2025-11-17 Mon>
 DEADLINE: <2025-12-01 Mon>
 
+** DONE Roll out new laptops
+CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
+*** DONE *Wilson* --> IT-1308
+CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
@@ -64,6 +64,9 @@ SCHEDULED: <2025-11-17 Mon>
 ** TODO *CRAWLEY*: Willis' Read Theory not allowing for answer submission
 - Note taken on [2025-12-01 Mon 12:51] \\
   Presented troubleshooting suggesetions; restarting browser/program as well as restarting device
+** TODO *RYAN*: Needs help setting up Doc-Camera
+** TODO *MITCHELL*: Would like to use Doc-Camera
+** TODO *JACKSON*: Cannot print
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\

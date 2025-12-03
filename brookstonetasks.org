@@ -64,11 +64,6 @@ SCHEDULED: <2025-11-17 Mon>
 ** TODO *CRAWLEY*: Willis' Read Theory not allowing for answer submission
 - Note taken on [2025-12-01 Mon 12:51] \\
   Presented troubleshooting suggesetions; restarting browser/program as well as restarting device
-** TODO *RYAN*: Needs help setting up Doc-Camera
-** DONE *MITCHELL*: Would like to use Doc-Camera
-CLOSED: [2025-12-03 Wed 14:21]
-** DONE *JACKSON*: Cannot print
-CLOSED: [2025-12-03 Wed 14:21]
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\
@@ -81,6 +76,12 @@ SCHEDULED: <2025-11-10 Mon>
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 ** STRT *PRINTERS*: Replace BadBoy Cartridge
 * Completed Tickets
+** DONE *RYAN*: Needs help setting up Doc-Camera
+CLOSED: [2025-12-03 Wed 15:16]
+** DONE *MITCHELL*: Would like to use Doc-Camera
+CLOSED: [2025-12-03 Wed 14:21]
+** DONE *JACKSON*: Cannot print
+CLOSED: [2025-12-03 Wed 14:21]
 ** DONE *SECURITY*: needs password removed |  needs appropriate apps
 CLOSED: [2025-12-01 Mon 12:43] SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:13] \\

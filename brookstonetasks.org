@@ -70,8 +70,9 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
-** STRT *PRINTERS*: Replace BadBoy Cartridge
 * Completed Tickets
+** DONE *PRINTERS*: Replace BadBoy Cartridge
+CLOSED: [2025-12-17 Wed 13:43]
 ** DONE *DEPHOUSE*: Consult QV for troubleshooting
 CLOSED: [2025-12-16 Tue 11:18] SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:40] \\

@@ -40,7 +40,7 @@
 :PROPERTIES:
 :ID:       aee50f86-8f78-42d4-9712-6585b9e9b767
 :END:
-
+*** [[id:3531e088-d9ed-4314-b3f8-46edfd34d9d5][ECGR2111]]: Network Theory I
 * Senior
 :PROPERTIES:
 :ID:       58ca5b84-a334-4deb-a22e-2ae8e667f9cf

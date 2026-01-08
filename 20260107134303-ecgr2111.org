@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3531e088-d9ed-4314-b3f8-46edfd34d9d5
+:ROAM_ALIASES: NetworkTheoryI
+:END:
+#+title: ECGR2111
+#+subtitle: Network Theory I
+#+filetags: Junior/Spring

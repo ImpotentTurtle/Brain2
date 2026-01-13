@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b2ae4371-1621-4d46-a78a-6f6fa5b3e17a
+:END:
+#+title: ECGR2254
+#+subtitle: Analytical Foundations of Electrical Computer Engineering
+#+filetags:Junior/Spring

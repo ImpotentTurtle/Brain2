@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       87173aa4-c4a0-4d2d-a20c-fa60dd05ffd3
+:END:
+#+title: MATH4175
+#+subtitle: Mathematical Foundations of Optimization
+#+filetags:Junior/Spring

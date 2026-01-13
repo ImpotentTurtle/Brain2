@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7afbd54d-d2c9-4d66-b66e-cd04a39d1287
+:END:
+#+title: ECGR2181
+#+subtitle: Logic Systems Design
+#+filetags:Junior/Spring

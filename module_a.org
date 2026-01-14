@@ -2,6 +2,6 @@
 :ID:       3beff579-d148-49ed-b396-c6eb00f6af7e
 :END:
 #+title: Module A
-#+filetags:In-Class Notes
+#+filetags:Notes
 
 * A0:

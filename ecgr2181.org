@@ -6,5 +6,4 @@
 #+filetags:Junior/Spring
 
 * Notes
-**  In-Class
-*** [[id:3beff579-d148-49ed-b396-c6eb00f6af7e][Module A]]
+** [[id:3beff579-d148-49ed-b396-c6eb00f6af7e][Module A]]

@@ -38,7 +38,7 @@ CLOSED: [2025-11-12 Wed 12:17] SCHEDULED: <2025-11-12 Wed>
           + +Fernald ~ 13+
 ** PROJ IT-Rules Sheet
 SCHEDULED: <2025-11-17 Mon>
-DEADLINE: <2025-12-01 Mon>
+DEADLINE: <2026-01-30 Fri>
 
 ** DONE Roll out new laptops
 CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
@@ -49,6 +49,7 @@ CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\
   /Consulting with QV/ --> /QV believes we should purchase new device [why did performance drop]/
+** TODO *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
 ** TODO *ASEP*: Requested Garage Band for their iPads
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-10 Mon 11:49] \\
@@ -70,6 +71,9 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
+** STRT *JACKSON*: Phone not ringing school bells
+- Note taken on [2026-01-14 Wed 14:20] \\
+  Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this issue
 * Completed Tickets
 ** DONE *PRINTERS*: Replace BadBoy Cartridge
 CLOSED: [2025-12-17 Wed 13:43]

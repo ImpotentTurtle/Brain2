@@ -131,14 +131,14 @@
   + Increases speed & precision to improve food traits & production practices
 ** _International Food Information Council Foundation Fact Sheet: Benefits of Food Biotechnology_
 + With rising global population & rising food prices, the task of feeding the world is going to become more challenging and is just one reason to capitalize on the benefits of biotechnology.
-+ Use of biotech plants can produce more food on less land, by reducing the amount of crops lost to disease and pests. It can reduce $CO_2$ emissions from the farming process, the amount pesticides used to produce foods, and in the future, the amount of water needed to grow crops.
++ Use of biotech plants can produce more food on less land, by reducing the amount of crops lost to disease and pests. It can reduce CO2 emissions from the farming process, the amount pesticides used to produce foods, and in the future, the amount of water needed to grow crops.
 + Researchers are also enhancing nutritional value of foods.
 ** Fact Sheet: Benefits of Food Biotechnology
 + Agriculture Biotechnology Benefits the Engiorment
   + Certain biotech foods designed to resist pests and diseases, allowing farmers to use _ _ _, such as pesticides and herbicides, while still maintaining a healthy, high-yielding crop.
 + Reduction in chemical usage beneficial for water & wildlife, as well as for those consumers who may worry about ingesting chemicals when eating fruits & vegetables
 + Biotech crops require less plowing to control weeds since many are modified to be inherently resistant to herbicides
-+ Less plowing releass less carbon dioxide, or $CO_2$, into the environment compared to conventional tillage and helps to sustain habitats beneficial for insects, birds, and other animals
++ Less plowing releass less carbon dioxide, or CO2, into the environment compared to conventional tillage and helps to sustain habitats beneficial for insects, birds, and other animals
 + Biotechnology can help to limit deforestation because crops produce higher yield & require less acreage to produce the same amount of product. Researchers working on drought resistance seeds to grow food in less dry areas
 ** GMO benefits
 + 70% US food contains GM

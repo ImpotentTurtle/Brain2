@@ -40,10 +40,10 @@
 :PROPERTIES:
 :ID:       aee50f86-8f78-42d4-9712-6585b9e9b767
 :END:
-*** [[id:3531e088-d9ed-4314-b3f8-46edfd34d9d5][ECGR2111]]: Network Theory I
 *** [[id:7afbd54d-d2c9-4d66-b66e-cd04a39d1287][ECGR2181]]: Logic Systems Design
 *** [[id:b2ae4371-1621-4d46-a78a-6f6fa5b3e17a][ECGR2254]]: Analytical Foundations of ECE
 *** [[id:87173aa4-c4a0-4d2d-a20c-fa60dd05ffd3][MATH4175]]: Mathematical Foundations of Optimization
+*** [[id:3531e088-d9ed-4314-b3f8-46edfd34d9d5][ECGR2111]]: Network Theory I
 * Senior
 :PROPERTIES:
 :ID:       58ca5b84-a334-4deb-a22e-2ae8e667f9cf

@@ -46,15 +46,12 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
-** TODO [#A] *HUFF*: Needs computer peripherals for new desk
-- Note taken on [2026-01-14 Wed 14:39] \\
-  New hire "WIll Huff" is in need of desk peripherals (keyboard, mouse, monitor) for his new desk.
-** TODO [#B] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
+** TODO [#A] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
 - Note taken on [2026-01-14 Wed 14:28] \\
   Submitted ticket to QV in order to remotely install application, waiting to hear back
-** TODO [#C] *JACKSON*: Phone not ringing school bells
+** TODO [#B] *JACKSON*: Phone not ringing school bells
 - Note taken on [2026-01-14 Wed 14:20] \\
-  Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this issue
+  Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\
@@ -81,6 +78,10 @@ SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 * Completed Tickets
+** DONE *HUFF*: Needs computer peripherals for new desk
+CLOSED: [2026-01-14 Wed 15:34]
+- Note taken on [2026-01-14 Wed 14:39] \\
+  New hire "WIll Huff" is in need of desk peripherals (keyboard, mouse, monitor) for his new desk.
 ** DONE *PRINTERS*: Replace BadBoy Cartridge
 CLOSED: [2025-12-17 Wed 13:43]
 ** DONE *DEPHOUSE*: Consult QV for troubleshooting

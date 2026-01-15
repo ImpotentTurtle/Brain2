@@ -52,6 +52,7 @@ CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 ** TODO [#B] *JACKSON*: Phone not ringing school bells
 - Note taken on [2026-01-14 Wed 14:20] \\
   Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this
+** TODO [#C] *BRITT*: Needs help making youtube playlist
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\

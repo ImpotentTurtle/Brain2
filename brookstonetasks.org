@@ -49,9 +49,11 @@ CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 ** TODO [#A] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
 - Note taken on [2026-01-14 Wed 14:28] \\
   Submitted ticket to QV in order to remotely install application, waiting to hear back
-** TODO [#B] *JACKSON*: Phone not ringing school bells
-- Note taken on [2026-01-14 Wed 14:20] \\
-  Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this
+** TODO [#B] *GREENLEE*: Pop-up ads appearing on readtheory.org on student iPads.
+- Note taken on [2026-01-16 Fri 15:09] \\
+  QV informed that the our Firewall is unable to block ads through WebApps. If we want to utilize ReadTheory without ads, we must either pay for the app version OR we could try an alternate browser with built in ad filtering.
+- Note taken on [2026-01-15 Thu 09:19] \\
+  Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 ** TODO [#C] *BRITT*: Needs help making youtube playlist
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2025-11-10 Mon>
@@ -78,10 +80,11 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
-** STRT *GREENLEE*: Pop-up ads appearing on readtheory.org on student iPads.
-- Note taken on [2026-01-15 Thu 09:19] \\
-  Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 * Completed Tickets
+** DONE *JACKSON*: Phone not ringing school bells
+CLOSED: [2026-01-16 Fri 15:11]
+- Note taken on [2026-01-14 Wed 14:20] \\
+  Phone is currently not ringing bells. Also has access to the All Page button, it has been asked whether she has a admin pohone or not. Speak with TrueIP on this
 ** DONE *HUFF*: Needs computer peripherals for new desk
 CLOSED: [2026-01-14 Wed 15:34]
 - Note taken on [2026-01-14 Wed 14:39] \\

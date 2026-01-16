@@ -78,6 +78,9 @@ SCHEDULED: <2025-11-10 Mon>
 SCHEDULED: <2025-11-10 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
+** STRT *GREENLEE*: Pop-up ads appearing on readtheory.org on student iPads.
+- Note taken on [2026-01-15 Thu 09:19] \\
+  Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 * Completed Tickets
 ** DONE *HUFF*: Needs computer peripherals for new desk
 CLOSED: [2026-01-14 Wed 15:34]

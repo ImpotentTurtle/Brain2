@@ -37,3 +37,9 @@
 ** Cesar Nolen
 ** Nathan Spence
 ~Others~
+* Movie Reviews
+:PROPERTIES:
+:ID:       9201bb9a-5437-411f-9ecf-f83f8591105c
+:END:
+**  [[id:809e0aac-88d2-4141-bc4e-24230f0dfbf9][No Other Choice]]
+

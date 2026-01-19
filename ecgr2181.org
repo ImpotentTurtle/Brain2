@@ -7,7 +7,7 @@
 
 * Agenda
 ** TODO Read Textbook Ch1 (pg. 1-35)
-:DEADLINE: <2026-01-23 Fri>
+:DEADLINE: <2026-01-22 Thu>
 
 * Notes
 ** [[id:3beff579-d148-49ed-b396-c6eb00f6af7e][Module A]]

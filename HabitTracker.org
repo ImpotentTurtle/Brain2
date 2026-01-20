@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4cd2b94d-1a2f-4ef3-aecf-55a2d0a94141
+:END:
+#+title: HabitTracker
+
+* Personal Habits
+** TODO Journal
+SCHEDULED: <2026-01-21 Wed .+1d 20:00>
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: TODO
+:LAST_REPEAT: [2026-01-20 Tue 11:10]
+:END:
+- State "DONE"       from "TODO"       [2026-01-20 Tue 11:10]

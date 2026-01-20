@@ -5,3 +5,5 @@
 #+title: ECGR2111
 #+subtitle: Network Theory I
 #+filetags: Junior/Spring
+
+* Agenda

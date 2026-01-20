@@ -4,3 +4,5 @@
 #+title: MATH4175
 #+subtitle: Mathematical Foundations of Optimization
 #+filetags:Junior/Spring
+
+* Agenda

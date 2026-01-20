@@ -7,6 +7,8 @@
 
 ~This is a 'Central Index Node' that holds my personal notes (i.e. Ideas/Personal Projects, To-Dos, Thoughts, etc.)~
 
+* [[id:4cd2b94d-1a2f-4ef3-aecf-55a2d0a94141][HabitTracker]]
+
 * Ideas
 :PROPERTIES:
 :ID:       5b6c1adb-4c73-42c8-be8c-15a61a22ffbe

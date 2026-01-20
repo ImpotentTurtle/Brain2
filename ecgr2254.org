@@ -4,3 +4,5 @@
 #+title: ECGR2254
 #+subtitle: Analytical Foundations of Electrical Computer Engineering
 #+filetags:Junior/Spring
+
+* Agenda

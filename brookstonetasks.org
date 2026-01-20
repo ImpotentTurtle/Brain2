@@ -15,7 +15,11 @@
 - Will likely need to give Lauren Lawrences' old laptop to new teacher by end of week (11-21-2025)
 - It'd probably be wise to look over each Smartboard in all classrooms to make sure they are up to date with the inventory list. This way we can order proper replacement pens.
 * Projects
-** DONE [#A] Roll-out Headphones 3rd-4th
+** PROJ IT-Rules Sheet
+SCHEDULED: <2025-11-17 Mon>
+DEADLINE: <2026-02-28 Sat>
+
+** DONE Roll-out Headphones 3rd-4th
 CLOSED: [2026-01-20 Tue 09:23] DEADLINE: <2025-11-21 Fri>
 *** DONE Order and Issue Headphone "Shoe-rack"
 CLOSED: [2026-01-20 Tue 09:23] SCHEDULED: <2025-11-12 Wed>
@@ -37,10 +41,6 @@ CLOSED: [2025-11-07 Fri 13:26] SCHEDULED: <2025-11-03 Mon>
 CLOSED: [2025-11-12 Wed 12:17] SCHEDULED: <2025-11-12 Wed>
           + +Montgomery ~ 15+
           + +Fernald ~ 13+
-** PROJ IT-Rules Sheet
-SCHEDULED: <2025-11-17 Mon>
-DEADLINE: <2026-02-28 Sat>
-
 ** DONE Roll out new laptops
 CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
@@ -54,7 +54,10 @@ CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
   QV informed that the our Firewall is unable to block ads through WebApps. If we want to utilize ReadTheory without ads, we must either pay for the app version OR we could try an alternate browser with built in ad filtering.
 - Note taken on [2026-01-15 Thu 09:19] \\
   Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
-** TODO [#C] *BRITT*: Needs help making youtube playlist
+** TODO [#C] *BRITT*: Needs assistance setting up YouTube playlist
+:SCHEDULED: <2026-01-21 Wed>
+- Note taken on [2026-01-20 Tue 09:16] \\
+  Gillian would like to start using YouTube playlists as opposed to having to navigate using a bunch of different links. She would like me to teach her to properly set this up
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2026-02-02 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\
@@ -78,10 +81,6 @@ SCHEDULED: <2026-02-02 Mon>
 SCHEDULED: <2026-01-26 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
-** STRT *BRITT*: Needs assistance setting up YouTube playlist
-:SCHEDULED: <2026-01-20 Tue>
-- Note taken on [2026-01-20 Tue 09:16] \\
-  Gillian would like to start using YouTube playlists as opposed to having to navigate using a bunch of different links. She would like me to teach her to properly set this up
 * Completed Tickets
 ** DONE *JACKSON*: Phone not ringing school bells
 CLOSED: [2026-01-16 Fri 15:11]

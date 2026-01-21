@@ -5,7 +5,7 @@
 
 * Personal Habits
 ** TODO Journal
-SCHEDULED: <2026-01-21 Wed .+1d>
+SCHEDULED: <2026-01-21 Wed .+1d 20:00>
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: TODO

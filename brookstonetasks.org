@@ -46,14 +46,6 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
-** TODO [#A] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
-- Note taken on [2026-01-14 Wed 14:28] \\
-  Submitted ticket to QV in order to remotely install application, waiting to hear back
-** TODO [#B] *GREENLEE*: Pop-up ads appearing on readtheory.org on student iPads.
-- Note taken on [2026-01-16 Fri 15:09] \\
-  QV informed that the our Firewall is unable to block ads through WebApps. If we want to utilize ReadTheory without ads, we must either pay for the app version OR we could try an alternate browser with built in ad filtering.
-- Note taken on [2026-01-15 Thu 09:19] \\
-  Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 ** TODO [#C] *BRITT*: Needs assistance setting up YouTube playlist
 :SCHEDULED: <2026-01-21 Wed>
 - Note taken on [2026-01-20 Tue 09:16] \\
@@ -73,6 +65,14 @@ SCHEDULED: <2026-01-26 Mon>
 ** TODO *CRAWLEY*: Willis' Read Theory not allowing for answer submission
 - Note taken on [2025-12-01 Mon 12:51] \\
   Presented troubleshooting suggesetions; restarting browser/program as well as restarting device
+** HOLD [#A] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
+- Note taken on [2026-01-14 Wed 14:28] \\
+  Submitted ticket to QV in order to remotely install application, waiting to hear back
+** HOLD [#B] *GREENLEE*: Pop-up ads appearing on readtheory.org on student iPads.
+- Note taken on [2026-01-16 Fri 15:09] \\
+  QV informed that the our Firewall is unable to block ads through WebApps. If we want to utilize ReadTheory without ads, we must either pay for the app version OR we could try an alternate browser with built in ad filtering.
+- Note taken on [2026-01-15 Thu 09:19] \\
+  Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 ** HOLD *LIBRARY LAPTOP*: Slow
 SCHEDULED: <2026-02-02 Mon>
 - Note taken on [2025-11-07 Fri 13:41] \\
@@ -81,6 +81,7 @@ SCHEDULED: <2026-02-02 Mon>
 SCHEDULED: <2026-01-26 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
+** STRT *DEPHOUSE*: Smartboard has no sound
 * Completed Tickets
 ** DONE *JACKSON*: Phone not ringing school bells
 CLOSED: [2026-01-16 Fri 15:11]

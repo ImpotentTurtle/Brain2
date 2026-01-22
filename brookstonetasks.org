@@ -81,8 +81,11 @@ SCHEDULED: <2026-02-02 Mon>
 SCHEDULED: <2026-01-26 Mon>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
-** STRT *DEPHOUSE*: Smartboard has no sound
 * Completed Tickets
+** DONE *DEPHOUSE*: Smartboard has no sound
+CLOSED: [2026-01-22 Thu 08:55]
+- Note taken on [2026-01-22 Thu 08:54] \\
+  Slight miscommunication with this one. However, problem seemed to just be with embedded YouTube videos with no playback inside of a slideshow. Confirmed it was not a pressing issue. RESOLVED
 ** DONE *JACKSON*: Phone not ringing school bells
 CLOSED: [2026-01-16 Fri 15:11]
 - Note taken on [2026-01-14 Wed 14:20] \\

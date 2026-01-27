@@ -6,7 +6,8 @@
 #+filetags:Junior/Spring
 
 * Agenda
-** TODO Read Textbook Ch1 (pg. 1-35)
+** DONE Read Textbook Ch1 (pg. 1-35)
+CLOSED: [2026-01-25 Sun 19:23]
 :DEADLINE: <2026-01-22 Thu>
 
 * Notes

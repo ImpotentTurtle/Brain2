@@ -40,6 +40,7 @@
 *** DONE 'Profile' Picture
 *** TODO Current Goals
 *** TODO Credentials/LinkedIn
+*** TODO FLIP CLOCK??????
 ** Movie Reviews
 *** TODO Imported Reviews from Letterboxed
  + Article/Journalism format

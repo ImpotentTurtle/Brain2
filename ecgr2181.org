@@ -9,6 +9,10 @@
 ** DONE Read Textbook Ch1 (pg. 1-35)
 CLOSED: [2026-01-25 Sun 19:23]
 :DEADLINE: <2026-01-22 Thu>
+** TODO Reading (pg. 54-58)
+:DEADLINE: <2026-02-04 Wed>
+** TODO EXAM 1
+:DEADLINE: <2026-02-06 Fri>
 
 * Notes
 ** [[id:3beff579-d148-49ed-b396-c6eb00f6af7e][Module A]]

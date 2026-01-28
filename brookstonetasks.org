@@ -46,12 +46,12 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
+** TODO [#A] *DEPHOUSE*: Needs assistance signing in to FACTS
+** TODO [#B] *SLAUGHTER*: Lost all printers
 ** TODO [#C] *BRITT*: Needs assistance setting up YouTube playlist
 :SCHEDULED: <2026-01-21 Wed>
 - Note taken on [2026-01-20 Tue 09:16] \\
   Gillian would like to start using YouTube playlists as opposed to having to navigate using a bunch of different links. She would like me to teach her to properly set this up
-** TODO *DEPHOUSE*: Needs assistance signing in to FACTS
-** TODO *SLAUGHTER*: Lost all printers
 ** TODO *TALAMO*: Laptop Slow
 SCHEDULED: <2026-02-02 Mon>
 - Note taken on [2025-11-07 Fri 13:43] \\

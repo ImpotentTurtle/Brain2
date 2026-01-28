@@ -46,10 +46,11 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
-** TODO [#A] *DEPHOUSE*: Needs assistance signing in to FACTS
-** TODO [#B] *SLAUGHTER*: Lost all printers
-** TODO [#C] *BRITT*: Needs assistance setting up YouTube playlist
-:SCHEDULED: <2026-01-21 Wed>
+** TODO [#A] *SLAUGHTER*: Lost all printers
+- Note taken on [2026-01-28 Wed 15:14] \\
+  Is currently our of space on laptop...will reconvene when there is more space and determine path forward
+** TODO [#B] *BRITT*: Needs assistance setting up YouTube playlist
+:SCHEDULED: <2026-01-29 Thu>
 - Note taken on [2026-01-20 Tue 09:16] \\
   Gillian would like to start using YouTube playlists as opposed to having to navigate using a bunch of different links. She would like me to teach her to properly set this up
 ** TODO *TALAMO*: Laptop Slow
@@ -87,6 +88,8 @@ SCHEDULED: <2026-01-26 Mon>
 - Note taken on [2026-01-22 Thu 08:58] \\
   When printing one sheet, two print out. When printing /n/ number of sheets, /2n/ sheets print out.
 * Completed Tickets
+** DONE *DEPHOUSE*: Needs assistance signing in to FACTS
+CLOSED: [2026-01-28 Wed 15:10]
 ** DONE *DEPHOUSE*: Smartboard has no sound
 CLOSED: [2026-01-22 Thu 08:55]
 - Note taken on [2026-01-22 Thu 08:54] \\

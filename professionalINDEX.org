@@ -21,6 +21,7 @@
 *** [[id:d09e63c6-02d8-4bf8-8283-4d0bb45226ca][Tech Policies]]
 *** [[id:2a9df823-aedc-475f-97d5-8d271e046dd1][Troubleshooting Tips]]
 *** [[id:683af03c-38c9-4acf-81cd-a116fb87bf7b][PaperCut Notes]]
+*** [[id:cdf13cb3-187d-4bb5-b729-573f19d40a90][IT Rules]]
 
 ** IBM
 :PROPERTIES:

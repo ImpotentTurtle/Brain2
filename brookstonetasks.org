@@ -84,7 +84,7 @@ SCHEDULED: <2026-01-26 Mon>
 ** STRT *SLAUGHTER*: Printing double
 - Note taken on [2026-01-22 Thu 08:58] \\
   When printing one sheet, two print out. When printing /n/ number of sheets, /2n/ sheets print out.
-* Completed Tickets
+* C ompleted Tickets
 ** DONE *SLAUGHTER*: Lost all printers
 CLOSED: [2026-01-29 Thu 08:05]
 - Note taken on [2026-01-28 Wed 15:14] \\

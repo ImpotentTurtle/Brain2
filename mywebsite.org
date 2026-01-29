@@ -42,7 +42,7 @@
 *** TODO Credentials/LinkedIn
 *** TODO FLIP CLOCK??????
 - Note taken on [2026-01-29 Thu 09:03] \\
-  Could potentially use flipclock.js API -- seems like a good option
+  Could potentially use ~flipclock.js~ API -- seems like a good option
 ** Movie Reviews
 *** TODO Imported Reviews from Letterboxed
  + Article/Journalism format

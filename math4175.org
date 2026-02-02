@@ -6,3 +6,6 @@
 #+filetags:Junior/Spring
 
 * Agenda
+** TODO Class Notes
+:DEADLINE: <2026-02-02 Mon>
+

@@ -7,5 +7,7 @@
 #+filetags: Junior/Spring
 
 * Agenda
-** Zybooks (ch. 1)
+** TODO Zybooks (ch. 1)
 :DEADLINE: <2026-01-29 Thu>
+
+* Theory 

@@ -6,6 +6,7 @@
 #+filetags:Junior/Spring
 
 * Agenda
-** TODO Class Notes
+** DONE Class Notes
+CLOSED: [2026-02-04 Wed 09:08]
+- State "DONE"       from "TODO"       [2026-02-04 Wed 09:08]
 :DEADLINE: <2026-02-02 Mon>
-

@@ -16,7 +16,7 @@
 ** PROJ [[id:e8b80fcc-eec3-40d7-9256-fe010c5be85e][JoJu Smart Mirror]]
 *** TODO [[id:6d0c53ee-6e82-40a5-8892-c6efa79e85d6][JoJu Mirror App]] (optional)
 ** PROJ [[id:cdef2d70-54de-4357-a5e1-b477f4b5ecbc][GamerThugsVideoGame]]
-** PROJ [[id:07f90df6-e8d4-42a0-baef-854b71e6aaac][MyWebsite]]
+** PROJ [[id:07f90df6-e8d4-42a0-baef-854b71e6aaac][MyWebsite]] 
 ** PROJ BandWebsite (Shop?)
 ** Personal Apps for Julie?
 * Memos
@@ -32,7 +32,7 @@
 :ID:       e584970d-8f23-4ad7-859e-3273f370e6bb
 :END:
 ~Important People~
-** Julie Tran (Girlfriend)
+** [[id:4e298ffc-279b-4865-835f-ab8beb7e460f][Julie Tran ]](Girlfriend)
 ** Joel Boynton (Dad)
 ** Sarah Boynton (Mom)
 ** Natalie Boynton (Sister)

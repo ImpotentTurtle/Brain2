@@ -46,7 +46,9 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
-** TODO [#A] *BRITT*: Needs assistance setting up YouTube playlist
+** DONE [#A] *BRITT*: Needs assistance setting up YouTube playlist
+CLOSED: [2026-02-04 Wed 09:08]
+- State "DONE"       from "TODO"       [2026-02-04 Wed 09:08]
 :SCHEDULED: <2026-01-29 Thu>
 - Note taken on [2026-01-20 Tue 09:16] \\
   Gillian would like to start using YouTube playlists as opposed to having to navigate using a bunch of different links. She would like me to teach her to properly set this up

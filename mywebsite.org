@@ -38,19 +38,20 @@
 ** Landing/HomePage
 *** DONE Simple Bio/Interests
 *** DONE 'Profile' Picture
-*** TODO Current Goals
-*** TODO Credentials/LinkedIn
-*** TODO FLIP CLOCK??????
+*** STRT Credentials/LinkedIn
+- Note taken on [2026-02-03 Tue 20:23] \\
+  Low key need to update my LinkedIn by ALOT; needs to reflect current experiences (i.e. Resume)
+*** STRT FLIP CLOCK??????
 - Note taken on [2026-01-29 Thu 09:03] \\
   Could potentially use ~flipclock.js~ API -- seems like a good option
 ** Movie Reviews
-*** TODO Imported Reviews from Letterboxed
+*** STRT Imported Reviews from Letterboxed
  + Article/Journalism format
  + Main focus on movies that are stored in letterboxed (recently viewed/rewatched)
  + Should be provide depth into thoughts/feelings/understanding/impact
-*** TODO links to articles should provide title, thumbnail, & preview of contents in list format
+*** STRT links to articles should provide title, thumbnail, & preview of contents in list format
 ** Photography
-*** TODO Album format
+*** STRT Album format
  + Formated by Date? Location? Style?
 ** My Tools
 ** Portfolio

@@ -7,7 +7,9 @@
 #+filetags: Junior/Spring
 
 * Agenda
-** TODO Zybooks (ch. 1)
+** DONE Zybooks (ch. 1)
+CLOSED: [2026-02-04 Wed 09:08]
+- State "DONE"       from "TODO"       [2026-02-04 Wed 09:08]
 :DEADLINE: <2026-01-29 Thu>
 
-* Theory 
+* Theory

@@ -9,7 +9,9 @@
 ** DONE Read Textbook Ch1 (pg. 1-35)
 CLOSED: [2026-01-25 Sun 19:23]
 :DEADLINE: <2026-01-22 Thu>
-** TODO Online Class (Zoom)
+** DONE Online Class (Zoom)
+CLOSED: [2026-02-04 Wed 09:08]
+- State "DONE"       from "TODO"       [2026-02-04 Wed 09:08]
 :SCHEDULED: <2026-02-02 Mon>
 ** TODO Reading (pg. 54-58)
 :DEADLINE: <2026-02-04 Wed>

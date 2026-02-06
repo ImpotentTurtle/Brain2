@@ -2,7 +2,7 @@
 :ID:       54d8bd43-0d62-436b-957c-493a87a296b7
 :END:
 #+title: Number Systems
-#+filetags: Theory
+#+filetags:Theory
 
 * Decimal Numbers
 :PROPERTIES:
@@ -19,7 +19,7 @@
 + *Definition*: Number system based on pwoers of base 2. Only digits 0-1 can be used to express these numbers.
 + 0-1 (2 digits)
   + /10110 =/
-    
+
 * Hexidecimal
 :PROPERTIES:
 :ID:       ed48ba8c-8d5f-4a86-856f-feee9962672a
@@ -31,4 +31,18 @@
 :PROPERTIES:
 :ID:       f6a3fa1d-b085-4625-aef6-5796928dbc91
 :END:
+** Bit
+:PROPERTIES:
+:ID:       6dba8e65-09ef-4b7c-9b2a-207e29d5d9cc
+:END:
++ *Definition*: A contraction of 'Binary Digit'; either a 0 or 1
++ *lsb*: least significan bit (right-most)
++ *msb*: most significant bit (left most)
 
+** Word (computers)
+:PROPERTIES:
+:ID:       c471a03f-c9ab-4f45-a4d3-f3ce34e2ef02
+:END:
++ *Definition*: A (machine specific) left to right sequence of N-[[id:6dba8e65-09ef-4b7c-9b2a-207e29d5d9cc][Bits]]
+*** Nibble: 4-bits
+*** Byte: 8-bits

@@ -2,7 +2,7 @@
 :ID:       3b659531-d8da-46c1-a646-05e05c23947e
 :END:
 #+title: Digital Abstraction
-#+filetags: Theory
+#+filetags:Theory
 
 * Abstraction
 :PROPERTIES:
@@ -33,26 +33,34 @@
 ~(the amount of information in a discrete valued variable with N distinct states)~
 
 ** Digital System
-
-** Bit
 :PROPERTIES:
-:ID:       6dba8e65-09ef-4b7c-9b2a-207e29d5d9cc
+:ID:       c9cb4865-ffe0-4d20-8cc6-1a192cca83cd
 :END:
-+ *Definition*: A contraction of 'Binary Digit'; either a 0 or 1
++ *Definition*: A system that takes discrete inputs to produce discrete outputs
 
 ** Module (computer)
 :PROPERTIES:
 :ID:       23e1e58a-a0d5-4d34-bb06-12c288d454ff
 :END:
 + *Definition*: A component, unit, division of a larger system
+*** Terms
++ *Port*: input or output to Hardware module
++ *Argument (parameter)*: input or output to software module
+
+** Interface
+:PROPERTIES:
+:ID:       13bd8420-d5be-4ca1-aa73-d644c91934ad
+:END:
++ *Definition*: (i) inouts/outputs and (ii) a name; a [[id:23e1e58a-a0d5-4d34-bb06-12c288d454ff][module]] without a specification
+  + Entity: VHDL Interface
 
 ** The Three Y's
 :PROPERTIES:
 :ID:       2b001d85-b2d6-445f-9f09-25415f7ae8ad
 :END:
 ~Applies to both hardware and software~
-*** *Hierarchy*: Dividing a system into modules -> divide modules into something simpler
-*** *Modularity*: Modules have well-defined functions and interfaces, so that they connect together easily without unanticipated side-effects
+*** *Hierarchy*: Dividing a system into  [[id:23e1e58a-a0d5-4d34-bb06-12c288d454ff][modules ]]-> divide modules into something simpler
+*** *Modularity*: Modules have well-defined functions and  [[id:13bd8420-d5be-4ca1-aa73-d644c91934ad][interfaces, ]]so that they connect together easily without unanticipated side-effects.
 *** *Regularity*: Common modules are used many times, reducing the number of distinct modules that must be designed.
 
 ** Boolean Logic
@@ -61,6 +69,6 @@
 :ROAM_ALIASES: Boolean
 :END:
 ~True or False~
-+ Binary logic system 
++  [[id:26de731a-99e7-4f0d-84d4-aa6a67f062f6][Binary]] logic system
   + 1, True, High
   + 0, False, Low

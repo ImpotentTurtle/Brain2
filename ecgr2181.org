@@ -14,9 +14,18 @@ CLOSED: [2026-02-04 Wed 09:08]
 - State "DONE"       from "TODO"       [2026-02-04 Wed 09:08]
 :SCHEDULED: <2026-02-02 Mon>
 ** TODO Reading (pg. 54-58)
-:DEADLINE: <2026-02-04 Wed>
+:DEADLINE: <2026-02-09 Mon>
+** TODO HomeWork1
+:DEADLINE: <2026-02-08 Sun>
 ** TODO EXAM 1
 :DEADLINE: <2026-02-06 Fri>
 
-* Notes
-** [[id:3beff579-d148-49ed-b396-c6eb00f6af7e][Module A]]
+* Theory
+** Module A
+:PROPERTIES:
+:ID:       1ea54961-4869-4f75-847a-4ee95b676761
+:END:
+***  [[id:3b659531-d8da-46c1-a646-05e05c23947e][Digital Abstraction]]
+***  [[id:54d8bd43-0d62-436b-957c-493a87a296b7][Number Systems]]
+***  [[id:0531c7ff-e8d9-4f56-a215-5de03ee8eb4c][Logic Gates]]
+

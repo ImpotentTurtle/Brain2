@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       54d8bd43-0d62-436b-957c-493a87a296b7
+:END:
+#+title: Number Systems
+#+filetags: Theory
+
+* Decimal Numbers
+:PROPERTIES:
+:ID:       6ea48695-e3e2-4208-b013-dd21adc09a8d
+:END:
++ *Definition*: Number system based on powers of base 10. Only digits 0-9 can be used to express these numbers.
++ 0-9 (10 digits)
+  + /75682 = (7 * 10^4) + (5 * 10^3) + (6 * 10^2) + (8 * 10^1) + (2 * 10^0)/
+    
+* Binary Numbers
+:PROPERTIES:
+:ID:       26de731a-99e7-4f0d-84d4-aa6a67f062f6
+:END:
++ *Definition*: Number system based on pwoers of base 2. Only digits 0-1 can be used to express these numbers.
++ 0-1 (2 digits)
+  + /10110 =/
+    
+* Hexidecimal
+:PROPERTIES:
+:ID:       ed48ba8c-8d5f-4a86-856f-feee9962672a
+:END:
++ *Definition*:
++ 0-9 & A-F (16 values)
+  
+* Bit Sizes
+:PROPERTIES:
+:ID:       f6a3fa1d-b085-4625-aef6-5796928dbc91
+:END:
+

@@ -5,12 +5,14 @@
 
 * Personal Habits
 ** TODO Journal
-SCHEDULED: <2026-02-04 Wed .+1d>
+SCHEDULED: <2026-02-06 Fri .+1d>
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: TODO
-:LAST_REPEAT: [2026-02-04 Wed 08:03]
+:LAST_REPEAT: [2026-02-05 Thu 14:18]
 :END:
+- State "DONE"       from "TODO"       [2026-02-05 Thu 14:18]
+- State "DONE"       from "TODO"       [2026-02-04 Wed 14:17]
 - State "DONE"       from "TODO"       [2026-02-03 Tue 19:03]
 - State "DONE"       from "TODO"       [2026-01-25 Sun 19:21]
 - State "DONE"       from "TODO"       [2026-01-22 Thu 08:09]

@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       3b659531-d8da-46c1-a646-05e05c23947e
+:END:
+#+title: Digital Abstraction
+#+filetags: Theory
+
+* Abstraction
+:PROPERTIES:
+:ID:       c9f568ca-751d-4d99-8268-cba8bb17c064
+:END:
++ *Definition*: A strategy for managing complexity; allows for hiding details when they're not important.
++ /Lower level of abstraction -> higher level of complexity/
+  
+** Discipline (Engineering)
+:PROPERTIES:
+:ID:       ca8c18c0-ae1f-4d37-bc5c-c0bd16166f1e
+:END:
++ *Definition*: The act of intentionally restricting your design choices so that you can work more productively at a higher level of [[id:c9f568ca-751d-4d99-8268-cba8bb17c064][abstraction]].
+
+** Propositions
+:PROPERTIES:
+:ID:       1210cb0c-35a0-4241-871a-8bc658f4f7e9
+:END:
++ *Definition*: A declarative sentence with a TRUE or FALSE value
+*** Simple Proposition
++ P: "Ron is Human" -> An abstraction
+
+*** Compound Proposition
++ /x:/ "Ron is a teacher" ~and~ /y:/ "Ron is a human"
+
+* Digital Abstraction
+~enter function here~
+~(the amount of information in a discrete valued variable with N distinct states)~
+
+** Digital System
+
+** Bit
+:PROPERTIES:
+:ID:       6dba8e65-09ef-4b7c-9b2a-207e29d5d9cc
+:END:
++ *Definition*: A contraction of 'Binary Digit'; either a 0 or 1
+
+** Module (computer)
+:PROPERTIES:
+:ID:       23e1e58a-a0d5-4d34-bb06-12c288d454ff
+:END:
++ *Definition*: A component, unit, division of a larger system
+
+** The Three Y's
+:PROPERTIES:
+:ID:       2b001d85-b2d6-445f-9f09-25415f7ae8ad
+:END:
+~Applies to both hardware and software~
+*** *Hierarchy*: Dividing a system into modules -> divide modules into something simpler
+*** *Modularity*: Modules have well-defined functions and interfaces, so that they connect together easily without unanticipated side-effects
+*** *Regularity*: Common modules are used many times, reducing the number of distinct modules that must be designed.
+
+** Boolean Logic
+:PROPERTIES:
+:ID:       4f2ce4e8-4dd5-4ca0-ba72-ec2b4048cb10
+:ROAM_ALIASES: Boolean
+:END:
+~True or False~
++ Binary logic system 
+  + 1, True, High
+  + 0, False, Low

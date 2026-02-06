@@ -29,7 +29,7 @@
 + /x:/ "Ron is a teacher" ~and~ /y:/ "Ron is a human"
 
 * Digital Abstraction
-~enter function here~
+\[D = log_2 n\]
 ~(the amount of information in a discrete valued variable with N distinct states)~
 
 ** Digital System

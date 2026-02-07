@@ -7,19 +7,21 @@
 ** TODO Rerference pictures!
 
 
-
-* Notes (to be sorted)
-** Home
-Eichler home (less glass); estate style with multiple buildings connected by a courtyard; sprawling (1 of which is a gym) separate home for julies mom (give her a golf cart!). mom will take care of farm, dad will assist with animals. front facing wide drive way with fountain(?). SHOW OFF 911s
+* Misc. Notes (to be sorted)
+Separate home for julies mom (give her a golf cart!). mom will take care of farm, dad will assist with animals. front facing wide drive way with fountain(?). SHOW OFF 911s
 
 public facing barn (for slaughter pickup)
 
 selective clearing of forest to block out view of sections of estate; paths interconnect
 
-YOGA HOUSE (glass house; dark wood floor planks; lots of plants (HUMID ASF) next to pool)
 
 * House (Estate)
-** Gym
+** Main Home
+*** Style
++ Blend of Eichler (mid-century modern) and traditional style home
++ Sprawling connection of buildings as part of the main home with a shared courtyard.
+
+*** Gym
 + Barbell (45lb)
 + Squat rack (cage)
 + 10-45lbs plates [4per]
@@ -32,13 +34,20 @@ YOGA HOUSE (glass house; dark wood floor planks; lots of plants (HUMID ASF) next
 + Glute bridge pad (?)
 + shit ton o' mirrors
 
-** Pool
+*** Pool
 + Outdoor shower
 
-** Library/Study
-** Outdoor kitchen
-** Porch Swings (?)
+*** Yoga house
++ Glass house
++ dark wood floor planks
++ lots of plants (almost green house like)
++ meditation space
++ next to pool
 
+*** Library/Study
+*** Outdoor kitchen
+
+** Julie's Parents Home
 
 * Land Features (10 acres)
 ** OurFarm
@@ -65,6 +74,8 @@ YOGA HOUSE (glass house; dark wood floor planks; lots of plants (HUMID ASF) next
 + Bitter Melon
 + Watermelon
 + Fruit(?)
+*** Amenities
++ Swing?
 
 ** Julie's Mom House
 

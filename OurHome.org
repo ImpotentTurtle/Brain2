@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52845742-954d-4e2d-89f7-8df41a07b6e3
+:END:
+#+title: OurHome
+#+filetags:Notes
+* File Tasks
+** TODO Get Pictures!
+
+* Land Features
+** OurFarm
+*** Animals (in chronological order)
++ Doberman
++ Chickens
++ Kittens [2]
+  + Shelter or Maine Coon?
++ Belgian Mal. (puppy)
++ Central Asian Shepherd
++ Tibetan Mastiff
+
+** Pond

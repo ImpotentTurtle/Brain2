@@ -13,7 +13,7 @@
 
 ** Question 1 (Inverse Laplace - Partial Fractions)
 The inverse Laplace transform of the function
-\[ F(s) = \frac{5s+4}{(s-1)(s+2)} \]
+\[ F(s) = \frac{5s+4}{(s-1)(s+2)}\]
 is the function $f(t)$.
 Find the value of $f(0)$.
 

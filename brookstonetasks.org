@@ -16,7 +16,7 @@
 - It'd probably be wise to look over each Smartboard in all classrooms to make sure they are up to date with the inventory list. This way we can order proper replacement pens.
 * Projects
 ** PROJ IT-Rules Sheet
-SCHEDULED: <2025-11-17 Mon>
+SCHEDULED: <2026-02-10 Tue>
 DEADLINE: <2026-02-28 Sat>
 
 ** DONE Roll-out Headphones 3rd-4th
@@ -55,7 +55,7 @@ SCHEDULED: <2026-02-16 Mon>
 - Note taken on [2025-11-10 Mon 11:49] \\
   ASEP iPads received Garage Band except for 8 devices --> QV determining why these are not in group
 ** TODO *BRITT*: Smart Board Interaction Trouble
-SCHEDULED: <2026-02-09 Mon>
+SCHEDULED: <2026-02-10 Tue>
 - Note taken on [2025-11-17 Mon 13:20] \\
   In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
 ** TODO *CRAWLEY*: Willis' Read Theory not allowing for answer submission
@@ -77,7 +77,7 @@ SCHEDULED: <2026-02-23 Mon>
 ** STRT *WASKO*: Needs a Sub-Computer available on Tuesday
 :DEADLINE: <2026-02-10 Tue>
 ** STRT *HUNTLEY*: MacBook needs to be sent back to Apple
-SCHEDULED: <2026-02-09 Mon>
+SCHEDULED: <2026-02-10 Tue>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 ** STRT *SLAUGHTER*: Printing double

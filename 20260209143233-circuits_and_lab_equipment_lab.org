@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d44d9009-b7a8-4844-a9bb-d094a57079d6
+:END:
+#+title: Circuits and Lab Equipment_LAB
+#+filetags:Labs

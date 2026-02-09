@@ -16,8 +16,22 @@
 * Simple Bread Boarding, Calculating and Reading Voltage, Current, and Power
 
 
-1. \[3V = I * 220\Omega\]  \[-> 3V / 220\Ohms = I = 13.63636364 mA\]
+3. \[3V = I * 220\Omega\]  \[-> 3V / 220\Ohms = I = 13.63636364 mA\]
 
-2. \[3V * 13.6364mA = P = 0.04091 W\]
+4. \[3V * 13.6364mA = P = 0.04091 W\]
 
    + Yes, the resistor will be able to handle the power in the circuit as it falls well below 0.25 W
+19. Values swapped between -2.8 and +2.8
+
+* Series, Parallel, and Combination Series and parallel Circuits
+2. Total Resistance: \[220 + 470 = 690\Omega\]
+   + Total Resistance with 1kOhm resistor:  \[220+470+1000 = 1690\Omega\]
+3. Total Current: \[V = I * R_T, I = 3V/690\Omega = .0043478 A\]
+5. Readings
+   + 220 Ohm:
+     + V = 0.948 V
+   + 470 Ohm
+     + V = 2.024 V
+   + I: + to 220 Ohm = 0.001A
+   + I:  220 to 470 Ohm = 0.002A
+   + I: 470 to - = 0.001A

@@ -4,7 +4,10 @@
 #+title: Circuits and Lab Equipment_LAB
 #+filetags:Labs
 
-
+#+options: toc:nil
+#+begin_export latex
+\clearpage
+#+end_export
 * Using the Digital Multimeter (DMM)
 + 1kOhm Resistor
   + *Measured:* 0.9876 kOhm
@@ -13,6 +16,9 @@
 + 220 Resistor
   + *Measured*: 217.774 Ohms
 
+#+begin_export latex
+\clearpage
+#+end_export
 * Simple Bread Boarding, Calculating and Reading Voltage, Current, and Power
 
 
@@ -23,6 +29,9 @@
    + Yes, the resistor will be able to handle the power in the circuit as it falls well below 0.25 W
 19. Values swapped between -2.8 and +2.8
 
+#+begin_export latex
+\clearpage
+#+end_export
 * Series, Parallel, and Combination Series and parallel Circuits
 2. Total Resistance: \[220 + 470 = 690\Omega\]
    + Total Resistance with 1kOhm resistor:  \[220+470+1000 = 1690\Omega\]
@@ -35,3 +44,21 @@
    + I: + to 220 Ohm = 0.001A
    + I:  220 to 470 Ohm = 0.002A
    + I: 470 to - = 0.001A
+   + The pattern that I notice is that both the total Voltage and the Total Current are a result of the sum of currents and voltages across the circuit. Also yes, the 470Ohm resistor seems to have a higher voltage, I would assume this is because the 220Ohm was not able to resist as much current flowing through the circuit.
+8. Current through (470 and 1kOhm)
+    \[I = 3V/470\Omega = 0.00638298 A\]
+    \[I  = 3V/1000\Omega = 0.003 A\]
+9. Total Resistance with 220/470/1kOhm in parallel
+   \[R_T = (1/220 + 1/470 + 1/1000)^-1 = 130.325\Omega\]
+   \[I_T = (0.006 + 0.003 + 0.014) = 0.023A\]
+   \[P_T = 3V * 0.023A = 0.069W\]
+11. Voltage and Current Across Resistors
+    + 470 Ohm
+      + V = 2.96V
+      + I = 0.006
+    + 1kOhm
+      + V = 2.9V
+      + I = 0.004
+    + The Resistor receiving more current is the 470 Ohm resistor as it does not resist as much current
+
+15.

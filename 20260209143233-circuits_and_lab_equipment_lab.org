@@ -3,3 +3,21 @@
 :END:
 #+title: Circuits and Lab Equipment_LAB
 #+filetags:Labs
+
+
+* Using the Digital Multimeter (DMM)
++ 1kOhm Resistor
+  + *Measured:* 0.9876 kOhm
++ 470 Ohm Resistor
+  + *Measured:* 464.230 Ohms
++ 220 Resistor
+  + *Measured*: 217.774 Ohms
+
+* Simple Bread Boarding, Calculating and Reading Voltage, Current, and Power
+
+
+1. \[3V = I * 220\Omega\]  \[-> 3V / 220\Ohms = I = 13.63636364 mA\]
+
+2. \[3V * 13.6364mA = P = 0.04091 W\]
+
+   + Yes, the resistor will be able to handle the power in the circuit as it falls well below 0.25 W

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       be1c639c-fbc8-4d28-9606-3121b151e475
+:END:
+#+title: Circuits and Lab Equipment_PreLAB
+#+filetags:PreLAB
+
+* Questions
+1. ~For resistors with the following colors bands give the resistance and tolerances:~
+   a. ~Brown, Black, Red, Silver =~
+      + *Resistance:* 1,000  ohms
+      + *Tolerance:* +-10%
+   b. ~Blue, Gray, Black, None~
+      + *Resistance:* 68 ohms
+      + *Tolerance:* +-20%
+   c. ~Green, Blue, Orange, Gold =~
+      + *Resistance:* 56,000 ohms
+      + *Tolerance:* +-5%
+   d. ~Brown, Black Blue, None =~
+      + *Resistance:* 10,000,000 ohms
+      + *Tolerance:* +-20%
+2.
+3. ~Determine the maximum voltage that a 470 \[\Omega\], 1/4 W Resistor can have across it without exceeding its power rating.~
+   + \[I = \sqrt(P*R)\]  = \[\sqrt(0.25W*470 \Omega)\] = \[\sqrt(117.5)\] = 10.84V

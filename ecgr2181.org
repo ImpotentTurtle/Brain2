@@ -31,3 +31,9 @@ CLOSED: [2026-02-06 Fri 09:59]
 *** [[id:3b659531-d8da-46c1-a646-05e05c23947e][Digital Abstraction]]
 *** [[id:54d8bd43-0d62-436b-957c-493a87a296b7][Number Systems]]
 *** [[id:0531c7ff-e8d9-4f56-a215-5de03ee8eb4c][Logic Gates]]
+* LAB
+:PROPERTIES:
+:ID:       806dade7-6621-480b-ae84-88e287a40def
+:END:
+** Lab1
+*** [[id:be1c639c-fbc8-4d28-9606-3121b151e475][Circuits and Lab Equipment_PreLAB]]

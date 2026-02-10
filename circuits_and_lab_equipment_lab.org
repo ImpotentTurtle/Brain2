@@ -16,9 +16,6 @@
 + 220 Resistor
   + *Measured*: 217.774 Ohms
 
-#+begin_export latex
-\clearpage
-#+end_export
 * Simple Bread Boarding, Calculating and Reading Voltage, Current, and Power
 
 
@@ -29,9 +26,6 @@
    + Yes, the resistor will be able to handle the power in the circuit as it falls well below 0.25 W
 19. Values swapped between -2.8 and +2.8
 
-#+begin_export latex
-\clearpage
-#+end_export
 * Series, Parallel, and Combination Series and parallel Circuits
 2. Total Resistance: \[220 + 470 = 690\Omega\]
    + Total Resistance with 1kOhm resistor:  \[220+470+1000 = 1690\Omega\]
@@ -65,9 +59,10 @@
     \[R_T = 220 + (1/470 + 1/1000)^-1 = 539.728\Omega\]
     \[I_T = 3/220 = 0.014A\]
     \[P_T = 3V * 0.014A = 0.042W\]
-16.
+16. Voltage Drops
 
-18.
+
+18. Measured Current and Voltage
     220 = 1.216 V and 0.01 A
-    470 = 1.76 V and 0.06
-    1000 = 1.76 V and  0.05
+    470 = 1.76 V and 0.006
+    1000 = 1.76 V and  0.005

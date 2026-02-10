@@ -61,4 +61,13 @@
       + I = 0.004
     + The Resistor receiving more current is the 470 Ohm resistor as it does not resist as much current
 
-15.
+15. Resistance and Total Current 220 series with
+    \[R_T = 220 + (1/470 + 1/1000)^-1 = 539.728\Omega\]
+    \[I_T = 3/220 = 0.014A\]
+    \[P_T = 3V * 0.014A = 0.042W\]
+16.
+
+18.
+    220 = 1.216 V and 0.01 A
+    470 = 1.76 V and 0.06
+    1000 = 1.76 V and  0.05

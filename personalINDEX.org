@@ -48,6 +48,7 @@ CLOSED: [2026-02-07 Sat 17:11]
 :ID:       9201bb9a-5437-411f-9ecf-f83f8591105c
 :END:
 **  [[id:809e0aac-88d2-4141-bc4e-24230f0dfbf9][No Other Choice]]
-
-
-
+* Book Reviews
+:PROPERTIES:
+:ID:       da6c18f3-dd93-45c9-a5da-0dad9353aab6
+:END:

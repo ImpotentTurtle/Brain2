@@ -37,3 +37,4 @@ CLOSED: [2026-02-06 Fri 09:59]
 :END:
 ** Lab1
 *** [[id:be1c639c-fbc8-4d28-9606-3121b151e475][Circuits and Lab Equipment_PreLAB]]
+*** [[id:d44d9009-b7a8-4844-a9bb-d094a57079d6][Circuits and Lab Equipment_LAB]]

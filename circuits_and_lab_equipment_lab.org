@@ -56,12 +56,20 @@
 
 15. Resistance and Total Current 220 series with
     \[R_T = 220 + (1/470 + 1/1000)^-1 = 539.728\Omega\]
-    \[I_T = 3/220 = 0.014A\]
+    \[I_T = 3/539.728 = 0.005A\]
     \[P_T = 3V * 0.014A = 0.042W\]
-16. Voltage Drops
 
+16. Voltage Drops
+\[I_T = 0.005 -> 0.005 * (1/470 + 1/1000)^-1\]
+\[=1.78 -> 3 - 1.78 = V_R_1 = 1.22V\]
 
 18. Measured Current and Voltage
-    220 = 1.216 V and 0.01 A
-    470 = 1.76 V and 0.006
-    1000 = 1.76 V and  0.005
+    + 220 Ohm Resistor
+      + V = 1.216 V
+      + I = 0.01 A
+    + 470 Ohm Resistor
+      + V = 1.76 V
+      + I  = 0.005 A
+    + 1000 Ohm Resistor
+      + V = 1.76 V
+      + I  = 0.005

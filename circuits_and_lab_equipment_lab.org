@@ -17,13 +17,12 @@
   + *Measured*: 217.774 Ohms
 
 * Simple Bread Boarding, Calculating and Reading Voltage, Current, and Power
-
-
 3. \[3V = I * 220\Omega\]  \[-> 3V / 220\Ohms = I = 13.63636364 mA\]
 
 4. \[3V * 13.6364mA = P = 0.04091 W\]
 
    + Yes, the resistor will be able to handle the power in the circuit as it falls well below 0.25 W
+
 19. Values swapped between -2.8 and +2.8
 
 * Series, Parallel, and Combination Series and parallel Circuits

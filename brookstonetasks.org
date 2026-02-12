@@ -66,10 +66,6 @@ SCHEDULED: <2026-02-10 Tue>
 - Note taken on [2025-11-17 Mon 15:14] \\
   Was sent back due to some issue; we need an apple account to provide permission to continue with reapair; Reopen ticket with apple and ship again
 ** TODO [#C] *SLAUGHTER*: Needs a replacement Adapter
-** TODO *BRITT*: Smart Board Interaction Trouble
-SCHEDULED: <2026-02-16 Mon>
-- Note taken on [2025-11-17 Mon 13:20] \\
-  In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
 ** HOLD [#A] *ADVANCEMENT*: IT_0350 needs ISEE application installed on device
 - Note taken on [2026-01-14 Wed 14:28] \\
   Submitted ticket to QV in order to remotely install application, waiting to hear back
@@ -78,6 +74,10 @@ SCHEDULED: <2026-02-16 Mon>
   QV informed that the our Firewall is unable to block ads through WebApps. If we want to utilize ReadTheory without ads, we must either pay for the app version OR we could try an alternate browser with built in ad filtering.
 - Note taken on [2026-01-15 Thu 09:19] \\
   Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
+** HOLD [#C] *BRITT*: Smart Board Interaction Trouble
+SCHEDULED: <2026-02-16 Mon>
+- Note taken on [2025-11-17 Mon 13:20] \\
+  In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
 ** HOLD *ASEP*: Requested Garage Band for their iPads
 SCHEDULED: <2026-02-16 Mon>
 - Note taken on [2025-11-10 Mon 11:49] \\

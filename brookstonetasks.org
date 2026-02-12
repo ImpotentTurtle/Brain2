@@ -10,15 +10,27 @@
 #+end_export
 
 * Notes
-- Acuff may already have a hanging organizer (headphones), ask to confirm. It is a requirement to have.
-- Check if Michelle Baldwin still has macbook (ex-griffin) in office.
-- Will likely need to give Lauren Lawrences' old laptop to new teacher by end of week (11-21-2025)
 - It'd probably be wise to look over each Smartboard in all classrooms to make sure they are up to date with the inventory list. This way we can order proper replacement pens.
 * Projects
+** PROJ QuoVadis | PaperCut Updates
+*** TODO Discuss optimal update procedures
+:DEADLINE: <2026-02-27 Fri>
+- Note taken on [2026-02-12 Thu 08:24] \\
+  Another question we have, is how many things can a PaperCut update impact. Are there ways it can go wrong?
+- Note taken on [2026-02-12 Thu 08:14] \\
+  Determined that it is likely better for QV to handle our PaperCut updates. (according to them). Now we must develop a schedule of when this is appropriate to do.
+*** TODO Discuss changing printer names
+- Note taken on [2026-02-12 Thu 08:15] \\
+  Determined that this should be an easy project simply done by choosing the rename printer option under each printer currently in use.
+:DEADLINE: <2026-02-27 Fri>
+** PROJ Re-inventory all SmartBoards
+:SCHEDULED: <2026-02-04 Wed>
+:DEADLINE: <2026-02-13 Fri>
+- Note taken on [2026-02-12 Thu 08:17] \\
+  This is nearly done, took paper inventory last week and am now ready to begin updating the master inventory spreadsheet.
 ** PROJ IT-Rules Sheet
 SCHEDULED: <2026-02-10 Tue>
-DEADLINE: <2026-02-28 Sat>
-
+DEADLINE: <2026-02-27 Fri>
 ** DONE Roll-out Headphones 3rd-4th
 CLOSED: [2026-01-20 Tue 09:23] DEADLINE: <2025-11-21 Fri>
 *** DONE Order and Issue Headphone "Shoe-rack"
@@ -82,6 +94,10 @@ SCHEDULED: <2026-02-23 Mon>
 - Note taken on [2026-01-22 Thu 08:58] \\
   When printing one sheet, two print out. When printing /n/ number of sheets, /2n/ sheets print out.
 * Completed Tickets
+** DONE *SLAUGHTER*: Unable to print to Bulldogs or Cali
+CLOSED: [2026-02-12 Thu 08:20]
+- Note taken on [2026-02-12 Thu 08:19] \\
+  Resolved: Seemed to be more a of a network issue with the communication between her device and the PaperCut server.
 ** DONE *WASKO*: Needs a Sub-Computer available on Tuesday
 CLOSED: [2026-02-10 Tue 08:32]
 :DEADLINE: <2026-02-10 Tue>

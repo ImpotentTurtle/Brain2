@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7275d710-8ecf-4841-9cc2-4779990dd8eb
+:END:
+#+title: Circuits and Lab Equipment_PostLAB
+#+filetags:Labs
+
+#+options: toc:nil
+\newpage
+
+* Questions
+1. ~Discuss how you measured the voltage, amperes, and resistance. Where did you take the measurement and why?~
+   a. Using the different settings on the given digital multimeter I determined the voltage, current, and resistance by using
+2. ~Perform a percentage error calculation for the resistors measured in the lab and the predicted color code values in the pre-lab. Why are these values, predicted and measured, different?~
+
+3. ~Perform a percentage error calculation for the currents and voltages measured in the lab and the calculated values in the lab. Why are these values, calculated and measured, different?~
+
+4. ~How was the temperature of the resistor affected during the experiment?~

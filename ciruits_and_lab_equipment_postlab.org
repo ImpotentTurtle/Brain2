@@ -19,6 +19,9 @@
 
 3. ~Perform a percentage error calculation for the currents and voltages measured in the lab and the calculated values in the lab. Why are these values, calculated and measured, different?~
    a. Error Calculation 470 and 1kOhm in Parallel
-      + \[\frac{Measured}{Calculated} = \frac{0.006}{0.00638} = I_{470} Error\] = 6% Error
-      + \[\frac{Measured}{Calculated} = \frac{0.004}{0.003} = I_{1kOhm} Error\] = 25% Error
-4. ~How was the temperature of the resistor affected during the experiment?k~
+      + \[\frac{Measured-Given}{Measured} = \frac{0.006-0.0064}{0.006} = I_{470}Error\] = 7% Error
+      + \[\frac{Measured-Given}{Measured} = \frac{2.96-3}{2.96} = V_{470}Error\] = 1% Error
+      + \[\frac{Measured-Given}{Measured} = \frac{0.004-0.003}{0.004} = I_{1kOhm}Error\] = 25% Error
+      + \[\frac{Measured-Given}{Measured} = \frac{2.96-3}{2.96} = V_{1kOhm}Error\] = 1% Error
+
+4. ~How was the temperature of the resistor affected during the experiment?~

@@ -18,5 +18,7 @@
    b. The reason they are different is because all resistors have a resistance measured within a percentage range of the given resistance. This can be determined from looking at the colored bands on the resistor.
 
 3. ~Perform a percentage error calculation for the currents and voltages measured in the lab and the calculated values in the lab. Why are these values, calculated and measured, different?~
-   a.
-4. ~How was the temperature of the resistor affected during the experiment?~
+   a. Error Calculation 470 and 1kOhm in Parallel
+      + \[\frac{Measured}{Calculated} = \frac{0.006}{0.00638} = I_{470} Error\] = 6% Error
+      + \[\frac{Measured}{Calculated} = \frac{0.004}{0.003} = I_{1kOhm} Error\] = 25% Error
+4. ~How was the temperature of the resistor affected during the experiment?k~

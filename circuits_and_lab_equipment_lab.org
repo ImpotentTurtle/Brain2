@@ -5,9 +5,8 @@
 #+filetags:Labs
 
 #+options: toc:nil
-#+begin_export latex
-\clearpage
-#+end_export
+\newpage
+
 * Using the Digital Multimeter (DMM)
 + 1kOhm Resistor
   + *Measured:* 0.9876 kOhm

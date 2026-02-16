@@ -6,8 +6,8 @@
 #+filetags:Junior/Spring
 
 * Agenda
-** TODO Reading (pg. 54-58)
-:DEADLINE: <2026-02-16 Mon>
+** TODO Reading (pg. 54-73)
+:DEADLINE: <2026-02-20 Fri>
 ** DONE HomeWork1
 CLOSED: [2026-02-09 Mon 09:33]
 :DEADLINE: <2026-02-08 Sun>

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       99f455ed-434d-4aeb-be3e-7b65a926e135
+:END:
+#+title: Switches, LEDS, FETs, Logic Gates_PreLAB
+#+filetags:Labs
+
+#+options: tol:nil
+\newpage
+
+* Questions
+1. ~Given a source voltage of 5V, an LED forward voltage of 1V and a current-limiting resistor of 5kOhms what will the current be over the LED?~
+   a. \[\frac{V_{supply} - V_{LED}}{I_{LED}} = I = \frac{5V - 1V}{5000} = 0.0008A\]
+2. ~Explain why using a switch in series with an LED can control whether the LED turns on or off~
+   a. Utilizing a switch within a circuit can determine whether the current is able to flow through or not. Thus, putting one in series with an LED will dictate whether or not the LED receives current. If the switch is up then the LED will receive no current (so it will be off); if the switch is down, current flows so the LED will receive current (turning it on).
+3. ~What is the difference between an n-channel and p-channel MOSFET? Which one would you use to switch a circuit with a postitive voltage?~
+   a. The core difference is that a n-channel conducts when a positive voltage is applied, while a p-channel conducts with a negative voltage applied. So we would use a n-channel MOSFET in order to switch a circuit with a positive voltage.

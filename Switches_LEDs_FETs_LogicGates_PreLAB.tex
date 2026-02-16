@@ -1,0 +1,47 @@
+% Created 2026-02-15 Sun 19:29
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Joel Boynton}
+\date{\today}
+\title{Switches, LEDS, FETs, Logic Gates\textsubscript{PreLAB}}
+\hypersetup{
+ pdfauthor={Joel Boynton},
+ pdftitle={Switches, LEDS, FETs, Logic Gates\textsubscript{PreLAB}},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.3 (Org mode 9.7.29)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\newpage
+\section{Questions}
+\label{sec:orgc2d2ca7}
+\begin{enumerate}
+\item \texttt{Given a source voltage of 5V, an LED forward voltage of 1V and a current-limiting resistor of 5kOhms what will the current be over the LED?}
+\begin{enumerate}
+\item \[\frac{V_{supply} - V_{LED}}{I_{LED}} = I = \frac{5V - 1V}{5000} = 0.0008A\]
+\end{enumerate}
+\item \texttt{Explain why using a switch in series with an LED can control whether the LED turns on or off}
+\begin{enumerate}
+\item Utilizing a switch within a circuit can determine whether the current is able to flow through or not. Thus, putting one in series with an LED will dictate whether or not the LED receives current. If the switch is up then the LED will receive no current (so it will be off); if the switch is down, current flows so the LED will receive current (turning it on).
+\end{enumerate}
+\item \texttt{What is the difference between an n-channel and p-channel MOSFET? Which one would you use to switch a circuit with a postitive voltage?}
+\begin{enumerate}
+\item The core difference is that a n-channel conducts when a positive voltage is applied, while a p-channel conducts with a negative voltage applied. So we would use a n-channel MOSFET in order to switch a circuit with a positive voltage.
+\end{enumerate}
+\end{enumerate}
+\end{document}

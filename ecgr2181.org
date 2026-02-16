@@ -39,3 +39,5 @@ CLOSED: [2026-02-06 Fri 09:59]
 *** [[id:be1c639c-fbc8-4d28-9606-3121b151e475][Circuits and Lab Equipment_PreLAB]]
 *** [[id:d44d9009-b7a8-4844-a9bb-d094a57079d6][Circuits and Lab Equipment_LAB]]
 *** [[id:7275d710-8ecf-4841-9cc2-4779990dd8eb][Circuits and Lab Equipment_PostLAB]]
+** Lab2
+*** [[id:99f455ed-434d-4aeb-be3e-7b65a926e135][Switches, LEDs, FETs, Logic Gates_PreLAB]]

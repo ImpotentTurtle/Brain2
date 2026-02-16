@@ -4,7 +4,7 @@
 #+title: Switches, LEDS, FETs, Logic Gates_PreLAB
 #+filetags:Labs
 
-#+options: tol:nil
+#+options: toc:nil
 \newpage
 
 * Questions

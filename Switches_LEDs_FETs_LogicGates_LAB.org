@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       11eeb9a7-193f-44bf-af97-7c964f39e8c1
+:END:
+#+title: Switches, LEDs, FETs, Logic Gates_LAB
+#+filetags:Labs
+
+* Switches and FETs
+
+* Switch Logic
+A. Power supply in series with two switches in series 1kOhm resistor and an LED on a breadboard
+   4. Record the state of the LED for each switch combination
+      a. --
+B. Re-wire so that switches are now in parallel but still in series with the rest of the circuit
+   9. Record the state of the LED for each switch state
+      a. --
+C. Connect circuit with a 1kOhm resistor in series, and place a switch and LED in parallel with each other
+   14. Record the state of the LED for each switch state
+      a. --
+* Transistor Level Logic Gates
+A. 1kOhm resistor and two FETs in series
+   10. Record the state of the LED for each combination of FET inputs.
+       a. --
+B. 1kOhm resistor and two FETs in parallel
+   19. Record the state of the LED for ach combbination of FET inputs
+       a. --

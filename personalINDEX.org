@@ -26,6 +26,9 @@
 :END:
 ** [[id:c6420f2f-4080-4f1c-a8c6-ad4978e382f0][NoteStructuring]]
 ** [[id:996583f3-06b1-41bd-9290-2823aaef10ac][VehementEP1Notes]]
+** TODO [[id:c9ad4485-8f5e-4f46-bc97-08cf2ac9a69e][Julie_March26]]
+:SCHEDULED: <2026-02-15 Sun>
+:DEADLINE: <2026-03-06 Fri>
 ** DONE [[id:c5356241-2efb-4087-a3f5-7e6a1252310a][5th Anniversary]]
 CLOSED: [2026-02-07 Sat 17:11]
 ** DONE [[id:24c3523b-926e-4773-be68-5a7cf66996d0][Physics2StudyPlan]]

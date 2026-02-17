@@ -93,6 +93,9 @@ SCHEDULED: <2026-02-23 Mon>
 ** STRT *SLAUGHTER*: Printing double
 - Note taken on [2026-01-22 Thu 08:58] \\
   When printing one sheet, two print out. When printing /n/ number of sheets, /2n/ sheets print out.
+** STRT *CLEDO*: Send-out Laptop for keyboard repair/replacement.
+:SCHEDULED: <2026-03-13 Fri>
+:DEADLINE: <2026-03-16 Mon>
 ** STRT *IT*: Address IT brookstone email rules in order for others to login easier.
 ** STRT *GREENLEE*: Needs chargers moved to other side of the lockbox.
 * Completed Tickets

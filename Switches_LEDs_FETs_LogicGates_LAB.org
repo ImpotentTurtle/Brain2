@@ -5,21 +5,46 @@
 #+filetags:Labs
 
 * Switches and FETs
-
+A. Switch in series with 1kOhm resistor and an LED
+   8. Results of this section
+      + The LED light turns off once we remove the V+ from pin 2
 * Switch Logic
 A. Power supply in series with two switches in series 1kOhm resistor and an LED on a breadboard
    4. Record the state of the LED for each switch combination
-      +  --
+      ~This represents an AND gate~
+        | Switch1 | Switch2 | OutPut |
+        |       0 |       0 |      0 |
+        |       1 |       0 |      0 |
+        |       0 |       1 |      0 |
+        |       1 |       1 |      1 |
 B. Re-wire so that switches are now in parallel but still in series with the rest of the circuit
    9. Record the state of the LED for each switch state
-      +  --
+      ~This represents an OR gate~
+        | Switch1 | Switch2 | Output |
+        |       0 |       0 |      0 |
+        |       1 |       0 |      1 |
+        |       0 |       1 |      1 |
+        |       1 |       1 |      1 |
 C. Connect circuit with a 1kOhm resistor in series, and place a switch and LED in parallel with each other
    14. Record the state of the LED for each switch state
-      +  --
+       ~This represents a NOT gate~
+        | Switch | Output |
+        |      1 |      0 |
+        |      0 |      1 |
 * Transistor Level Logic Gates
 A. 1kOhm resistor and two FETs in series
    10. Record the state of the LED for each combination of FET inputs.
-       +  --
+       ~This represents the behavior of an AND gate~
+        | Transistor1 | Transistor2 | OutPut |
+        |           0 |           0 |      0 |
+        |           1 |           0 |      0 |
+        |           0 |           1 |      0 |
+        |           1 |           1 |      1 |
 B. 1kOhm resistor and two FETs in parallel
    19. Record the state of the LED for ach combbination of FET inputs
-       +  --
+       ~This represents the behavior of an OR gate~
+        | Transistor1 | Transistor2 | OutPut |
+        |           0 |           0 |      0 |
+        |           1 |           0 |      1 |
+        |           0 |           1 |      1 |
+        |           1 |           1 |      1 |

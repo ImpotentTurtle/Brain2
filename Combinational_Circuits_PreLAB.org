@@ -22,10 +22,14 @@
    + This circuit would be apart of some sort of home alarm system. The alarm would trigger under the circumstances that vibration is sensor is activated or the motion and not the light sensor are activated. if the light sensor is on then the  signal will not go through (light sensor starts turned off and must be flipped on)
 3. Create, Diagram, and describe your own custom [[id:6339f8b8-d486-49ba-a3f9-6e4a8c865c31][combinational circuit]]
    + Greenhouse protection system
-     A. LDR
-     B. Microphone
-     C. Vibration Sensor
+     A. LDR - A
+     B. Microphone - B
+     C. Vibration Sensor - C
    + Turn on cooling fan + alert when:
      + Bright sunlight AND loud noise
      + OR
      + Bright sunlight AND vibration
+
+
+#+Caption:Diagram
+[[attachment:PreLAB3.png]]

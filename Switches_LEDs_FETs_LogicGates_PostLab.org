@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c9cb367d-4266-425c-9365-38eb9c64da10
+:END:
+#+title: Switches, LEDs, FETs, Logic Gates_PostLAB
+#+filetags:Labs
+
+#+options: toc:nil
+\newpage
+
+* Questions
+1. In the experiment, what challenges did you face when constructing the logic gates? how did you troubleshoot any issues?
+   + Because the switch that was provided was actually 4 switches, understanding how to orient it properly for series/parallel was definitely confusing. We troubleshooted by just flipping it until it did what we hoped it would do. 
+2. Could you make a gate with no resistors?
+   + The creation of logic gates are not dependent on resistor use, so yes.
+3. How would you go about adding another input to the two input gates using transistors?
+   + As demonstrated in the lab our input and outputs are directly related to the the transistors in the circuit. Thus, we would add another transistor to the circuit. 
+4. Discuss the real-world applications of using transistors to create logic gates. Where might you see similar circuits in everyday technology?
+   + We might use transistors to create logic gates for use in devices such as digital wacthes and calculators. 

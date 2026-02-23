@@ -48,3 +48,4 @@ CLOSED: [2026-02-06 Fri 09:59]
 ** Lab2
 *** [[id:99f455ed-434d-4aeb-be3e-7b65a926e135][Switches, LEDs, FETs, Logic Gates_PreLAB]]
 *** [[id:11eeb9a7-193f-44bf-af97-7c964f39e8c1][Switches, LEDs, FETs, Logic Gates_LAB]]
+*** [[id:c9cb367d-4266-425c-9365-38eb9c64da10][Switches, LEDs, FETs, Logic Gates_PostLAB]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2f9a946c-edb1-41d4-841b-1b2efc6ae63f
+:END:
+#+title: Combinational Logic_PreLab
+#+filetags:Labs

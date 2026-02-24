@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       36b9e872-e451-4ed1-a6ef-4f415bae29db
+:END:
+#+title: Combinational Logic_LAB
+#+filetags:Labs
+
+#+options: toc:nil
+
+* Results
+
+| Microphone | PIR | Light | *Output* |
+|          0 |   0 |     0 |      *0* |
+|          0 |   0 |     1 |      *0* |
+|          0 |   1 |     0 |      *1* |
+|          1 |   0 |     0 |      *1* |
+|          0 |   1 |     1 |      *0* |
+|          1 |   0 |     1 |      *1* |
+|          1 |   1 |     0 |      *1* |
+|          1 |   1 |     1 |      *1* |

@@ -51,3 +51,4 @@ CLOSED: [2026-02-06 Fri 09:59]
 *** [[id:c9cb367d-4266-425c-9365-38eb9c64da10][Switches, LEDs, FETs, Logic Gates_PostLAB]]
 ** Lab 3
 *** [[id:2f9a946c-edb1-41d4-841b-1b2efc6ae63f][Combinational Logic_PreLAB]]
+*** [[id:36b9e872-e451-4ed1-a6ef-4f415bae29db][Combinational Logic_LAB]]

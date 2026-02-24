@@ -58,11 +58,7 @@ CLOSED: [2025-12-03 Wed 11:25] DEADLINE: <2025-11-12 Wed>
 *** DONE *Wilson* --> IT-1308
 CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
 * Active Tickets
-** TODO *LAPTOPS*: Swap new suzanne laptop to give to new guy
-- Note taken on [2026-02-18 Wed 13:50] \\
-  The new laptop could be given to Laura, and with that, lauras given to replace the Library
-- Note taken on [2026-02-18 Wed 13:45] \\
-  Jolinda has tasked me in comparing the laptop that was originally to be given to Suzanne and the one just ordered for the new hire. If Suzannes replacement seems to be about the same quality, I am to give that to the new hire. Suzanne is still using her old laptop and will be leaving soon.
+
 ** TODO [#A] *WASKO*: iPad/Amplify Learning Login Issue
 - Note taken on [2026-02-10 Tue 08:28] \\
   On a select two Bridge Program iPads, logging in to Amplify Learning (WebApp) results in an infinite refres/redirection that never resolves. Issue, is not account exclusive, but device exclusive. Currently working with QV in order to discern what may be the issue
@@ -105,6 +101,12 @@ SCHEDULED: <2026-02-23 Mon>
 ** STRT *IT*: Address IT brookstone email rules in order for others to login easier.
 ** STRT *GREENLEE*: Needs chargers moved to other side of the lockbox.
 * Completed Tickets
+** DONE *LAPTOPS*: Swap new suzanne laptop to give to new guy
+CLOSED: [2026-02-24 Tue 09:22]
+- Note taken on [2026-02-18 Wed 13:50] \\
+  The new laptop could be given to Laura, and with that, lauras given to replace the Library
+- Note taken on [2026-02-18 Wed 13:45] \\
+  Jolinda has tasked me in comparing the laptop that was originally to be given to Suzanne and the one just ordered for the new hire. If Suzannes replacement seems to be about the same quality, I am to give that to the new hire. Suzanne is still using her old laptop and will be leaving soon.
 ** DONE *SLAUGHTER*: Unable to print to Bulldogs or Cali
 CLOSED: [2026-02-12 Thu 08:20]
 - Note taken on [2026-02-12 Thu 08:19] \\

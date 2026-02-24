@@ -7,7 +7,8 @@
 
 * Agenda
 ** TODO Reading (pg. 54-73)
-:DEADLINE: <2026-02-20 Fri>
+:SCHEDULED: <2026-02-16 Mon>
+:DEADLINE: <2026-03-01 Sun>
 ** DONE HomeWork1
 CLOSED: [2026-02-09 Mon 09:33]
 :DEADLINE: <2026-02-08 Sun>

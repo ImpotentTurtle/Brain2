@@ -5,7 +5,9 @@
 #+filetags: Brookstone
 
 #+options: toc:nil
-\newpage
+#+begin_export latex
+\clearpage
+#+end_export
 
 * Notes
 - It'd probably be wise to look over each Smartboard in all classrooms to make sure they are up to date with the inventory list. This way we can order proper replacement pens.
@@ -72,7 +74,7 @@ CLOSED: [2025-12-03 Wed 11:24] SCHEDULED: <2025-11-10 Mon>
   Many ads are appearing on readtheory.org webapp for Greenlees student ipads. This is causing a lot of disruption for her class. Reach out to QV in order to see if they can adjust filtration or blocking for this site.
 ** HOLD [#C] *BRITT*: Smart Board Interaction Trouble
 SCHEDULED: <2026-02-16 Mon>
-:DEADLINE: <2026-03-23 Mon>
+:DEADLINE: <2026-02-23 Mon>
 - Note taken on [2025-11-17 Mon 13:20] \\
   In the words of Kelly: /requires a lot of force to swipe, touch screen generally bad, Pull up screen doesn't work/ | Is it this bad when connected to a laptop?
 ** HOLD *ASEP*: Requested Garage Band for their iPads

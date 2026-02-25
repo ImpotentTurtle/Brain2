@@ -55,3 +55,7 @@ CLOSED: [2026-02-07 Sat 17:11]
 :PROPERTIES:
 :ID:       da6c18f3-dd93-45c9-a5da-0dad9353aab6
 :END:
+* MTG Deck Ideas
+:PROPERTIES:
+:ID:       5ea347d3-e21c-4801-a1f3-9acd7066b57d
+:END:

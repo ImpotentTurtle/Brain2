@@ -43,13 +43,22 @@ CLOSED: [2026-02-06 Fri 09:59]
 :ID:       806dade7-6621-480b-ae84-88e287a40def
 :END:
 ** Lab1
+:PROPERTIES:
+:ID:       1e75d86f-4619-42c0-8852-b8db8f963355
+:END:
 *** [[id:be1c639c-fbc8-4d28-9606-3121b151e475][Circuits and Lab Equipment_PreLAB]]
 *** [[id:d44d9009-b7a8-4844-a9bb-d094a57079d6][Circuits and Lab Equipment_LAB]]
 *** [[id:7275d710-8ecf-4841-9cc2-4779990dd8eb][Circuits and Lab Equipment_PostLAB]]
 ** Lab2
+:PROPERTIES:
+:ID:       30ec01bb-844b-424a-a33e-3ad7ad650bdc
+:END:
 *** [[id:99f455ed-434d-4aeb-be3e-7b65a926e135][Switches, LEDs, FETs, Logic Gates_PreLAB]]
 *** [[id:11eeb9a7-193f-44bf-af97-7c964f39e8c1][Switches, LEDs, FETs, Logic Gates_LAB]]
 *** [[id:c9cb367d-4266-425c-9365-38eb9c64da10][Switches, LEDs, FETs, Logic Gates_PostLAB]]
 ** Lab 3
+:PROPERTIES:
+:ID:       3a4b6477-3249-4a2d-aaae-bbdb36863d3d
+:END:
 *** [[id:2f9a946c-edb1-41d4-841b-1b2efc6ae63f][Combinational Logic_PreLAB]]
 *** [[id:36b9e872-e451-4ed1-a6ef-4f415bae29db][Combinational Logic_LAB]]

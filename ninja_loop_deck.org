@@ -7,8 +7,11 @@
 :PROPERTIES:
 :ID:       bd6d771c-7f0a-453f-9fa3-769381ef4e76
 :END:
-** Description: :ATTACH:
+** Description:
 Whenever you activate a ninjustsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once per turn.
 
-#+caption: Satoru Umezawa Commander
+#+caption: Satoru Umezawa ~ Card
 [[attachment:Satoru.png]]
+
+** Benefits
++ All creatures are Ninjas

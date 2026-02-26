@@ -38,6 +38,11 @@ CLOSED: [2026-02-06 Fri 09:59]
 :ID:       388f1362-1110-4560-a8dc-7631b04a59e6
 :END:
 *** [[id:6339f8b8-d486-49ba-a3f9-6e4a8c865c31][Combinational Circuits]]
+* VHDL/Simulations
+:PROPERTIES:
+:ID:       9f0822e1-e571-4c46-ba72-c769af788867
+:END:
+
 * LAB
 :PROPERTIES:
 :ID:       806dade7-6621-480b-ae84-88e287a40def
@@ -62,3 +67,4 @@ CLOSED: [2026-02-06 Fri 09:59]
 :END:
 *** [[id:2f9a946c-edb1-41d4-841b-1b2efc6ae63f][Combinational Logic_PreLAB]]
 *** [[id:36b9e872-e451-4ed1-a6ef-4f415bae29db][Combinational Logic_LAB]]
+*** [[id:3c4c0ba3-2c1f-46af-b644-e6d43d7786a5][Combinational Logic_PostLAB]]

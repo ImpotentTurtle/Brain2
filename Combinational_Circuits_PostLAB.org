@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3c4c0ba3-2c1f-46af-b644-e6d43d7786a5
+:END:
+#+title: Combinational Logic_PostLAB
+#+filetags:Labs
+
+#+options: toc:nil
+
+* Questions:
+1. My truth table was very consistent with the expected behavior of the circuit. Any discrepancies we ran into were simply do to a misplaced wire.
+
+2. Not all sensors behaved as expected and we had to read further in to them in order to properly fine tune them in order for our circuit to work as intended. Futhermore, understanding how to align them properly was challenging at first, but through trial and error we determined how to properly set-up the sensors.

@@ -12,6 +12,3 @@ Whenever you activate a ninjustsu ability, look at the top three cards of your l
 
 #+caption: Satoru Umezawa ~ Card
 [[attachment:Satoru.png]]
-
-** Benefits
-+ All creatures are Ninjas

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       44913e35-f3f0-49bc-af9e-485196681e3a
+:END:
+#+title: Boolean Algebra and Circuit Simplification_PreLAB
+#+filetags:Labs
+
+| Inputs | Digit | 7-Segment Outputs |
+|        |       |                   |
+|        |       |                   |
